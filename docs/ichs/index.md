@@ -2,15 +2,15 @@
 
 Welcome to ICHS: Immersion Cooling and Heat Storage
 
-.. toctree::
-   :maxdepth: 1
-   :caption: ABOUT
+```{contents} Table of Contents
+:depth: 3
+```
 
    livinglab
    status
    outputs
    visiting
-   
+   history   
 
 ## What is a living lab?
 
