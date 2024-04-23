@@ -10,7 +10,7 @@ Contents
    :maxdepth: 1
    :caption: PROJECTS
 
-    ichsindex
+   ichsindex
 
 
 Durham University is a leading High Performance Computing provider to
