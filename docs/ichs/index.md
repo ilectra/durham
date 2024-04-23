@@ -5,12 +5,11 @@ Welcome to ICHS: Immersion Cooling and Heat Storage
 ```{contents} Table of Contents
 :depth: 3
 ```
-
-   livinglab
-   status
-   outputs
-   visiting
-   history   
+[The living lab]{livinglab}
+[Project status]{status}
+[Project outputs]{outputs}
+[Visiting the living lab]{visiting}
+[A brief history of HPC cooling]{cooling}
 
 ## What is a living lab?
 
