@@ -8,4 +8,4 @@ Projects
    :maxdepth: 1
    :caption: PROJECTS
 
-    ichs/index.md
+    ichsindex.md
