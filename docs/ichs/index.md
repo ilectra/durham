@@ -2,6 +2,16 @@
 
 Welcome to ICHS: Immersion Cooling and Heat Storage
 
+.. toctree::
+   :maxdepth: 1
+   :caption: ABOUT
+
+   livinglab
+   status
+   outputs
+   visiting
+   
+
 ## What is a living lab?
 
 An ecosystem for studying real-life environments with iterative feeback processes through a lifecycle approach to innovate and improve ecosystem performance
