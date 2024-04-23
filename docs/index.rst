@@ -1,6 +1,8 @@
 Welcome to the HPC-related project information at Durham University
 ===================================================================
 
+
+
 Contents
 --------
 
@@ -9,3 +11,7 @@ Contents
    :caption: PROJECTS
 
     ichsindex
+
+
+Durham University is a leading High Performance Computing provider to
+the UK research community.
