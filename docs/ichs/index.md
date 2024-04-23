@@ -5,6 +5,7 @@ Welcome to ICHS: Immersion Cooling and Heat Storage
 ```{contents} Table of Contents
 :depth: 3
 ```
+
 [The living lab]{livinglab}
 [Project status]{status}
 [Project outputs]{outputs}
