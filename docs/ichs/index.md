@@ -2,9 +2,6 @@
 
 Welcome to ICHS: Immersion Cooling and Heat Storage
 
-```{contents} Table of Contents
-:depth: 3
-```
 
 ```{toctree}
 livinglab
@@ -14,12 +11,6 @@ visiting
 history
 ```
 
-
-- [The living lab](livinglab)
-- [Project status](status)
-- [Project outputs](outputs)
-- [Visiting the living lab](visiting)
-- [A brief history of HPC cooling](history)
 
 ## What is a living lab?
 
