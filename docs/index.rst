@@ -11,7 +11,7 @@ Contents
    :caption: PROJECTS
 
    ichs/index
-
+   hardwarelab/index
 
 Durham University is a leading High Performance Computing provider to
 the UK research community.
