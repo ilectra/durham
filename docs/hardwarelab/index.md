@@ -27,3 +27,4 @@ To make use of these facilities, please apply via [SAFE](https://safe.epcc.ed.ac
 - do018: AMD GPUs
 - do009: Misc
 
+A list of [historical hardware](historic.md) (now retired) is maintained.
