@@ -5,7 +5,7 @@ The Durham HPC Hardware Lab is hosted by the [COSMA HPC facility](https://cosma.
 These include:
 
 - [DINE:](https://cosma.readthedocs.io/en/latest/dine.html) A test cluster with BlueField-2 DPUs
-- [DINE2:](https://cosma.readthedocs.io/en/latest/dine.html#dine2) A test cluster with a composable fabric
+- [DINE2:](https://cosma.readthedocs.io/en/latest/dine.html#dine2) A test cluster with a composable fabric and NVIDIA Ampere GPUs
 - [GPU compute](https://cosma.readthedocs.io/en/latest/hardwarelab.html#gpu-compute)
   - NVIDIA A100, A30, H100
   - NVIDIA Grace Hopper
@@ -14,6 +14,9 @@ These include:
 - [Composable infrastructure](https://cosma.readthedocs.io/en/latest/composable.html)
 - [Rockport 6D Torus fabric](https://cosma.readthedocs.io/en/latest/rockportlab.html)
 - [Storage laboratory](https://cosma.readthedocs.io/en/latest/storagelab.html)
+- [Solar panel installation](https://cosma.readthedocs.io/en/latest/environmental.html#solar-panels)
+- [Immersion cooling](https://cosma.readthedocs.io/en/latest/immersion.html)
+- [Underground heat storage](https://durham.readthedocs.io/en/latest/ichs/index.html)
 
 To make use of these facilities, please apply via [SAFE](https://safe.epcc.ed.ac.uk/dirac) and request to join the relevant project:
 
