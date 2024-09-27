@@ -32,7 +32,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_logo = 'images/logo.png'
-html_favicon = 'images/logopax.ico'
+html_favicon = 'images/durham.ico'
 html_theme_options = {
     'logo_only': True
 }
