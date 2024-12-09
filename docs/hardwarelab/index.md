@@ -1,6 +1,8 @@
 # Durham HPC Hardware Lab
 
-The Durham HPC Hardware Lab is hosted by the [COSMA HPC facility](https://cosma.readthedocs.io) and provides Durham and UK researchers with access to cutting edge technologies and facilities.
+The Durham HPC Hardware Lab provides Durham and UK researchers with access to cutting edge technologies and facilities.
+
+## Testbed
 
 These include:
 
@@ -28,3 +30,10 @@ To make use of these facilities, please apply via [SAFE](https://safe.epcc.ed.ac
 - do009: Misc
 
 A list of [historical hardware](historic.md) (now retired) is maintained.
+
+## Access
+
+## Further information
+
+A lot of information about the Durham HPC Hardware Lab is still hosted by the [COSMA HPC documentation](https://cosma.readthedocs.io) although we are in the process of moving relevant information over to this site.
+
