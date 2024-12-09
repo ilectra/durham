@@ -22,11 +22,11 @@ These include:
 
 ## Access
 
-Access to the testbed installations is discussed [on a dedicated access page](access.md).
+Access to the testbed installations is presented [on a dedicated access page](access.md).
 
 ## How to contribute
 
-We appreciate help of colleagues to keep our pages up-to-date and consistent, and to add any missing information. The update of the pages is discussed [on a dedicated "how to contribute" page](contribute.md).
+We appreciate help of colleagues to keep our pages up-to-date and consistent, and to add any missing information. The update of the pages is presented [on a dedicated "how to contribute" page](contribute.md).
 
 ## Further information
 
