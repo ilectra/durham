@@ -5,7 +5,6 @@ It is hosted by the [COSMA HPC facility](https://cosma.readthedocs.io) (although
 
 These include:
 
-- [DINE:](https://cosma.readthedocs.io/en/latest/dine.html) A test cluster with BlueField-2 DPUs
 - [DINE2:](https://cosma.readthedocs.io/en/latest/dine.html#dine2) A test cluster with a composable fabric and NVIDIA Ampere GPUs
 - [GPU compute](https://cosma.readthedocs.io/en/latest/hardwarelab.html#gpu-compute)
   - NVIDIA A100, A30, H100
