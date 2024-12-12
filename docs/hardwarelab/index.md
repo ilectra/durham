@@ -3,7 +3,7 @@
 The Durham HPC Hardware Lab provides Durham and UK researchers with access to cutting edge technologies and facilities.
 It is hosted by the [COSMA HPC facility](https://cosma.readthedocs.io) (although you don't need to be a COSMA user to run on the hardware lab) and receives funding from Durham University, industry partners, UKRI (e.g. through ExCALIBUR) and DiRAC. 
 
-.. image:: ../image/dine.webp
+.. image:: image/dine.webp
   :width: 400
   :alt: Dine illustration
 
