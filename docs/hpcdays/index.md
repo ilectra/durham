@@ -1,8 +1,11 @@
-# Durham HPC Days 2025: AI and simulations - We all need HPC
+# Durham HPC Days 2025:
+## AI and simulations - We all need HPC
 
-```{toctree} 
+```{toctree}
+index.md
 hotels.md
 ```
+
 
 Department of Computer Science
 

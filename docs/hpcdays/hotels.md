@@ -1,6 +1,6 @@
 ## Hotels in Durham
 
-THere are plenty of hotels in Durham.  Here are a few:
+There are plenty of hotels in Durham.  Here are a few:
 
 - [Hotel Indigo](https://durham.hotelindigo.com/) (15-20 min walk)]
 - [Premier Inn](https://www.premierinn.com/gb/en/hotels/england/county-durham/durham/durham-city-centre-walkergate.html) (20-25 min walk)
