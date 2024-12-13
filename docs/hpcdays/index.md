@@ -2,7 +2,6 @@
 ## AI and simulations - We all need HPC
 
 ```{toctree}
-:maxdepth: 3
 index.md
 ```
 
