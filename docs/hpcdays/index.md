@@ -1,6 +1,9 @@
 # Durham HPC Days 2025: AI and simulations - We all need HPC
 
-Durham University, Department of Computer Science, Durham, UK
+Department of Computer Science
+
+Durham University, Upper Mountjoy Campus, Stockton Road, DH1 3LE, Durham, UK
+
 2nd June - 7th June 2025
 
 Following successful events in 2023 and 2024, we are happy to announce the 2025 Durham HPC Days in the week predating the ISC Conference in Hamburg. Our 2025 theme focuses on the fact that there is, despite people claiming different things, no gap between HPC and AI: HPC underpins progress in both simulations - high-performance and high throughput - and AI. We are all in the same boat. However, different communities have different needs how the HPC infrastructure is used and provided, and they also affect each other. Following this "difference but common interests", we will attempt to bring disciplines to Durham which had been underrepresented in previous years.
