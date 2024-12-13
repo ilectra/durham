@@ -1,5 +1,9 @@
 # Durham HPC Days 2025: AI and simulations - We all need HPC
 
+```{toctree} 
+hotels.md
+```
+
 Department of Computer Science
 
 Durham University, Upper Mountjoy Campus, Stockton Road, DH1 3LE, Durham, UK
