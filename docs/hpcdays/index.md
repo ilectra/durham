@@ -7,9 +7,7 @@ Following successful events in 2023 and 2024, we are happy to announce the 2025 
 
 ![HPCDays](../images/HPC-days-pic.png)
 
-:::{table} Programme
-:widths: auto
-:align: center
+## Programme
 
 |             | Monday    | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | --------- | --------- | ---------- | ---------- | ---------- | -------- |
@@ -20,10 +18,11 @@ Following successful events in 2023 and 2024, we are happy to announce the 2025 
 | 13:30-15:00 |
 | 15:00-15:30 | Coffee    | Coffee    | Coffee     | Coffee     | Coffee     |
 | 15:30-17:00 |
-:::
+
 
 ## Supporters
 
+If you would like to sponsor the event, please contact us!
 
 ## Call for presentations
 
