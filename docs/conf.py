@@ -37,15 +37,15 @@ html_theme_options = {
     'logo_only': True
 }
 
-# Show the edit this file
-html_show_sourcelink = True
+# Show the edit this file.  Didn't work.
+#html_show_sourcelink = True
 
-html_context = {
-    'display_github': True
-    'github_user': 'agb32'
-    'github_repo': 'durham'
-    'github_version': 'main/docs/'
-}
+#html_context = {
+#    'display_github': True
+#    'github_user': 'agb32'
+#    'github_repo': 'durham'
+#    'github_version': 'main/docs/'
+#}
 
 
 # -- Options for EPUB output
