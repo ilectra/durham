@@ -42,7 +42,8 @@ html_show_sourcelink = True
 
 html_context = {
     'display_github': True
-    'github_repo': 'agb32/durham'
+    'github_user': 'agb32'
+    'github_repo': 'durham'
     'github_version': 'main/docs/'
 }
 
