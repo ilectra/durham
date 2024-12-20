@@ -40,6 +40,10 @@ html_theme_options = {
 # Show the edit this file
 html_show_sourcelink = True
 
+html_context = {
+    "display_github": True
+}
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
