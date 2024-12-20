@@ -41,7 +41,9 @@ html_theme_options = {
 html_show_sourcelink = True
 
 html_context = {
-    "display_github": True
+    'display_github': True
+    'github_repo': 'agb32/durham'
+    'github_version': 'main/docs/'
 }
 
 
