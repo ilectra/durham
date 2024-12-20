@@ -15,6 +15,8 @@ workshops
 
 ## Programme
 
+The [detailed programme]{programme.md) provides a breakdown of sessions.  However, a summary is below for convenience.
+
 |             | Monday    | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | --------- | --------- | ---------- | ---------- | ---------- | -------- |
 |  9:00-10:30 |                        | [Tutorials](tutorials)  | Conference | Conference | Conference |          |
