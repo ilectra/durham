@@ -37,5 +37,9 @@ html_theme_options = {
     'logo_only': True
 }
 
+# Show the edit this file
+html_show_sourcelink = True
+
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
