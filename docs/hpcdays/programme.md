@@ -2,8 +2,8 @@
 
 This programme will be updated as content becomes available.
 
-````{tab-set}
-```{tab-item} Monday 2nd
+````{tabs}
+```{group-tab} Monday 2nd
 | Time | Main session | Breakout session |
 | ---- | ------------ | ---------------- |
 | 10:00 | Talk 1 | Talk 2 |
@@ -12,7 +12,7 @@ This programme will be updated as content becomes available.
 | 13:00 | Lunch | Lunch |
 ```
 
-```{tab-item} Tuesday 3rd
+```{group-tab} Tuesday 3rd
 | Time | Main session | Breakout session |
 | ---- | ------------ | ---------------- |
 | 10:00 | Talk 5 | Talk 6 |
@@ -21,7 +21,7 @@ This programme will be updated as content becomes available.
 | 13:00 | Lunch | Lunch |
 ```
 
-```{tab-item} Wednesday 4th
+```{group-tab} Wednesday 4th
 | Time | Main session | Breakout session |
 | ---- | ------------ | ---------------- |
 | 10:00 | Talk 1 | Talk 2 |
@@ -30,7 +30,7 @@ This programme will be updated as content becomes available.
 | 13:00 | Lunch | Lunch |
 ```
 
-```{tab-item} Thursday 5th
+```{group-tab} Thursday 5th
 | Time | Main session | Breakout session |
 | ---- | ------------ | ---------------- |
 | 10:00 | Talk 1 | Talk 2 |
@@ -39,7 +39,7 @@ This programme will be updated as content becomes available.
 | 13:00 | Lunch | Lunch |
 ```
 
-```{tab-item} Friday 6th
+```{group-tab} Friday 6th
 | Time | Main session | Breakout session |
 | ---- | ------------ | ---------------- |
 | 10:00 | Talk 1 | Talk 2 |
