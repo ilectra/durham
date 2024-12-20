@@ -6,6 +6,7 @@
 
 #### Bob Robey (AMD): Code optimisation for AMD's MI300A and other next-gen GPUs
 #### Rod Burns (Codeplay): SYCL tutorial
+#### Joe Wallwork (ICCS, Cambridge): FTorch
 
 
 ### 11:00-12:30
