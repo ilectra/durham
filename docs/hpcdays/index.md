@@ -1,6 +1,6 @@
 # Durham HPC Days 2025 - Programme
 
-Please consult the (HPC Days 2025 landing page) for related information on registration, submission and travel.
+Please consult the [HPC Days 2025 landing page](https://www.durham.ac.uk/research/institutes-and-centres/data-science/events-/durham---hpc-days/) for related information on registration, submission and travel.
 
 ```{toctree}
 :hidden:
