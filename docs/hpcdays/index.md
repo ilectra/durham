@@ -8,6 +8,7 @@ hotels
 contribute
 tutorials
 workshops
+cfp
 ```
 
 
