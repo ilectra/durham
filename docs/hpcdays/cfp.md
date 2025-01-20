@@ -1,11 +1,12 @@
 # Call for presentations
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ===============================================================
                   Call for presentations
                       HPC Days 2024
                Durham, 2 June – 7 June 2025
 ===============================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Workshop site: https://edin.ac/3DbxZlv
 Submission deadline: 15th of March AoE
