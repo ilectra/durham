@@ -15,5 +15,5 @@ This programme will be updated as content becomes available.
 
 | Time        | Room t.b.a.  | Room t.b.a. |
 | ----------- | ------------ | ---------------- |
-| 9:00-10:30 | [AMD tutorial](tutorials.md) | Talk 2 |
-| 11:00-12:30 | [AMD tutorial](tutorials.md) | Talk 2 |
+| 9:00-10:30 | [AMD MI300A tutorial](tutorials.md) | Talk 2 |
+| 11:00-12:30 | [AMD MI300A tutorial](tutorials.md) | Talk 2 |
