@@ -22,7 +22,7 @@ The [detailed programme](programme.md) provides a breakdown of sessions.  Howeve
 | ----------- | --------- | --------- | ---------- | ---------- | ---------- | -------- |
 |  9:00-10:30 |                        | [Tutorials](tutorials)  | Conference | Conference | Conference |          |
 | 10:30-11:00 | Coffee                 | Coffee                  | Coffee     | Coffee     | Coffee     |
-| 11:00-12:30 | [Tutorials](tutorials.md)  | Conference              | Conference | Conference |
+| 11:00-12:30 | [Tutorials](tutorials.md)  | [Tutorials](tutorials)              | Conference | Conference |
 | 12:30-13:30 | Lunch     | Lunch      | Lunch                   | Lunch      | Lunch      |
 | 13:30-15:00 | [Tutorials](tutorials.md) |                         |            |            | [Tutorials](tutorials.md)
 | 15:00-15:30 | Coffee    | Coffee     | Coffee                  | Coffee     | Coffee     |
