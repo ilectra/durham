@@ -5,5 +5,5 @@
 Chair: Alan Real
 
 
-## Tuedsay, 3 June 2025
+## Tuesday, 3 June 2025
 
