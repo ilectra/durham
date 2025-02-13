@@ -1,23 +1,23 @@
-# Call for presentations
+# HPC Days 2025: Call for Presentations
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ===============================================================
                   Call for presentations
                       HPC Days 2024
                Durham, 2 June – 7 June 2025
 ===============================================================
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-Workshop site: https://edin.ac/3DbxZlv
-Submission deadline: 15th of March AoE
-Notification: 10th of April
+**Workshop site:** [https://edin.ac/3DbxZlv](https://edin.ac/3DbxZlv) \
+**Submission deadline:** 15th of March, AoE \
+**Notification deadline:** 10th of April 
 
-Theme: AI and simulations - We all need HPC
+## Theme: AI and simulations - We all need HPC
 
 As we continue to progress further into the exascale era it is becoming clearer that, despite people's claims, there is really no gap between HPC and AI. Both these areas require high-performance, rely on the same hardware technologies and often require staff with similar skillsets. Consequently, HPC can be thought of as underpinning both simulation of scientific computing workloads and AI, and we are all in the same boat. However, different communities have different needs around how the HPC infrastructure is used and provided, which then also affect each other. Following this “difference but common interests” theme, we aim to bring disciplines to Durham which have typically been underrepresented in previous years. There are many challenging issues shared between communities but are potentially solved in different ways, and hence we aim for HPC Days 2025 to explore these, identify synergies and shared solutions.
 
-Call for presentations
-----------------------
+<!-- Call for presentations
+---------------------- -->
 
 We invite proposals for talks, typically 15-25 minutes long, which will be embedded into a wider programme hosting invited speakers and vendor presentations. Suggested topics of interest for this conference include (but are not limited to):
 
@@ -38,14 +38,14 @@ As HPC is a large community that encompasses many different roles, we welcome bo
 Submission details
 ------------------
 
-We request submission of an abstract, approximate length 300 words which will be peer reviewed, via the EasyChair system at https://easychair.org/conferences/?conf=hpcdays25 .
-Successful presentations will be required to register and attend the conference in-person.
+We request submission of an abstract, approximate length 300 words which will be peer reviewed via the EasyChair system at [https://easychair.org/conferences/?conf=hpcdays25](https://easychair.org/conferences/?conf=hpcdays25).
 
+**Successful presentations will be required to register and attend the conference in-person.**
 
 Contact
 -------
 
-The conference is organised by Durham's Institute for Data Science. Enquiries can be sent to idas.director@durham.ac.uk.
+The conference is organised by Durham's Institute for Data Science. Enquiries can be sent to **idas.director@durham.ac.uk**.
 
 
 Conference Committee
