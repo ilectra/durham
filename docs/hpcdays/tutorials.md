@@ -1,18 +1,23 @@
 # Tutorials
 
 
-## SmartSim
+## HPE: SmartSim
 Presenter: Alessandro Rigazzi (HPE)
-Time: Monday, 
+- Monday 13:30 - 15:00 - Session 1
+- Monday 15:00 - 15:30 - Coffee break 
+- Monday 15:30 - 17:00 - Session 2
 
+## AMD: Code optimisation for AMD's MI300A and other next-gen GPUs
+Presenter: Bob Robey (AMD)
 
-## Bob Robey (AMD): Code optimisation for AMD's MI300A and other next-gen GPUs
-## Rod Burns (Codeplay): SYCL tutorial
-## Joe Wallwork (ICCS, Cambridge): FTorch
+## Codeplay: SYCL tutorial
+Presenter: Rod Burns (Codeplay) 
+
+## ICCS: FTorch
+Presenter: Joe Wallwork (ICCS, Cambridge)
 
 ## Darshan profiling on Lustre sponsored by the Lustre User Group
-Robert Esnouf, Gareth Wilson
-
+Presenters: Robert Esnouf, Gareth Wilson 
 - Tuesday 9:00-10:00 - Talks
 - Tuesday 10:00-10:30 - Account sign up
 - Tuesday 10:30-11:00 - Coffee break
