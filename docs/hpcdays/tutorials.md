@@ -19,7 +19,7 @@ Presenter: Rod Burns (Codeplay)
 ## ICCS: FTorch
 Presenter: Joe Wallwork (ICCS, Cambridge)
 
-## Darshan profiling on Lustre sponsored by the Lustre User Group
+## Lustre User Group: Darshan profiling on Lustre 
 Presenters: Robert Esnouf, Gareth Wilson 
 - Tuesday 9:00-10:00 - Talks
 - Tuesday 10:00-10:30 - Account sign up
