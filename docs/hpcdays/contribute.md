@@ -1,4 +1,4 @@
-# How to contribute
+# How to contribute to the webpages
 
 We appreciate help of colleagues to keep our pages up-to-date and consistent, and to add any missing information. To make a contribution
 
