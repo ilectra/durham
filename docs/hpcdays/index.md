@@ -4,11 +4,10 @@ Please consult the [HPC Days 2025 landing page](https://www.durham.ac.uk/researc
 
 ```{toctree}
 :hidden:
-hotels
-contribute
+cfp
 tutorials
 workshops
-cfp
+contribute
 ```
 
 
