@@ -8,4 +8,4 @@ To make use of these facilities, please follow [these instructions](https://cosm
 - do017: Intel GPUs
 - do018: AMD GPUs
 
-
+Please contact Alastair Basden (a.g.basden@durham.ac.uk) or Tobias Weinzierl (tobias.weinzierl@durham.ac.uk) before you ask for an account, as we will have to review your request.
