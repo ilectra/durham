@@ -9,6 +9,9 @@ Presenter: Alessandro Rigazzi (HPE)
 
 ## AMD: Code optimisation for AMD's MI300A and other next-gen GPUs
 Presenter: Bob Robey (AMD)
+- Tuesday 9:00-10:30 - Session 1
+- Tuesday 10:30-11:00 - Coffee break
+- Tuesday 11:00-12:30 - Session 2
 
 ## Codeplay: SYCL tutorial
 Presenter: Rod Burns (Codeplay) 
