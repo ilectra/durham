@@ -23,7 +23,7 @@ contribute
 | 12:30-13:30 | Lunch                  | Lunch      | Lunch                   | Lunch      | Lunch      |
 | 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL |            |            | [Tutorials](tutorials.md)
 | 15:00-15:30 | Coffee    | Coffee     | Coffee                  | Coffee     | Coffee     |
-| 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCLHi Tobias, |            |            | [Tutorials](tutorials.md)
+| 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL |            |            | [Tutorials](tutorials.md)
 
 
 
