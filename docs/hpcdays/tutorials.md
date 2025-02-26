@@ -22,10 +22,16 @@ Presenter: Bob Robey (AMD)
 
 Description: t.b.d.
 
-## Codeplay: SYCL tutorial
-Presenter: Rod Burns (Codeplay) 
+## Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
+Presenter: t.b.c. (Codeplay) 
+- Tuesday 13:30 - 15:00 - Session 1
+- Tuesday 15:00 - 15:30 - Coffee break 
+- Tuesday 15:30 - 17:00 - Session 2
 
-Description: t.b.d.
+Parallel programming can be used to take advantage of heterogeneous architectures including GPUs, FPGAs, XPUs, IPUs, TPUs or special units on CPUs to significantly increase the performance of applications. SYCL is an open standard programming model that is defined by the industry and lets developers support many of these processors from different vendors using a single code base and only modern standard C++ code.
+
+This tutorial will give software developers the knowledge they need to begin developing parallel applications using C++ and the SYCL programming model. Our goal is to equip attendees with the skills they need to build highly performant applications that can be used in the fields of HPC and AI and deployed to multiple hardware platforms. We will cover the fundamentals of the SYCL programming model before moving to more advanced topics. We will explore how SYCL can be used to write serious applications, covering intermediate to advanced features of SYCL as well as some of the tools and libraries that support SYCL application development.
+This is a hands-on tutorial, attendees will work through exercises that represent key design patterns encountered by people who program heterogeneous systems and deploy this code to multiple processors from different vendors.
 
 ## Lustre User Group: Darshan profiling on Lustre 
 Presenters: Robert Esnouf, Gareth Wilson 
