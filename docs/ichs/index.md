@@ -9,6 +9,7 @@ status
 outputs
 visiting
 history
+similar
 ```
 
 
