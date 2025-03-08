@@ -1,4 +1,4 @@
-# Historical hardware in the Durham HPC Hardware Lab
+# Historical hardware
 
 Hardware that has previously been hosted by the hardware lab, but has since reached end-of-life includes
 
