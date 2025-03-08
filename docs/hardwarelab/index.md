@@ -30,13 +30,7 @@ These include:
 - [Underground heat storage](https://durham.readthedocs.io/en/latest/ichs/index.html)
 
 
-## Access
-
-Information about how to [access the HPC Hardward Lab](access.md) and associated testbed installations is described [on a dedicated access page](access.md).
-
-## How to contribute
-
-We appreciate the help of colleagues to keep these pages up-to-date and consistent, and to add any missing information. Please follow the process described on the [contribution](contribute.md) pages.
+Information about how to [access the HPC Hardward Lab](access.md) and associated testbed installations is described [on a dedicated access page](access.md). We appreciate the help of colleagues to keep these pages up-to-date and consistent, and to add any missing information. Please follow the process described on the [contribution](contribute.md) pages.
 
 ## Further information
 
