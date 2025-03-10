@@ -9,7 +9,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 **Workshop site:** [https://edin.ac/3DbxZlv](https://edin.ac/3DbxZlv) \
-**Submission deadline:** 15th of March, AoE \
+**Submission deadline:** 1st of April, AoE \
 **Notification deadline:** 10th of April 
 
 ## Theme: AI and simulations - We all need HPC
