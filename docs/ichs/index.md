@@ -7,6 +7,7 @@ Welcome to ICHS: Immersion Cooling and Heat Storage
 livinglab
 status
 outputs
+benefits
 visiting
 history
 similar
