@@ -18,7 +18,8 @@ contribute
 
 |             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-|  9:00-10:30 |                                     | [Tutorials](tutorials): Lustre                   | Conference & DiRAC Benchmarking discussion | Conference | [Workshops](workshops.md): Numerical Relativity | Social   |
+|  9:00-9:45  |                                     |                                                  |                                            |            | [Keynote](keynotes.md): t.b.a. (Numerical Relativity) | Social   |
+|  9:45-10:30 |                                     | [Tutorials](tutorials): Lustre                   | Conference & DiRAC Benchmarking discussion | Conference | [Workshops](workshops.md): Numerical Relativity | Social   |
 |             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference | Conference | [Workshops](workshops.md): Numerical Relativity | Social |
 | 10:30-11:00 | Coffee                              | Coffee                  | Coffee     | Coffee     | Coffee     | Social
 | 11:00-12:30 | [Tutorials](tutorials.md): FTorch   | [Tutorials](tutorials): Lustre                   | Conference & ExCLIBUR HES Breakout  | Conference   | Conference  | Social
