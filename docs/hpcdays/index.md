@@ -18,16 +18,16 @@ contribute
 
 |             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-|  9:00-10:30 |                                     | [Tutorials](tutorials): Lustre                   | Conference & DiRAC Benchmarking discussion | Conference | Conference |          |
-|             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference | Conference | Conference |          |
-| 10:30-11:00 | Coffee                 | Coffee                  | Coffee     | Coffee     | Coffee     |
+|  9:00-10:30 |                                     | [Tutorials](tutorials): Lustre                   | Conference & DiRAC Benchmarking discussion | Conference | [Workshops](workshops.md): Numerical Relativity |          |
+|             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference | Conference | Conference | Numerical Relativity |
+| 10:30-11:00 | Coffee                              | Coffee                  | Coffee     | Coffee     | Coffee     |
 | 11:00-12:30 | [Tutorials](tutorials.md): FTorch   | [Tutorials](tutorials): Lustre                   | Conference & ExCLIBUR HES Breakout  | Conference  |
 |             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference & ExCLIBUR HES Breakout  | Conference |
-| 12:30-13:30 | Lunch                  | Lunch      | Lunch                   | Lunch      | Lunch      |
-| 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | [Tutorials](tutorials.md)
+| 12:30-13:30 | Lunch                               | Lunch      | Lunch                   | Lunch      | Lunch      |
+| 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | 
 |             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            | [Workshops](workshops.md): CoSeC
 | 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     |
-| 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |            |            | [Tutorials](tutorials.md)
+| 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |            |            | 
 |             |                                     | [Workshops](workshops.md): DiRAC RSEs (internal) |            |            | [Workshops](workshops.md): CoSeC
 
 
