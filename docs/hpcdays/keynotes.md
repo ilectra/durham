@@ -4,7 +4,7 @@
 
 ## Dr Katy Clough (STFC Ernest Rutherford Research Fellow)
 
-[![]([image.png](https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG)](https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG)
+![](https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG)
 
 Title: t.b.c.
 Slot: t.b.c.
