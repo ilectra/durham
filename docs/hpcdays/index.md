@@ -24,7 +24,7 @@ contribute
 | 11:00-12:30 | [Tutorials](tutorials.md): FTorch   | [Tutorials](tutorials): Lustre                   | Conference & ExCLIBUR HES Breakout  | Conference   | Conference  | Social
 |             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference & ExCLIBUR HES Breakout  | Conference   | Conference | Social
 | 12:30-13:30 | Lunch                               | Lunch      | Lunch                   | Lunch      | Lunch      | Social
-| 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | Social
+| 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | |  Social
 |             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            | [Workshops](workshops.md): CoSeC | Social
 | 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     |
 | 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |            |            | 
