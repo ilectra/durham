@@ -25,10 +25,10 @@ contribute
 |             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference & ExCLIBUR HES Breakout  | Conference |
 | 12:30-13:30 | Lunch                  | Lunch      | Lunch                   | Lunch      | Lunch      |
 | 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | [Tutorials](tutorials.md)
-|             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            | 
+|             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            | [Workshops](workshops.md): CoSeC
 | 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     |
 | 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |            |            | [Tutorials](tutorials.md)
-|             |                                     | [Workshops](workshops.md): DiRAC RSEs (internal) |            |            | 
+|             |                                     | [Workshops](workshops.md): DiRAC RSEs (internal) |            |            | [Workshops](workshops.md): CoSeC
 
 
 
