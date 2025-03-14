@@ -18,7 +18,7 @@ contribute
 
 |             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-|  9:00-10:30 |                                     | [Tutorials](tutorials): Lustre                   | Conference | Conference | Conference |          |
+|  9:00-10:30 |                                     | [Tutorials](tutorials): Lustre                   | Conference & DiRAC Benchmarking discussion | Conference | Conference |          |
 |             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference | Conference | Conference |          |
 | 10:30-11:00 | Coffee                 | Coffee                  | Coffee     | Coffee     | Coffee     |
 | 11:00-12:30 | [Tutorials](tutorials.md): FTorch   | [Tutorials](tutorials): Lustre                   | Conference & ExCLIBUR HES Breakout  | Conference  |
