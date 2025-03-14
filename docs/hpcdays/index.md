@@ -28,7 +28,8 @@ contribute
 | 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | |  Social |
 |             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            | [Workshops](workshops.md): CoSeC | Social |
 | 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     | |
-| 15:30-17:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |            |            |  |
+| 15:30-16:15 <td rowspan="2">[Tutorials](tutorials.md): SmartSim</td> [Tutorials](tutorials.md): SYCL                  |            |            |  |
+| 16:30-18:00 |                                                          | [Tutorials](tutorials.md): SYCL                  |            |            |  |
 |             |                                     | [Workshops](workshops.md): DiRAC RSEs (internal) |            |            | [Workshops](workshops.md): CoSeC ||
 
 
