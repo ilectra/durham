@@ -6,6 +6,7 @@ Please consult the [HPC Days 2025 landing page](https://www.durham.ac.uk/researc
 :hidden:
 cfp
 tutorials
+keynotes
 workshops
 contribute
 ```
