@@ -27,4 +27,14 @@ As this is an Intel node while Cosma's login nodes are AMD, we recommend to comp
 
 The module oneAPI should work as well.
 
+## Performance
+
+To assess the node's performance, we recommend to run
+
+     module load likwid
+     likwid-bench
+
+Type in -a or -h to see an overview of the available metrics. Stream Triad and peak are the ones we usually recommend to look at first.
+
+
 
