@@ -16,22 +16,76 @@ contribute
 
 ## Programme
 
-|             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
-| ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-|  9:00-9:45  |                        <td rowspan="3">[Tutorials](tutorials): Lustre <br /> [Tutorials](tutorials): AMD GPUs  | |                                         | [Keynote](keynotes.md): t.b.a. (Katy Clough) <td rowspan=13>Social
-|  9:45-10:30 |                                      |                    DiRAC Benchmarking discussion || [Workshops](workshops.md): Numerical Relativity | 
-|             |                                       |                Conference | ||
-| 10:30-11:00 | Coffee                              | Coffee                  | Coffee     | Coffee     | Coffee    | 
-| 11:00-12:30 | [Tutorials](tutorials.md): FTorch   | [Tutorials](tutorials): Lustre                   | Conference & ExCLIBUR HES Breakout  | Conference   | [Workshops](workshops.md): Numerical Relativity | 
-|             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference & ExCLIBUR HES Breakout  | Conference   | Conference | 
-| 12:30-13:30 | Lunch                               | Lunch      | Lunch                   | Lunch      | Lunch      | 
-| 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | [Workshops](workshops.md): CoSeC |  
-|             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            |  | 
-| 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     | |
-| 15:30-16:15 <td rowspan="2">[Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |          | <td rowspan=3>[Workshops](workshops.md): CoSeC</td>
-| 16:30-18:00 |                                                          | [Tutorials](tutorials.md): SYCL                  |            |            |  
-|             |                                     | [Workshops](workshops.md): DiRAC RSEs (internal) |            |            |  |
-
+<table>
+<tr>
+  <td></td>
+  <td><b>Monday</b></td>
+  <td><b>Tuesday</b></td>
+  <td><b>Wednesday</b></td>
+  <td><b>Thursday</b></td>
+  <td><b>Friday</b></td>
+  <td><b>Saturday</b></td>
+</tr>
+<tr>
+  <td> 9:00-9:45 </td>
+  <td> </td>
+  <td rowspan="2"> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td> </td>
+  <td> Keynote: t.b.a. (Philipp Neumann) </td>
+  <td> Keynote: t.b.a. (Katy Clough) </td>
+  <td rowspan=13> Social </td>
+</tr>
+<tr>
+  <td> 9:45-10:30 </td>
+  <td>  </td>
+  <td> DiRAC Benchmarking discussion </td>
+  <td>  </td>
+  <td> Workshop: Numerical Relativity </td>
+</tr> 
+<tr>
+  <td> 10:30-11:00 </td>
+  <td colspan="5" align="center">Coffee</td>
+</tr>
+<tr>
+  <td> 11:00-12:30 </td>
+  <td> Tutorial: FTorch </td>
+  <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td> DiRAC Benchmarking discussion </td>
+  <td>  </td>
+  <td> Workshop: Numerical Relativity </td>
+</tr> 
+<tr>
+  <td> 12:30-13:30 </td>
+  <td colspan="5" align="center">Lunch</td>
+</tr>
+<tr>
+  <td> 13:30-15:00 </td>
+  <td> Tutorial: SmartSim </td>
+  <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs </td>
+  <td>  </td>
+  <td>  </td>
+  <td> Workshop: CoSeC </td>
+</tr> 
+<tr>
+  <td> 15:00-15:30 </td>
+  <td colspan="5" align="center">Coffee</td>
+</tr>
+<tr>
+  <td> 15:30-16:15 </td>
+  <td rowspan="2"> Tutorial: SmartSim </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td rowspan="2"> Workshop: CoSeC </td>
+</tr>
+<tr>
+  <td> 16:30-18:00 </td>
+  <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
+  <td> </td>
+  <td> </td>
+</tr>
+  
+</table>
 
 
 ## Supporters
