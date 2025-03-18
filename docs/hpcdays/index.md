@@ -46,6 +46,18 @@ contribute
   <td> 10:30-11:00 </td>
   <td colspan="5" align="center">Coffee</td>
 </tr>
+<tr>
+  <td> 11:00-12:30 </td>
+  <td>  </td>
+  <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td> DiRAC Benchmarking discussion </td>
+  <td>  </td>
+  <td> Workshop: Numerical Relativity </td>
+</tr> 
+<tr>
+  <td> 12:30-13:30 </td>
+  <td colspan="5" align="center">Lunch</td>
+</tr>
 </table>
 
 
