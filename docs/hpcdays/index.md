@@ -61,7 +61,7 @@ contribute
 <tr>
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
-  <td> Tutorial: SYCL </td>
+  <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs </td>
   <td>  </td>
   <td>  </td>
   <td> Workshop: CoSeC </td>
@@ -70,19 +70,22 @@ contribute
   <td> 15:00-15:30 </td>
   <td colspan="5" align="center">Coffee</td>
 </tr>
+<tr>
+  <td> 15:30-16:15 </td>
+  <td rowspan="2"> Tutorial: SmartSim </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td rowspan="2"> CoSeC </td>
+</tr>
+<tr>
+  <td> 16:30-18:00 </td>
+  <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
+  <td> </td>
+  <td> </td>
+</tr>
+  
 </table>
-
-
-
-|             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
-| ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-| 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | [Workshops](workshops.md): CoSeC |  
-|             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            |  | 
-| 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     | |
-| 15:30-16:15 <td rowspan="2">[Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |          | <td rowspan=3>[Workshops](workshops.md): CoSeC</td>
-| 16:30-18:00 |                                                          | [Tutorials](tutorials.md): SYCL                  |            |            |  
-|             |                                     | [Workshops](workshops.md): DiRAC RSEs (internal) |            |            |  |
-
 
 
 ## Supporters
