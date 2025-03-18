@@ -48,7 +48,7 @@ contribute
 </tr>
 <tr>
   <td> 11:00-12:30 </td>
-  <td>  </td>
+  <td> Tutorial: FTorch </td>
   <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
   <td> DiRAC Benchmarking discussion </td>
   <td>  </td>
@@ -64,12 +64,6 @@ contribute
 
 |             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-|  9:45-10:30 |                                      |                    DiRAC Benchmarking discussion || [Workshops](workshops.md): Numerical Relativity | 
-|             |                                       |                Conference | ||
-| 10:30-11:00 | Coffee                              | Coffee                  | Coffee     | Coffee     | Coffee    | 
-| 11:00-12:30 | [Tutorials](tutorials.md): FTorch   | [Tutorials](tutorials): Lustre                   | Conference & ExCLIBUR HES Breakout  | Conference   | [Workshops](workshops.md): Numerical Relativity | 
-|             |                                     | [Tutorials](tutorials): AMD GPUs                 | Conference & ExCLIBUR HES Breakout  | Conference   | Conference | 
-| 12:30-13:30 | Lunch                               | Lunch      | Lunch                   | Lunch      | Lunch      | 
 | 13:30-15:00 | [Tutorials](tutorials.md): SmartSim | [Tutorials](tutorials.md): SYCL                  |         |            | [Workshops](workshops.md): CoSeC |  
 |             |                                     | [Workshops](workshops.md): DiRAC RSEs            |         |            |  | 
 | 15:00-15:30 | Coffee                              | Coffee                           | Coffee                  | Coffee     | Coffee     | |
