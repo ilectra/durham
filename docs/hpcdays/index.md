@@ -29,13 +29,26 @@ contribute
 <tr>
   <td> 9:00-9:45 </td>
   <td> </td>
-  <td rowspan="3"> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td rowspan="2"> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
   <td> </td>
   <td> Keynote: t.b.a. (Philipp Neumann) </td>
   <td> Keynote: t.b.a. (Katy Clough) </td>
   <td rowspan=13> Social </td>
 </tr>
+<tr>
+  <td> 9:45-10:30 </td>
+  <td>  </td>
+  <td> DiRAC Benchmarking discussion </td>
+  <td>  </td>
+  <td> Workshop: Numerical Relativity </td>
+</tr> 
+<tr>
+  <td> 10:30-11:00 </td>
+  <td colspan="5" align="center">Coffee</td>
+</tr>
 </table>
+
+
 
 |             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
