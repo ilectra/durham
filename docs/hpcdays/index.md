@@ -58,6 +58,18 @@ contribute
   <td> 12:30-13:30 </td>
   <td colspan="5" align="center">Lunch</td>
 </tr>
+<tr>
+  <td> 13:30-15:00 </td>
+  <td> Tutorial: SmartSim </td>
+  <td> Tutorial: SYCL </td>
+  <td>  </td>
+  <td>  </td>
+  <td> Workshop: CoSeC </td>
+</tr> 
+<tr>
+  <td> 15:00-15:30 </td>
+  <td colspan="5" align="center">Coffee</td>
+</tr>
 </table>
 
 
