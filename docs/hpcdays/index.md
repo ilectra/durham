@@ -16,9 +16,29 @@ contribute
 
 ## Programme
 
+<table>
+<tr>
+  <td></td>
+  <td><b>Monday</b></td>
+  <td><b>Tuesday</b></td>
+  <td><b>Wednesday</b></td>
+  <td><b>Thursday</b></td>
+  <td><b>Friday</b></td>
+  <td><b>Saturday</b></td>
+</tr>
+<tr>
+  <td> 9:00-9:45 </td>
+  <td> </td>
+  <td rowspan="3"> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td> </td>
+  <td> Keynote: t.b.a. (Philipp Neumann) </td>
+  <td> Keynote: t.b.a. (Katy Clough) </td>
+  <td rowspan=13> Social </td>
+</tr>
+</table>
+
 |             | Monday                 | Tuesday   | Wednesday  | Thursday   | Friday     | Saturday |
 | ----------- | ---------------------- | --------- | ---------- | ---------- | ---------- | -------- |
-|  9:00-9:45  |                        <td rowspan="3">[Tutorials](tutorials): Lustre <br /> [Tutorials](tutorials): AMD GPUs  | |                                         | [Keynote](keynotes.md): t.b.a. (Katy Clough) <td rowspan=13>Social
 |  9:45-10:30 |                                      |                    DiRAC Benchmarking discussion || [Workshops](workshops.md): Numerical Relativity | 
 |             |                                       |                Conference | ||
 | 10:30-11:00 | Coffee                              | Coffee                  | Coffee     | Coffee     | Coffee    | 
