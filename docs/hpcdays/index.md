@@ -76,7 +76,7 @@ contribute
   <td> </td>
   <td> </td>
   <td> </td>
-  <td rowspan="2"> CoSeC </td>
+  <td rowspan="2"> Workshop: CoSeC </td>
 </tr>
 <tr>
   <td> 16:30-18:00 </td>
