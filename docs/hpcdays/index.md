@@ -16,6 +16,7 @@ contribute
 
 ## Programme
 
+<!-- <table border="1" cellspacing="0" cellpadding="5"> -->
 <table>
 <tr>
   <td></td>
@@ -63,7 +64,7 @@ contribute
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs </td>
   <td>  </td>
-  <td>  </td>
+  <td> Workshop: WHPC </td>
   <td> Workshop: CoSeC </td>
 </tr> 
 <tr>
@@ -73,14 +74,14 @@ contribute
 <tr>
   <td> 15:30-16:15 </td>
   <td rowspan="2"> Tutorial: SmartSim </td>
+  <td rowspan="2"> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
   <td> </td>
-  <td> </td>
-  <td> </td>
+  <td rowspan="2"> Workshop: WHPC </td>
   <td rowspan="2"> Workshop: CoSeC </td>
 </tr>
 <tr>
   <td> 16:30-18:00 </td>
-  <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
+  <td> </td>
   <td> </td>
   <td> </td>
 </tr>

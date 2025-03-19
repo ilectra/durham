@@ -8,3 +8,21 @@ This session is for the DiRAC RSEs to present their work to the UK HPC community
 
 - 13:30-15:00: 4x20-minute talks (speakers to be confirmed)
 - 15:30-17:00: This workshop consists of two parts, and the second part is for DiRAC RSEs only.
+
+## Thursday, 5 June 2025
+
+### WHPC: 13:30-15:00 and 15:30-17:00
+
+Organised by representatives from the Women in High Performance Computing (WHPC) community, this session will explore new, sustainable and realistic strategies for improving and supporting the diversity in our community. Don’t miss this opportunity to be part of the conversation on overcoming our current barriers to change, exploring the crucial role of funders and leaders, and discovering how we can all contribute to a more inclusive future in HPC and beyond.
+
+More details coming soon! 
+
+## Friday, 6 June 2025 
+
+### Numerical Relativity: 9:45-10:30 and 11:00-12:30 
+
+More details coming soon! 
+
+### CoSeC: 13:30-15:00 and 15:30-17:00
+
+More details coming soon! 
