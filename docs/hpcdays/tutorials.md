@@ -14,13 +14,16 @@ Presenter: Alessandro Rigazzi (HPE)
 
 Description: t.b.d.
 
-## AMD: Code optimisation for AMD's MI300A and other next-gen GPUs
+## AMD: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X 
 Presenter: Bob Robey (AMD)
 - Tuesday 9:00-10:30 - Session 1
 - Tuesday 10:30-11:00 - Coffee break
 - Tuesday 11:00-12:30 - Session 2
 
-Description: t.b.d.
+This will be a hands-on exploration of the new next-gen AMD Fortran and the C and C++ compiler implementation of the OpenMP offloading GPU compiler. We'll also exploit the managed memory capabilities of the APU Programming Model to make the porting much easier.
+
+What kind of complex, real-world language constructs can these compilers handle? We look at many cases in C, C++, and Fortran. Bring your complex reproducers in Fortran and C++ and we'll see if we can break the compilers.
+
 
 ## Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
 Presenter: t.b.c. (Codeplay) 
