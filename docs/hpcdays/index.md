@@ -81,9 +81,6 @@ contribute
 </tr>
 <tr>
   <td> 16:30-18:00 </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
 </tr>
   
 </table>
