@@ -17,7 +17,7 @@ contribute
 ## Programme
 
 <!-- <table border="1" cellspacing="0" cellpadding="5"> -->
-<table>
+<table border="1">
 <tr>
   <td></td>
   <td><b>Monday</b></td>
@@ -74,6 +74,8 @@ contribute
 <tr>
   <td> 15:30-16:15 </td>
   <td rowspan="2"> Tutorial: SmartSim </td>
+  <td> Official opening ceremony <br /> Colin Bain (PVC-R, Durham University) </td>
+  <td> </td>
   <td rowspan="2"> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
   <td rowspan="2"> Workshop: HPC in Weather & Climate Research </td>
   <td rowspan="2"> Workshop: WHPC </td>
@@ -81,6 +83,9 @@ contribute
 </tr>
 <tr>
   <td> 16:30-18:00 </td>
+  <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
+  <td> </td>
+  <td> </td>
 </tr>
   
 </table>
