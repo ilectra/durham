@@ -63,7 +63,7 @@ contribute
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs </td>
-  <td>  </td>
+  <td> Workshop: HPC in Weather & Climate Research </td>
   <td> Workshop: WHPC </td>
   <td> Workshop: CoSeC </td>
 </tr> 
@@ -75,7 +75,7 @@ contribute
   <td> 15:30-16:15 </td>
   <td rowspan="2"> Tutorial: SmartSim </td>
   <td rowspan="2"> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
-  <td> </td>
+  <td rowspan="2"> Workshop: HPC in Weather & Climate Research </td>
   <td rowspan="2"> Workshop: WHPC </td>
   <td rowspan="2"> Workshop: CoSeC </td>
 </tr>
