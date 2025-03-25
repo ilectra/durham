@@ -7,12 +7,19 @@ Presenter: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)
 Description: t.b.d.
 
 ## HPE: SmartSim
-Presenter: Alessandro Rigazzi (HPE)
+Presenter: Alessandro Rigazzi (HPE), Holly Judge (HPE)
 - Monday 13:30 - 15:00 - Session 1
 - Monday 15:00 - 15:30 - Coffee break 
 - Monday 15:30 - 17:00 - Session 2
 
-Description: t.b.d.
+As machine learning (ML) becomes more prevalent, it is unsurprising that using ML in combination with scientific HPC simulations has become more popular. Coupling HPC and ML in this way can improve the overall efficiency of HPC workflows by allowing ML predictions to help guide or replace parts of simulations.
+However, there are challenges coupling the two approaches as HPC applications are typically written in C, C++ or Fortran and run on CPUs, whereas ML frameworks are usually Python based and benefit from being run on GPUs. In this tutorial we will introduce SmartSim, an open-source framework that has been developed to help address these challenges and allow researchers to easily adapt their traditional HPC workloads to include ML.  
+ 
+In this two-part tutorial we will aim to familiarise the audience with SmartSim and demonstrate how it can be used to integrate ML into their own applications. In the first session we will give an overview of SmartSim and show it can interact with simulation data in HPC applications in order to integrate ML models. We will also show real examples of how SmartSim has been used in different fields of research such as Computational Fluid Dynamics and Climate Modelling. We also explain what needs to be done to integrate SmartSim into an application and to deploy the resulting workflow. 
+ 
+The second session will take a more hands-on approach where attendees can run examples of hybrid scientific simulation/AI workflows using SmartSim.  Attendees will learn how to launch SmartSim leveraging the system’s native batch scheduler and job launcher and gain a practical understanding of the modifications required to adapt HPC applications to use ML.  
+ 
+There would be an opportunity to discuss how users’ individual applications could be modified to use SmartSim. 
 
 ## AMD: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X 
 Presenter: Bob Robey (AMD)
