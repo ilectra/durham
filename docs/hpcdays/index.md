@@ -39,7 +39,7 @@ contribute
 <tr>
   <td> 9:45-10:30 </td>
   <td>  </td>
-  <td> Benchmarking Symposium </td>
+  <td> </td>
   <td> Workshop: eCSE Session </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
