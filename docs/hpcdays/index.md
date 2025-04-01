@@ -39,8 +39,8 @@ contribute
 <tr>
   <td> 9:45-10:30 </td>
   <td>  </td>
-  <td>  </td>
-  <td>  </td>
+  <td> Benchmarking Symposium </td>
+  <td> Workshop: eCSE Session </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
 <tr>
@@ -51,8 +51,8 @@ contribute
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
   <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
-  <td> Benchmarking discussion (led by DiRAC, ExCALIBUR, UKRI Living Benchmarks) </td>
-  <td>  </td>
+  <td> Benchmarking Symposium </td>
+  <td> Workshop: eCSE Session </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
 <tr>
