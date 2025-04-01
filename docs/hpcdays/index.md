@@ -50,7 +50,7 @@ contribute
 <tr>
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
-  <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> Tutorial: AMD GPUs </td>
   <td> Benchmarking Symposium </td>
   <td> Workshop: eCSE Session </td>
   <td> Workshop: Numerical Relativity </td>
