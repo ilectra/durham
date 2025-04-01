@@ -46,9 +46,14 @@ This is a hands-on tutorial, attendees will work through exercises that represen
 ## Lustre User Group: Darshan profiling on Lustre 
 Presenters: Robert Esnouf, Gareth Wilson 
 - Tuesday 9:00-10:00 - Talks
-- Tuesday 10:00-10:30 - Account sign up
+  - 9:00-9:05 - Welcome
+  - 9:05-9:25 - Paul Ingram, Red Oak Consulting, Lustre PFL
+  - 9:25-9:45 - David Ford, Oxford, Tiering to tape
+  - 9:45-10:05 - TBC
+- Tuesday 10:10-10:30 - Account sign up for Darshan Tutorial
+  - Please bring a laptop with internet access and SSH client
 - Tuesday 10:30-11:00 - Coffee break
-- Tuesday 11:00-12:30 - Darshan introduction and tutorial
+- Tuesday 11:00-12:30 - Darshan introduction and tutorial - Rich Mansfield, DDN.
 
 Description: t.b.d.
 
