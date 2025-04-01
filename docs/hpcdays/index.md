@@ -30,7 +30,7 @@ contribute
 <tr>
   <td> 9:00-9:45 </td>
   <td> </td>
-  <td rowspan="2"> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
+  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> Tutorial: AMD GPUs </td>
   <td> </td>
   <td> Keynote: t.b.a. (Philipp Neumann) </td>
   <td> Keynote: t.b.a. (Katy Clough) </td>
@@ -63,7 +63,7 @@ contribute
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs </td>
-  <td> DRI HPC Lab<br/>Workshop: HPC in Weather & Climate Research </td>
+  <td> DRI HPC Lab (internal)<br/>Workshop: HPC in Weather & Climate Research </td>
   <td> Workshop: WHPC </td>
   <td> Workshop: CoSeC </td>
 </tr> 
@@ -74,7 +74,7 @@ contribute
 <tr>
   <td> 15:30-16:15 </td>
   <td rowspan="2"> Tutorial: SmartSim </td>
-  <td> Official opening ceremony <br /> Colin Bain (PVC-R, Durham University) </td>
+  <td> Official opening ceremony <br /> Colin Bain (PVC-Research Durham University) </td>
   <td> DRI HPC Lab<br/>Workshop: HPC in Weather & Climate Research </td>
   <td rowspan="2"> Workshop: WHPC </td>
   <td rowspan="2"> Workshop: CoSeC </td>
