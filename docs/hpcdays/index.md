@@ -51,7 +51,7 @@ contribute
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
   <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> Tutorial: AMD GPUs </td>
-  <td> Benchmarking Symposium </td>
+  <td> Symposium: Benchmarking</td>
   <td> Workshop: eCSE Session </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
@@ -63,7 +63,7 @@ contribute
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs </td>
-  <td> DRI HPC Lab (internal)<br/>Workshop: HPC in Weather & Climate Research </td>
+  <td> Meeting: DRI HPC Lab (internal)<br/>Workshop: HPC in Weather & Climate Research </td>
   <td> Workshop: WHPC </td>
   <td> Workshop: CoSeC </td>
 </tr> 
@@ -74,8 +74,8 @@ contribute
 <tr>
   <td> 15:30-16:15 </td>
   <td rowspan="2"> Tutorial: SmartSim </td>
-  <td> Official opening ceremony <br /> Colin Bain (PVC-Research Durham University) </td>
-  <td> DRI HPC Lab<br/>Workshop: HPC in Weather & Climate Research </td>
+  <td> Official opening ceremony: <br /> Colin Bain (PVC-Research Durham University) </td>
+  <td> Symposium: DRI HPC Lab<br/>Workshop: HPC in Weather & Climate Research </td>
   <td rowspan="2"> Workshop: WHPC </td>
   <td rowspan="2"> Workshop: CoSeC </td>
 </tr>
