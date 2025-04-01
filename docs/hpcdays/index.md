@@ -39,7 +39,7 @@ contribute
 <tr>
   <td> 9:45-10:30 </td>
   <td>  </td>
-  <td> DiRAC Benchmarking discussion </td>
+  <td>  </td>
   <td>  </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
@@ -51,7 +51,7 @@ contribute
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
   <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
-  <td> DiRAC Benchmarking discussion </td>
+  <td> Benchmarking discussion (led by DiRAC, ExCALIBUR, Living Benchmarks) </td>
   <td>  </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
