@@ -51,7 +51,7 @@ contribute
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
   <td> Tutorial: Lustre <br /> Tutorial: AMD GPUs </td>
-  <td> Benchmarking discussion (led by DiRAC, ExCALIBUR, Living Benchmarks) </td>
+  <td> Benchmarking discussion (led by DiRAC, ExCALIBUR, UKRI Living Benchmarks) </td>
   <td>  </td>
   <td> Workshop: Numerical Relativity </td>
 </tr> 
