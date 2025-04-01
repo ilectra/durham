@@ -55,5 +55,19 @@ Presenters: Robert Esnouf, Gareth Wilson
 - Tuesday 10:30-11:00 - Coffee break
 - Tuesday 11:00-12:30 - Darshan introduction and tutorial - Rich Mansfield, DDN.
 
-Description: t.b.d.
+Description: Boost Your Code's Performance with Darshan! Lustre User Group (LUG) UK Summer Workshop @ Durham HPC Days.
 
+Join us for the LUG UK Summer Workshop at Durham HPC Days, featuring
+an interactive tutorial on I/O profiling with Darshan to help you
+learn to optimize your code's I/O performance, plus talks from Lustre
+Users and Experts.
+
+ 
+What's in it for you?
+- Learn to profile your code: Discover how Darshan can reveal your application's I/O bottlenecks.
+- Optimize your I/O: Gain practical skills to improve data read/write efficiency for faster execution.
+- Lustre User Insights: Hear from experienced Lustre users sharing their tips and tricks.
+- Networking: Connect with fellow HPC enthusiasts and experts.
+
+### Ready to take your I/O to the next level?
+Register via the HPC Days registration link.  Space is limited, so don't miss out - we look forward to seeing you there.
