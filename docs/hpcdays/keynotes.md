@@ -1,6 +1,42 @@
 # Keynote speakers
 
+## Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)
 
+<img src="" />
+
+Title: Unleash the control freak in yourself for fun and profit - and for science!
+
+### Abstract
+
+Performance measurements and benchmarks are comparable to
+experiments in laboratories where as much external influences as
+possible have to be controlled and documented. In the recent years,
+more and more conferences and journals request artifact descriptions
+along with the paper to improve the reproducibility of research.
+With the rising complexity of nowadays systems, the amount of
+influences increases dramatically and the various settings are often
+unknown to the researchers. While information like operating system,
+software versions and CPU/GPU types are often documented in papers,
+information like system temperatures, MPI runtime settings and
+device power limits are not mentioned despite their influence on
+performance.
+
+MachineState provides a systematic approach to gather as many
+performance influencing factors as known to the performance
+engineering community. It records hardware details as well as
+information about the runtime environment and the application in a
+single shareable JSON file. It is a valuable source of information
+when recapping previously done measurement runs. MachineState can
+compare the current state with a previously created file to guide
+the configuration of a system and the runtime environment for
+reproducibility research. The feature can also be used to spot
+differences when comparing two similar systems showing divergent
+runtime behavior. But most importantly, it provides a simple-to-use
+method for all researchers to provide good artifact description for
+the reproducibility and therefore underlines the quality of their
+research. 
+
+### Short bio
 
 ## Dr Katy Clough (STFC Ernest Rutherford Research Fellow)
 
