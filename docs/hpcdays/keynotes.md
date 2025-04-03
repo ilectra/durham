@@ -2,7 +2,7 @@
 
 ## Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)
 
-<img src="" />
+<img src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
 
 Title: Unleash the control freak in yourself for fun and profit - and for science!
 
@@ -37,6 +37,8 @@ the reproducibility and therefore underlines the quality of their
 research. 
 
 ### Short bio
+
+During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the IT service provider for the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Thomas Gruber collected experience with all kinds of clustering approaches. Afterwards, he studied Computer Science at RWTH Aachen University with emphasis on parallel programming and operating system kernel development. At the same time, he worked as a research assistant for the HPC group of the RWTH IT center. After receiving his M. Sc. degree, he went back to RRZE to work for the HPC group. Since 2021, he works in the Software & Tools division at Erlangen National High Performance Computing Center (NHR@FAU). Thomas Gruber leads the development of the performance tool suite LIKWID, which comprises easy-to-use tools for hardware performance monitoring, affinity control and micro-benchmarking. He also works on projects involving monitoring and analysis of hardware performance data. He is actively involved in tutorials and lectures about performance analysis and optimization, where he presents the LIKWID tools and leads hands-on exercises.
 
 ## Dr Katy Clough (STFC Ernest Rutherford Research Fellow)
 
