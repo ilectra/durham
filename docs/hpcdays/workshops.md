@@ -17,8 +17,8 @@ This session is for the DiRAC RSEs to present their work to the UK HPC community
 
 ### Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI 9:45-12:00
 
-** Conveners: DiRAC, ExCALIBUR, UKRI Living Benchmarks
-** Lead: Mark Wilkinson 
+**Conveners: DiRAC, ExCALIBUR, UKRI Living Benchmarks**
+**Lead: Mark Wilkinson**
 
 Benchmarking is an essential part of the co-design and procurement of large-scale computing
 systems, supporting the deployment of cost-e8ective, productive services. Benchmarks are
