@@ -82,7 +82,7 @@ contribute
 <tr>
   <td> 16:30-18:00 </td>
   <td> Tutorial: SYCL <br /> Workshop: DiRAC RSEs (internal) </td>
-  <td>Workshop: HPC in Weather & Climate Research</td>
+  <td>Sponsors lightning talks and panel</td>
 </tr>
   
 </table>
