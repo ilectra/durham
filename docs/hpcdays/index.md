@@ -81,7 +81,7 @@ contribute
 </tr>
 <tr>
   <td> 16:30-18:00 </td>
-  <td> Tutorial: SYCL <br /><br />  Workshop: DiRAC RSEs (internal) </td>
+  <td> Tutorial: SYCL <br /><br />  Workshop: DiRAC RSEs (internal) <br/><br/>Talks</td>
   <td>Sponsors lightning talks and panel</td>
   <td>Workshop: Benchmarking</td>
 </tr>
