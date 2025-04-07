@@ -31,17 +31,18 @@ contribute
   <td> 9:00-9:45 </td>
   <td> </td>
   <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /><br />  Tutorial: AMD GPUs </td>
-  <td> Keynote: <a href="keynotes.html">t.b.a.</a> Cristin Merritt</td>
-  <td> Keynote: <a href="keynotes.html">t.b.a.</a> (Philipp Neumann) </td>
-  <td> Keynote: <a href="keynotes.html">t.b.a.</a> (Katy Clough) </td>
+  <td> Keynote: <a href="keynotes.html#Merritt">t.b.a.</a> (Cristin Merritt)</td>
+  <td> Keynote: <a href="keynotes.html#Neumann">t.b.a.</a> (Philipp Neumann) </td>
+  <td> Keynote: <a href="keynotes.html#Clough">t.b.a.</a> (Katy Clough) </td>
   <td rowspan=13> Social </td>
 </tr>
 <tr>
   <td> 9:45-10:30 </td>
   <td>  </td>
-  <td> Workshop: <a href="workshops.html">Women in HPC (WHPC)</a> </td>
-  <td> Workshop: <a href="workshops.html">eCSE Session</a><br/><br/>Talks </td>
-  <td> Workshop: <a href="workshops.html">Numerical Relativity</a><br/><br/>Workshop: Benchmarking </td>
+  <td> Workshop: <a href="workshops.html#WHPC">Women in HPC (WHPC)</a> </td>
+  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Talks </td>
+  <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a><br/><br/>
+       Workshop: <a href="workshops.html#Benchmarking">Benchmarking</a> </td>
 </tr> 
 <tr>
   <td> 10:30-11:00 </td>
@@ -52,8 +53,8 @@ contribute
   <td> Tutorial: FTorch </td>
   <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> <br /> Tutorial: AMD GPUs </td>
   <td> UKRI DRI session</td>
-  <td> Workshop: <a href="workshops.html">eCSE Session</a> <br/><br/>Talks<br/><br/>Particle physics</td>
-  <td> Workshop: <a href="workshops.html">Numerical Relativity</a> <br/><br/>Workshop: WHPC</td>
+  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a> <br/><br/>Talks<br/><br/>Particle physics</td>
+  <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a> <br/><br/>Workshop: WHPC</td>
 </tr> 
 <tr>
   <td> 12:30-13:30 </td>
@@ -62,10 +63,10 @@ contribute
 <tr>
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
-  <td> Tutorial: SYCL <br /> <br /> Workshop: DiRAC RSEs </td>
-  <td> Meeting: DRI HPC Lab (internal)<br/><br /> Workshop: HPC in Weather & Climate Research <br/><br/> Talks</td>
+  <td> Tutorial: SYCL <br /> <br /> Workshop: <a href="workshops.html#DiRACRSEs"> DiRAC RSEs </a> </td>
+  <td> Meeting: DRI HPC Lab (internal)<br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> <br/><br/> Talks</td>
   <td> UKRI DRI session</td>
-  <td> Workshop: CoSeC <br/><br/>Particle physics </td>
+  <td> Workshop: <a href="workshops.html#CoSeC">CoSeC</a> <br/><br/>Particle physics </td>
 </tr> 
 <tr>
   <td> 15:00-15:30 </td>
@@ -73,17 +74,17 @@ contribute
 </tr>
 <tr>
   <td> 15:30-16:15 </td>
-  <td rowspan="2"> Tutorial: SmartSim </td>
+  <td rowspan="2"> Tutorial: <a href="tutorials#SmartSim">SmartSim</a> </td>
   <td> Official opening ceremony: <br /> Colin Bain (PVC-Research Durham University) </td>
-  <td> Symposium: DRI HPC Lab<br/><br /> Workshop: HPC in Weather & Climate Research </td>
-  <td> Keynote: <a href="keynotes.html">Unleash the control freak in yourself for fun and profit - and for science! (Thomas Gruber)</a> </td>
+  <td> Symposium: DRI HPC Lab<br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> </td>
+  <td> Keynote: <a href="keynotes.html#Gruber">Unleash the control freak in yourself for fun and profit - and for science!</a> (Thomas Gruber) </td>
   <td rowspan="2"> UKRI panel with CoSeC </td>
 </tr>
 <tr>
   <td> 16:30-18:00 </td>
   <td> Tutorial: SYCL <br /><br />  Workshop: DiRAC RSEs (internal) <br/><br/>Talks</td>
   <td>Sponsors lightning talks and panel</td>
-  <td>Workshop: Benchmarking</td>
+  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a></td>
 </tr>
   
 </table>
