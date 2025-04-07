@@ -3,7 +3,7 @@
 ## Cristin Merrit (Chief Marketing Officer - Alces Flight Ltd)
 <a name="Merritt"/>
 
-<img src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
+<img width="200px" src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
 
 Title: t.b.c.
 
