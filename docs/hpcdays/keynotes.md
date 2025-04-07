@@ -1,6 +1,22 @@
 # Keynote speakers
 
+## Cristin Merrit (Chief Marketing Officer - Alces Flight Ltd)
+<a name="Merritt"/>
+
+<img src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
+
+Title: t.b.c.
+
+### Abstract
+
+### Short bio
+
+Cristin Merritt serves as Chief Marketing Officer (CMO) for Alces Flight.  With over 20 years of experience in enterprise technology, and over 7 in HPC, Cristin’s skills are focused on understanding technology market trends, specifically in finding the intersection between hardware, software, and people, in order to bring about successful supercomputing solutions. At Alces Flight, Cristin has served within the partners and program teams, successfully launching complex integration projects, of which three have so far gone on to win global recognition for their accomplishments in multi-platform (hybrid) HPC.
+Cristin graduated from the University of Florida with a degree in Classics and fell into tech while living in Houston, Texas.  She is a proud US/UK dual national, moving to Oxford, United Kingdom in 2008 where she currently resides with her husband, son, and far too many animals.
+
+
 ## Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)
+<a name="Gruber"/>
 
 <img src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
 
@@ -42,6 +58,8 @@ During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the 
 
 ## Dr Katy Clough (STFC Ernest Rutherford Research Fellow)
 
+<a name="Clough" />
+
 <img src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
 
 Title: t.b.c.
@@ -56,6 +74,8 @@ t.b.c.
 Katy's research focuses on using numerical solutions to understand the consequences of Einstein's theory of general relativity, in particular concerning black hole environments and inhomogeneities in the early universe. She is a member of the Geometry, Analysis and Gravitation group in the School of Mathematical Sciences.
 
 ## Prof Dr Philipp Neumann
+
+<a name="Neumann" />
 
 <img src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
 
