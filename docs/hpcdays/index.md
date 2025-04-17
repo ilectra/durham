@@ -52,7 +52,7 @@ contribute
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
   <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> <br /> Tutorial: AMD GPUs </td>
-  <td> UKRI DRI session</td>
+  <td> Talks </td>
   <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a> <br/><br/>Talks<br/><br/>Particle physics</td>
   <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a> <br/><br/>Workshop: WHPC</td>
 </tr> 
