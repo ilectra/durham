@@ -84,7 +84,7 @@ contribute
   <td> 16:30-18:00 </td>
   <td> Tutorial: SYCL <br /><br />  Workshop: DiRAC RSEs (internal) <br/><br/>Talks</td>
   <td>Sponsors lightning talks and panel</td>
-  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a></td>
+  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a><br /><br />HPC RSE SIG meetup</td>
 </tr>
   
 </table>
