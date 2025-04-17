@@ -39,8 +39,8 @@ contribute
 <tr>
   <td> 9:45-10:30 </td>
   <td>  </td>
-  <td> Workshop: <a href="workshops.html#WHPC">Women in HPC (WHPC)</a> </td>
-  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Talks </td>
+  <td> Workshop: <a href="workshops.html#WHPC">Women in HPC (WHPC) </a> <br /><br /> Talks </td>
+  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Workshop: Particle Physics </td>
   <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a><br/><br/>
        Workshop: <a href="workshops.html#Benchmarking">Benchmarking</a> </td>
 </tr> 
@@ -52,8 +52,8 @@ contribute
   <td> 11:00-12:30 </td>
   <td> Tutorial: FTorch </td>
   <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> <br /> Tutorial: AMD GPUs </td>
-  <td> UKRI DRI session</td>
-  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a> <br/><br/>Talks<br/><br/>Particle physics</td>
+  <td> Meeting: DRI HPC Lab (internal)<br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> <br/><br/> Talks</td>
+  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a> <br/><br/>UKRI DRI </td>
   <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a> <br/><br/>Workshop: WHPC</td>
 </tr> 
 <tr>
@@ -64,8 +64,8 @@ contribute
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> <br /> Workshop: <a href="workshops.html#DiRACRSEs"> DiRAC RSEs </a> </td>
-  <td> Meeting: DRI HPC Lab (internal)<br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> <br/><br/> Talks</td>
-  <td> UKRI DRI session</td>
+  <td> Keynote: t.b.c. <br /><br /> Talks </td>
+  <td> Keynote: Digital Research Infrastructure <br /> (t.b.c.) <br /><br /> UKRI DRI</td>
   <td> Workshop: <a href="workshops.html#CoSeC">CoSeC</a> <br/><br/>Particle physics </td>
 </tr> 
 <tr>
@@ -84,7 +84,7 @@ contribute
   <td> 16:30-18:00 </td>
   <td> Tutorial: SYCL <br /><br />  Workshop: DiRAC RSEs (internal) <br/><br/>Talks</td>
   <td>Sponsors lightning talks and panel</td>
-  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a></td>
+  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a><br /><br />HPC RSE SIG meetup</td>
 </tr>
   
 </table>
