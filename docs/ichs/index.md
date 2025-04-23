@@ -5,6 +5,8 @@ Welcome to ICHS: Immersion Cooling and Heat Storage
 
 ```{toctree}
 livinglab
+heatstorage
+immersion
 status
 outputs
 benefits
