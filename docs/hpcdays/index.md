@@ -2,6 +2,8 @@
 
 Please consult the [HPC Days 2025 landing page](https://www.durham.ac.uk/research/institutes-and-centres/data-science/events-/durham---hpc-days/) for related information on the registration, the submission of presentations, sponsors, and further travel advice.
 
+Please [register to attend here](https://pay.durham.ac.uk/event-durham/durham-hpc-days-2025).
+
 ```{toctree}
 :hidden:
 cfp
