@@ -14,7 +14,7 @@
 <td>16:30 - 16:50</td>
 <td>Isambard-AI and Isambard 3: Democratising the User Experience for AI and simulation HPC</td>
 <td>Richard Gilham</td>
-<td></td>
+<td>[here](https://durham.readthedocs.io/en/latest/hpcdays/talks.html#isambard-ai-and-isambard-3-democratising-the-user-experience-for-ai-and-simulation-hpc)</td>
 </tr>
 
 <tr>
@@ -42,4 +42,5 @@
 
 ## Abstracts
 ### Isambard-AI and Isambard 3: Democratising the User Experience for AI and simulation HPC
-**Who:** Richard Gilham, Bristol Centre for Supercomputing Isambard-AI and Isambard 3 offer a unique opportunity to rethink how we build supercomputers, from the data centre to the User Experience. The rapid adoption of AI, and indeed simulation HPC, across traditional and new research sectors has resulted in new communities of users to emerge with distinct requirements and skillsets. After introducing the Isambard supercomputers, this talk will explore our approach to User Experience and how it acts as a useful lens for decision-making when creating and maintaining an HPC service.
+**Who:** Richard Gilham, Bristol Centre for Supercomputing 
+**Abstract:** Isambard-AI and Isambard 3 offer a unique opportunity to rethink how we build supercomputers, from the data centre to the User Experience. The rapid adoption of AI, and indeed simulation HPC, across traditional and new research sectors has resulted in new communities of users to emerge with distinct requirements and skillsets. After introducing the Isambard supercomputers, this talk will explore our approach to User Experience and how it acts as a useful lens for decision-making when creating and maintaining an HPC service.
