@@ -12,6 +12,7 @@ cfp
 tutorials
 keynotes
 workshops
+talks
 contribute
 ```
 
