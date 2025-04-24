@@ -54,14 +54,14 @@
 <td>9:45 - 10:05</td>
 <td>Benchmarking ML applications</td>
 <td>Adrian Jackson</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#isambard-ai-and-isambard-3-democratising-the-user-experience-for-ai-and-simulation-hpc">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#benchmarking-ml-applications">details</a></td>
 </tr>
 
 <tr>
 <td>10:05 - 10:25</td>
 <td>Understanding Embeddings in Machine Learning: A Business, Engineering, and Technical Overview</td>
 <td>Pahuldeep Singh Walia</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#understanding-embeddings-in-machine-learning-a-business-engineering-and-technical-overview">details</a></td>
 </tr>
 
 </table>
@@ -80,14 +80,14 @@
 <td>11:00 - 11:20</td>
 <td>HPC waste heat storage: the ICHS project at Durham University</td>
 <td>Alastair Basden</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#isambard-ai-and-isambard-3-democratising-the-user-experience-for-ai-and-simulation-hpc">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#hpc-waste-heat-storage-the-ichs-project-at-durham-university">details</a></td>
 </tr>
 
 <tr>
 <td>11:20 - 11:40</td>
 <td>Advancing CATS, The Climate Aware Task Scheduler, for HPC and HTC application</td>
 <td>Sadie Bartholomew</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#advancing-cats-the-climate-aware-task-scheduler-for-hpc-and-htc-application">details</a></td>
 </tr>
 
 
@@ -95,7 +95,7 @@
 <td>11:40 - 12:00</td>
 <td>AI for Green HPC: How Machine Learning is Transforming Energy Efficiency</td>
 <td>Fawada Qaiser</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#ai-for-green-hpc-how-machine-learning-is-transforming-energy-efficiency">details</a></td>
 </tr>
 
 
@@ -103,7 +103,7 @@
 <td>12:00 - 12:20</td>
 <td>Driving energy efficiency of operation with wind turbing modelling</td>
 <td>Nick Brown</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#driving-energy-efficiency-of-operation-with-wind-turbing-modelling">details</a></td>
 </tr>
 
 </table>
@@ -122,14 +122,14 @@
 <td>13:30 - 13:50</td>
 <td>Having it all: Can software be portable, performant and productive?</td>
 <td>Chris Maynard</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#isambard-ai-and-isambard-3-democratising-the-user-experience-for-ai-and-simulation-hpc">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#having-it-all-can-software-be-portable-performant-and-productive">details</a></td>
 </tr>
 
 <tr>
 <td>13:50 - 14:10</td>
 <td>Scientific Computing with JAX: A Case Study Evaluating Gravitational Lensing Likelihood</td>
 <td>Kolen Cheung</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#scientific-computing-with-jax-a-case-study-evaluating-gravitational-lensing-likelihood">details</a></td>
 </tr>
 
 
@@ -137,7 +137,7 @@
 <td>14:10 - 14:30</td>
 <td>Simulating Discrete-Event Systems on HPC: Sleptsov Net Case Study</td>
 <td>Dmitry Zaitsev</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#simulating-discrete-event-systems-on-hpc-sleptsov-net-case-study">details</a></td>
 </tr>
 
 
@@ -145,7 +145,7 @@
 <td>14:30 - 14:50</td>
 <td>GPU offloads for gravity calculations in SWIFT cosmology code</td>
 <td>Sarah Johnson</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#the-hpc-hardware-lab-at-durham-university">details</a></td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#gpu-offloads-for-gravity-calculations-in-swift-cosmology-code">details</a></td>
 </tr>
 
 </table>
