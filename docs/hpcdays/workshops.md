@@ -30,10 +30,10 @@ In this session we will hear from a series of speakers from the Weather and Clim
 
 Our speakers are:
 
-- Justs Zarins, EPCC:
+- Greenville Lister, NCAS: 
    <details>
-       <summary>"Exploring Dataflow Architectures for Improved Efficiency in Earth System Models"</summary>   
-     Earth system models are crucial for simulating environmental processes but demand significant computational resources and energy. In this presentation we will explore the potential of               dataflow architectures to enhance both computational and energy efficiency of ESMs. We will primarily discuss the Cerebras Wafer Scale Engine, examining its capabilities and evaluating                its suitability for the shallow water equation.
+       <summary>"Running large simulation models and workflow"</summary>
+      tbc
    </details>
 
 - Ben Went, Met Office: 
@@ -54,7 +54,7 @@ Our speakers are:
 - Denis Sergeev, University of Exeter/ University of Bristol: 
    <details>
        <summary>"Atmospheric dynamics on other planets"</summary>
-      tbc
+      Detection and characterisation of exoplanetary atmospheres is entering a new era thanks to the new generation of powerful telescopes. To make the best use of observational data and guide future missions, we must advance our theoretical understanding of atmospheric dynamics. In this talk, I will show my recent work on adapting the Met Office's new 3D general circulation model (LFRic) to various exoplanets, from temperate terrestrial planets to hot Jupiters. I will talk about LFRic’s new capabilities and its potential for studying planetary atmospheres.
    </details>
 
 - Joe Wallwork, ICCS, University of Cambridge: 
@@ -63,10 +63,10 @@ Our speakers are:
       The United Kingdom Chemistry and Aerosols (UKCA) model is a community atmospheric chemistry and aerosol microphysics model, which forms part of the Met Office's weather forecasting system. It is also a key part of the UK Earth System Model (UKESM), whose outputs feed into IPCC reports. UKCA is a particularly expensive part of the Met Office's model, so significant reductions to its computational cost would be welcome. The chemistry component of UKCA (the most expensive) uses an implicit timestepping scheme in which each iteration starts from a default, large timestep size. In each iteration, an attempt is made to solve the nonlinear system over several grid-boxes in the spatial domain, but in many cases this fails at the default timestep size. If so, the timestep size is repeatedly halved and the solver re-run until convergence is achieved. In this talk, we propose a method for predicting the timestep that will be required in advance,  thereby avoiding wasted computation in the attempts to run the chemistry model with timestep sizes that are too large. We utilise a simple machine learning (ML) based approach, coupled into UKCA using FTorch - a Fortran interface for the popular Python-based ML tool, PyTorch. Further, we make use of FTorch's recently added online training functionality, in order to avoid archiving training data that would have no clear other purpose.
    </details>
 
-- tbc, tbc: 
+   - Justs Zarins, EPCC:
    <details>
-       <summary>tbc</summary>
-      tbc
+       <summary>"Exploring Dataflow Architectures for Improved Efficiency in Earth System Models"</summary>   
+     Earth system models are crucial for simulating environmental processes but demand significant computational resources and energy. In this presentation we will explore the potential of               dataflow architectures to enhance both computational and energy efficiency of ESMs. We will primarily discuss the Cerebras Wafer Scale Engine, examining its capabilities and evaluating                its suitability for the shallow water equation.
    </details>
 
 ## Thursday, 5 June 2025: 11:00-12:30
