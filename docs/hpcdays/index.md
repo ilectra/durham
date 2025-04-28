@@ -70,7 +70,7 @@ contribute
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> <br /> Workshop: <a href="workshops.html#DiRACRSEs"> DiRAC RSEs </a> </td>
-  <td> Keynote: t.b.c. <br /><br /> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1330-to-1500">Talks</a> </td>
+  <td> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1330-to-1500">Talks</a> <br /><br /> Particle physics </td>
   <td> Keynote: Digital Research Infrastructure <br /> (t.b.c.) <br /><br /> UKRI DRI</td>
   <td> Workshop: <a href="workshops.html#CoSeC">CoSeC</a> <br/><br/>Particle physics </td>
 </tr> 
