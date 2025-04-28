@@ -22,6 +22,21 @@ Organised by representatives from the Women in High Performance Computing (WHPC)
 
 More details coming soon! 
 
+### HPC/HTC in High-Energy Physics: 13:30-15:00 
+
+**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)
+
+Speakers: 
+
+- Maria Girone (CERN)
+
+- Dave Britton (Glasgow)
+
+- Davide Constanzo (Sheffield)
+
+- Manuel Griffels (KIT)
+
+
 ### HPC in Weather & Climate Research: 13:30-15:00 and 15:30-16:15
 
 **Conveners: Chris Maynard (Met Office), Marion Weinzierl (ICCS, University of Cambridge)**
@@ -69,9 +84,22 @@ Our speakers are:
      Earth system models are crucial for simulating environmental processes but demand significant computational resources and energy. In this presentation we will explore the potential of               dataflow architectures to enhance both computational and energy efficiency of ESMs. We will primarily discuss the Cerebras Wafer Scale Engine, examining its capabilities and evaluating                its suitability for the shallow water equation.
    </details>
 
-## Thursday, 5 June 2025: 11:00-12:30
+## Thursday, 5 June 2025
 
-### eCSE Session
+### HPC/HTC in High-Energy Physics: 09:45-10:30
+
+**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)
+
+Speakers: 
+
+- Gurtej Kanwar (Edinburgh)
+
+- Roy Stegman (Edinburgh)
+
+- Antonin Portelli (Edinburgh)
+
+
+### eCSE Session: 11:00-12:30
 
 **Convener: Mladen Ivkovich (Durham University)**
 
@@ -159,3 +187,20 @@ More details coming soon!
 **Conveners: Stephen Longshaw (UKRI STFC), Damian Jones (UKRI STFC)**
 
 More details coming soon! 
+
+
+### HPC/HTC in High-Energy Physics: 13:30-15:00  
+      
+**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)
+
+Speakers:  
+
+- Daniel Maitre (Durham)
+
+- Enrico Bothmann (CERN)
+
+- Konrad Helms (Goettingen)
+
+- Daniele Massaro (CERN)
+ 
+
