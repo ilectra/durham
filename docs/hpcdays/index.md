@@ -46,7 +46,7 @@ contribute
   <td> 9:45-10:30 </td>
   <td>  </td>
   <td> Workshop: <a href="workshops.html#WHPC">Women in HPC (WHPC) </a> <br /><br /> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-0945-to-1030">Talks</a> </td>
-  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Workshop: Particle Physics </td>
+  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Workshop: <a href="workshops.html#eCSE">Particle Physics</a> </td>
   <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a><br/><br/>
        Workshop: <a href="workshops.html#Benchmarking">Benchmarking</a> </td>
 </tr> 
@@ -70,9 +70,9 @@ contribute
   <td> 13:30-15:00 </td>
   <td> Tutorial: SmartSim </td>
   <td> Tutorial: SYCL <br /> <br /> Workshop: <a href="workshops.html#DiRACRSEs"> DiRAC RSEs </a> </td>
-  <td> Keynote: t.b.c. <br /><br /> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1330-to-1500">Talks</a> </td>
+  <td> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1330-to-1500">Talks</a> <br /><br /> Workshop: <a href="workshops.html#eCSE">Particle physics</a> </td>
   <td> Keynote: Digital Research Infrastructure <br /> (t.b.c.) <br /><br /> UKRI DRI</td>
-  <td> Workshop: <a href="workshops.html#CoSeC">CoSeC</a> <br/><br/>Particle physics </td>
+  <td> Workshop: <a href="workshops.html#CoSeC">CoSeC</a> <br/><br/>Workshop: <a href="workshops.html#eCSE">Particle physics</a> </td>
 </tr> 
 <tr>
   <td> 15:00-15:30 </td>
