@@ -24,7 +24,7 @@ More details coming soon!
 
 ### HPC/HTC in High-Energy Physics: 13:30-15:00 
 
-**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)
+**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 
 Speakers: 
 
@@ -88,7 +88,7 @@ Our speakers are:
 
 ### HPC/HTC in High-Energy Physics: 09:45-10:30
 
-**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)
+**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 
 Speakers: 
 
@@ -191,7 +191,7 @@ More details coming soon!
 
 ### HPC/HTC in High-Energy Physics: 13:30-15:00  
       
-**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)
+**Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 
 Speakers:  
 
