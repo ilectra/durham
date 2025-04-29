@@ -36,7 +36,7 @@ contribute
 <tr>
   <td> 9:00-9:45 </td>
   <td> </td>
-  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /><br />  Tutorial: AMD GPUs </td>
+  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /><br />  Tutorial: <a href="tutorials.html#amd">AMD GPUs</a> </td>
   <td> Keynote: <a href="keynotes.html#Merritt">t.b.a.</a> (Cristin Merritt)</td>
   <td> Keynote: <a href="keynotes.html#Neumann">t.b.a.</a> (Philipp Neumann) </td>
   <td> Keynote: <a href="keynotes.html#Clough">t.b.a.</a> (Katy Clough) </td>
@@ -56,7 +56,7 @@ contribute
 </tr>
 <tr>
   <td> 11:00-12:30 </td>
-  <td> Tutorial: FTorch </td>
+  <td> Tutorial: <a href="tutorials.html#ftorch">FTorch</a> </td>
   <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre</a> <br /> <br /> Tutorial: AMD GPUs </td>
   <td> Meeting: DRI HPC Lab (internal)<br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> <br/><br/> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1100-to-1230">Talks</a></td>
   <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a> <br/><br/>UKRI DRI </td>
@@ -68,7 +68,7 @@ contribute
 </tr>
 <tr>
   <td> 13:30-15:00 </td>
-  <td> Tutorial: SmartSim </td>
+  <td> Tutorial: <a href="tutorials.html#SmartSim">SmartSim</a> </td>
   <td> Tutorial: SYCL <br /> <br /> Workshop: <a href="workshops.html#DiRACRSEs"> DiRAC RSEs </a> </td>
   <td> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1330-to-1500">Talks</a> <br /><br /> Workshop: <a href="workshops.html#eCSE">Particle physics</a> </td>
   <td> Keynote: Digital Research Infrastructure <br /> (t.b.c.) <br /><br /> UKRI DRI</td>
