@@ -1,11 +1,13 @@
-# Keynote speakers
+# Keynote Speakers
 
-## Cristin Merrit (Chief Marketing Officer - Alces Flight Ltd)
+## Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)
 <a name="Merritt"/>
 
 <img width="200px" src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
 
-Title: Finding the Fulcrum: Rethinking Supercomputing at Scale
+### Finding the Fulcrum: Rethinking Supercomputing at Scale
+
+**Wednesday, 4th June 2025, 9:00 - 9:45**
 
 ### Abstract
 
@@ -35,14 +37,39 @@ inclusivity in HPC. The stories and lessons from that project serve as inspirati
 keynote—reminding us that scaling supercomputing is as much about people as it is about
 performance.
 
+## Prof Dr Philipp Neumann
+
+<a name="Neumann" />
+
+<img src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
+
+### Title: T.B.A.
+
+**Thursday, 5th June 2025, 9:00 - 9:45**
+
+### Abstract
+
+T.B.A.
+
+### Short bio
+
+Philipp Neumann's research focuses on high performance computing for molecular dynamics simulations, multiscale simulations in fluid dynamics and machine learning. At DESY, Neumann is the first lead scientist for the area of computer science. As head of DESY IT, Neumann takes over the coordination of Helmholtz Federated IT Services HIFIS (the federated IT infrastructure and Helmholtz platform for supporting research work within the Helmholtz Association).
+
+
+
+## Digital Research Infrastructure 
+
+T.B.C. 
 
 
 ## Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)
 <a name="Gruber"/>
 
-<img src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
+<img width="200px" src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
 
-Title: Unleash the control freak in yourself for fun and profit - and for science!
+### Unleash the control freak in yourself for fun and profit - and for science!
+
+**Thursday, 5th June 2025, 15:30 - 16:15**
 
 ### Abstract
 
@@ -84,30 +111,15 @@ During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the 
 
 <img src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
 
-Title: t.b.c.
-Slot: t.b.c.
+### Title: T.B.A.
+
+**Friday, 6th June 2025, 09:00 - 09:45**
 
 ### Abstract
 
-t.b.c.
+T.B.A.
 
 ### Short bio
 
 Katy's research focuses on using numerical solutions to understand the consequences of Einstein's theory of general relativity, in particular concerning black hole environments and inhomogeneities in the early universe. She is a member of the Geometry, Analysis and Gravitation group in the School of Mathematical Sciences.
 
-## Prof Dr Philipp Neumann
-
-<a name="Neumann" />
-
-<img src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
-
-Title: t.b.c.
-Slot: t.b.c.
-
-### Abstract
-
-t.b.c.
-
-### Short bio
-
-Philipp Neumann's research focuses on high performance computing for molecular dynamics simulations, multiscale simulations in fluid dynamics and machine learning. At DESY, Neumann is the first lead scientist for the area of computer science. As head of DESY IT, Neumann takes over the coordination of Helmholtz Federated IT Services HIFIS (the federated IT infrastructure and Helmholtz platform for supporting research work within the Helmholtz Association).
