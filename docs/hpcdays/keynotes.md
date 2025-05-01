@@ -1,8 +1,9 @@
 # Keynote Speakers
 
-## Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)
-<a name="Merritt"/>
+<!-- ## Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)
+<a name="Merritt"/> -->
 
+<h2 id="Merritt">Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)</h2>
 <img width="200px" src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
 
 ### Finding the Fulcrum: Rethinking Supercomputing at Scale

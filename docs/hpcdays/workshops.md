@@ -2,8 +2,10 @@
 
 ## Tuesday, 3rd June 2025
 
-### Computational Biosciences 
-<a label="biosciences" />
+
+<!-- ### Computational Biosciences 
+<a label="biosciences" /> -->
+### <h2 id="biosciences">Computational Biosciences </h2>
 
 **Convener: T.B.A.** 
 - 9:00 - 10:30 and 11:00 - 12:30 
