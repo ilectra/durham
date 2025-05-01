@@ -37,7 +37,7 @@ contribute
   <td> 9:00-9:45 </td>
   <td> </td>
   <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre">Lustre</a> <br /><br />  Tutorial: <a href="tutorials.html#amd">AMD GPUs</a> <br /><br /> Workshop: <a href="workshops.html#biosciences">Computational Biosciences</a></td>
-  <td> Keynote: <a href="keynotes.html#Merritt">t.b.a.</a> (Cristin Merritt)</td>
+  <td> Keynote: <a href="keynotes.html#Merritt">Finding the Fulcrum: Rethinking Supercomputing at Scale</a> (Cristin Merritt)</td>
   <td> Keynote: <a href="keynotes.html#Neumann">t.b.a.</a> (Philipp Neumann) </td>
   <td> Keynote: <a href="keynotes.html#Clough">t.b.a.</a> (Katy Clough) </td>
   <td rowspan=13> Social </td>
