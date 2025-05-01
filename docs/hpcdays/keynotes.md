@@ -5,14 +5,36 @@
 
 <img width="200px" src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
 
-Title: t.b.c.
+Title: Finding the Fulcrum: Rethinking Supercomputing at Scale
 
 ### Abstract
 
+When we talk about supercomputing "at scale," the conversation usually centers on raw
+performance—hardware, speed, and size. But there’s another kind of scale, one that’s less
+about infrastructure and more about balance. This keynote explores the delicate equilibrium
+between technology and community—between the systems we build and the people who
+build them.
+
+Using the metaphor of a scale as a storyline, this talk breaks down the elements that create
+supercomputing success, covering the composure, structure and properties that make up
+the technical and social composition of our field. From understanding where your fulcrum lies
+to identifying key infrastructure points and strengthening your foundation, attendees will gain
+practical insight into how to balance resources, requirements, and relationships in
+High-Performance Computing environments.
+
+
 ### Short bio
 
-Cristin Merritt serves as Chief Marketing Officer (CMO) for Alces Flight.  With over 20 years of experience in enterprise technology, and over 7 in HPC, Cristin’s skills are focused on understanding technology market trends, specifically in finding the intersection between hardware, software, and people, in order to bring about successful supercomputing solutions. At Alces Flight, Cristin has served within the partners and program teams, successfully launching complex integration projects, of which three have so far gone on to win global recognition for their accomplishments in multi-platform (hybrid) HPC.
-Cristin graduated from the University of Florida with a degree in Classics and fell into tech while living in Houston, Texas.  She is a proud US/UK dual national, moving to Oxford, United Kingdom in 2008 where she currently resides with her husband, son, and far too many animals.
+Cristin Merritt, Head of Communications at Alces Flight, brings over two decades of
+experience in technology—with the past ten years focusing on supercomputing. Her work
+bridges market analysis, project leadership, and community building. She has contributed to
+projects ranging from open-source HPC environments (OpenFlightHPC) and pandemic
+research support using HPC/AI, to the renewable-powered Viking 2 cluster at the University
+of York. In 2024, she launched Move the Needle, a year-long initiative advancing workforce
+inclusivity in HPC. The stories and lessons from that project serve as inspiration for this
+keynote—reminding us that scaling supercomputing is as much about people as it is about
+performance.
+
 
 
 ## Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)
