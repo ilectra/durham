@@ -3,8 +3,9 @@
 
 ## Monday, 2nd June 2025 
 
-### ICCS: FTorch
-<a label="ftorch" />
+<!-- ### ICCS: FTorch
+<a label="ftorch" /> -->
+### <h2 id="ftorch">ICCS: FTorch</h2>
 
 **Presenter: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)**
 - 11:00 - 12:30 - Session 1
