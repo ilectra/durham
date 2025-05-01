@@ -78,7 +78,7 @@ Our speakers are:
       The United Kingdom Chemistry and Aerosols (UKCA) model is a community atmospheric chemistry and aerosol microphysics model, which forms part of the Met Office's weather forecasting system. It is also a key part of the UK Earth System Model (UKESM), whose outputs feed into IPCC reports. UKCA is a particularly expensive part of the Met Office's model, so significant reductions to its computational cost would be welcome. The chemistry component of UKCA (the most expensive) uses an implicit timestepping scheme in which each iteration starts from a default, large timestep size. In each iteration, an attempt is made to solve the nonlinear system over several grid-boxes in the spatial domain, but in many cases this fails at the default timestep size. If so, the timestep size is repeatedly halved and the solver re-run until convergence is achieved. In this talk, we propose a method for predicting the timestep that will be required in advance,  thereby avoiding wasted computation in the attempts to run the chemistry model with timestep sizes that are too large. We utilise a simple machine learning (ML) based approach, coupled into UKCA using FTorch - a Fortran interface for the popular Python-based ML tool, PyTorch. Further, we make use of FTorch's recently added online training functionality, in order to avoid archiving training data that would have no clear other purpose.
    </details>
 
-   - Justs Zarins, EPCC:
+- Justs Zarins, EPCC:
    <details>
        <summary>"Exploring Dataflow Architectures for Improved Efficiency in Earth System Models"</summary>   
      Earth system models are crucial for simulating environmental processes but demand significant computational resources and energy. In this presentation we will explore the potential of               dataflow architectures to enhance both computational and energy efficiency of ESMs. We will primarily discuss the Cerebras Wafer Scale Engine, examining its capabilities and evaluating                its suitability for the shallow water equation.
@@ -134,6 +134,15 @@ We will invite speakers from across the benchmarking activities mentioned above 
 actively seek presentations from other individuals and groups with relevant experience either
 in the UK or internationally. We will also try to include at least one presentation by an
 international partner to bring insights from outside the UK.
+
+### HPC RSE SIG Meet-up 16.30-18:00
+
+**Conveners: Marion Weinzierl, Nick Brown**
+
+This is an in-person meet-up of the [HPC Research Software Engineers Special Interest Group (HPC RSE SIG)](https://society-rse.org/hpc-rse-sig/), but everyone is welcome -- you do not need to be involved with the SIG, the RSE Society, or even be an RSE!
+
+We will start with an un-conference style discussion session (i.e., discussion topics and groups decided on by the participants), which will
+lead into further discussions and chats over beer and food in the evening.
 
 ## Friday, 6 June 2025 
 

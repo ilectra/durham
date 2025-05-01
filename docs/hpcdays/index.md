@@ -90,7 +90,7 @@ contribute
   <td> 16:30-18:00 </td>
   <td> Tutorial: SYCL <br /><br />  Workshop: DiRAC RSEs (internal) <br/><br/><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#tuesday-3-june-2025-1630-to-1650">Talks</a></td>
   <td>Sponsors lightning talks and panel</td>
-  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a><br /><br />HPC RSE SIG meetup</td>
+  <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a><br /><br /><a href="workshops.html#hpc-rse-sig-meet-up-1630-1800">HPC RSE SIG meetup</a></td>
 </tr>
   
 </table>
