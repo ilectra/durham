@@ -1,10 +1,14 @@
 # Tutorials
 
+<a label="ftorch" />
+
 ## ICCS: FTorch
 Presenter: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)
 - Monday 11:00 - 12:30 - Session 1
 
 Description: t.b.d.
+
+<a label="SmartSim" />
 
 ## HPE: SmartSim
 Presenter: Alessandro Rigazzi (HPE), Holly Judge (HPE)
@@ -21,6 +25,8 @@ The second session will take a more hands-on approach where attendees can run ex
  
 There would be an opportunity to discuss how users’ individual applications could be modified to use SmartSim. 
 
+<a label="amd" />
+
 ## AMD: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X 
 Presenter: Bob Robey (AMD)
 - Tuesday 9:00-10:30 - Session 1
@@ -31,6 +37,7 @@ This will be a hands-on exploration of the new next-gen AMD Fortran and the C an
 
 What kind of complex, real-world language constructs can these compilers handle? We look at many cases in C, C++, and Fortran. Bring your complex reproducers in Fortran and C++ and we'll see if we can break the compilers.
 
+<a label="sycl" />
 
 ## Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
 Presenter: t.b.c. (Codeplay) 
@@ -42,6 +49,8 @@ Parallel programming can be used to take advantage of heterogeneous architecture
 
 This tutorial will give software developers the knowledge they need to begin developing parallel applications using C++ and the SYCL programming model. Our goal is to equip attendees with the skills they need to build highly performant applications that can be used in the fields of HPC and AI and deployed to multiple hardware platforms. We will cover the fundamentals of the SYCL programming model before moving to more advanced topics. We will explore how SYCL can be used to write serious applications, covering intermediate to advanced features of SYCL as well as some of the tools and libraries that support SYCL application development.
 This is a hands-on tutorial, attendees will work through exercises that represent key design patterns encountered by people who program heterogeneous systems and deploy this code to multiple processors from different vendors.
+
+<a label="lustre" />
 
 ## Lustre User Group: Darshan profiling on Lustre 
 Presenters: Robert Esnouf, Gareth Wilson 
