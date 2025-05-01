@@ -21,13 +21,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
 ## Programme
 
 <!-- <table border="1" cellspacing="0" cellpadding="5"> -->
-<table border="1">
-<style>
-  table, td, th {
-    text-align: center;
-    vertical-align: middle;
-  }
-</style>
+<table border="1" style="width: 100%; text-align: center;">
 <tr>
   <td></td>
   <td><b>Monday </b></td>
