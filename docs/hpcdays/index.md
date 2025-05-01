@@ -36,7 +36,7 @@ contribute
 <tr>
   <td> 9:00-9:45 </td>
   <td> </td>
-  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre">Lustre</a> <br /><br />  Tutorial: <a href="tutorials.html#amd">AMD GPUs</a> </td>
+  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre">Lustre</a> <br /><br />  Tutorial: <a href="tutorials.html#amd">AMD GPUs</a> <br /> Workshop: <a href="workshops.html#biosciences">Computational Biosciences</a></td>
   <td> Keynote: <a href="keynotes.html#Merritt">t.b.a.</a> (Cristin Merritt)</td>
   <td> Keynote: <a href="keynotes.html#Neumann">t.b.a.</a> (Philipp Neumann) </td>
   <td> Keynote: <a href="keynotes.html#Clough">t.b.a.</a> (Katy Clough) </td>
@@ -57,7 +57,7 @@ contribute
 <tr>
   <td> 11:00-12:30 </td>
   <td> Tutorial: <a href="tutorials.html#ftorch">FTorch</a> </td>
-  <td> Tutorial: <a href="tutorials.html#lustre">Lustre</a> <br /> <br /> Tutorial: <a href="tutorials.html#amd">AMD GPUs</a> </td>
+  <td> Tutorial: <a href="tutorials.html#lustre">Lustre</a> <br /> <br /> Tutorial: <a href="tutorials.html#amd">AMD GPUs</a><br /> Workshop: <a href="workshops.html#biosciences">Computational Biosciences</a> </td>
   <td> Meeting: <a href="dri.html">DRI HPC Lab (internal)</a><br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> <br/><br/> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1100-to-1230">Talks</a></td>
   <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a> <br/><br/><a href="dri.html">UKRI DRI</a> </td>
   <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a> <br/><br/>Workshop: WHPC</td>
