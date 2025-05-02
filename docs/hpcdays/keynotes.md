@@ -114,3 +114,13 @@ T.B.A.
 
 Katy's research focuses on using numerical solutions to understand the consequences of Einstein's theory of general relativity, in particular concerning black hole environments and inhomogeneities in the early universe. She is a member of the Geometry, Analysis and Gravitation group in the School of Mathematical Sciences.
 
+## <h2 id="meetandgreet">Christian Oganbule (EPSRC)</h2>
+
+### EPSRC Early Career Research: Meet and greet with the funder
+
+### Abstract
+
+This is an informal, open discussion round for Early Career Researchers (ECRs). Please bring along your questions regarding EPSRC's funding schemes and use the opportunity to ask the funder directly on advise, recommendations and clarifications. Feel free to reach out to Christian (Christian.Oganbule@epsrc.ukri.org) ahead of the meeting to let him know about your questions, so you get the most out of the event.
+
+For those who want to have further in-depth conversations about specific calls or projects (or are not that junior anymore), please request an individual meeting slot with Afia Masood (Afia.Masood@epsrc.ukri.org) for Friday morning.
+
