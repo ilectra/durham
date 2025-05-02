@@ -96,7 +96,7 @@ During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the 
 
 
 ## <h2 id="Clough">Dr Katy Clough (STFC Ernest Rutherford Research Fellow)</h2>
-<img width="200px" src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
+<img width="200px" src="https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_732/public/user_photos/Teddy_Hall_KClough.JPG?itok=5DsTgICH" />
 
 ### Title: T.B.A.
 
