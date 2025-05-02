@@ -99,6 +99,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td />
   <td />
   <td>Industry scavenger hunt</td>
+  <td><a href="talk.html#meetandgreet">EPSRC Early Career Research: Meet and greet with the funder</a> </td>
 </tr>
 </table>
 
