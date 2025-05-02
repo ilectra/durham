@@ -37,7 +37,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre">Lustre</a> <br /><br />  Tutorial: <a href="tutorials.html#amd">AMD GPUs</a> <br /><br /> Workshop: <a href="workshops.html#biosciences">Computational Biosciences</a></td>
   <td> Keynote: <a href="keynotes.html#Merritt">Finding the Fulcrum: Rethinking Supercomputing at Scale</a> (Cristin Merritt)</td>
   <td> Keynote: <a href="keynotes.html#Neumann">T.B.A.</a> (Philipp Neumann) </td>
-  <td> Keynote: <a href="keynotes.html#Clough">T.B.A.</a> (Katy Clough) </td>
+  <td> Keynote: <a href="keynotes.html#Clough">Challenges and Opportunities in HPC for Numerical Relativity</a> (Katy Clough) </td>
   <td rowspan=13> Social </td>
 </tr>
 <tr>
