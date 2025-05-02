@@ -221,7 +221,7 @@ The session also addresses key research challenges, including the need for high-
 A DSL has been co-designed with the development of the new dynamical core, the latter called Gung Ho. Moreover, a domain specific compiler, called PSyclone has been developed as part of the DSL approach. Distributed memory parallelism, expressed over MPI has been developed in the DSL from the start. The DSL approach will be described. This approach is now being extended. How directive based programming models are being used on modern CPUs and how they are being used to exploit the computational power of GPUs is described. The approach for the physical parameterisation schemes will be presented and how working with partners from UK universities and beyond is helping to accelerate progress discussed. Preliminary performance results will be presented. To conclude, the pros and cons of the DSL approach will be discussed as well how programming model development is influencing scientific model development.
 
 ### Scientific Computing with JAX: A Case Study Evaluating Gravitational Lensing Likelihood
-**Who:** Kolen Cheung, University of Exeter
+**Who:** Chris Maynard, University of Exeter
 
 **Abstract:** JAX is a Python library that combines just-in-time (JIT) compilation with automatic differentiation, powered by XLA (Accelerated Linear Algebra compiler), to target multiple hardware architectures including CPU, GPU (NVIDIA, AMD, Intel, Apple), and Google TPU. While primarily designed for machine learning research, JAX presents compelling advantages for scientific computing in the HPC landscape.
 
