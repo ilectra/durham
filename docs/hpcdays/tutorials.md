@@ -3,19 +3,14 @@
 
 ## Monday, 2nd June 2025 
 
-<!-- ### ICCS: FTorch
-<a label="ftorch" /> -->
 ### <h2 id="ftorch">ICCS: FTorch</h2>
+**Presenters: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)**
+- 11:00 - 12:30
 
-**Presenter: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)**
-- 11:00 - 12:30 - Session 1
-
-Description: T.B.A.
+More details coming soon! 
 
 
-### HPE: SmartSim
-<a label="SmartSim" />
-
+### <h2 id="SmartSim">HPE: SmartSim</h2>
 **Presenter: Alessandro Rigazzi (HPE), Holly Judge (HPE)**
 - 13:30 - 15:00 - Session 1
 - 15:00 - 15:30 - Coffee break 
@@ -33,42 +28,13 @@ There would be an opportunity to discuss how users’ individual applications co
 
 ## Tuesday, 3rd June 2025 
 
-### AMD: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X 
-<a label="amd" />
-
-**Presenter: Bob Robey (AMD)**
-- 9:00-10:30 - Session 1
-- 10:30-11:00 - Coffee break
-- 11:00-12:30 - Session 2
-
-This will be a hands-on exploration of the new next-gen AMD Fortran and the C and C++ compiler implementation of the OpenMP offloading GPU compiler. We'll also exploit the managed memory capabilities of the APU Programming Model to make the porting much easier.
-
-What kind of complex, real-world language constructs can these compilers handle? We look at many cases in C, C++, and Fortran. Bring your complex reproducers in Fortran and C++ and we'll see if we can break the compilers.
-
-
-### Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
-<a label="SYCL" />
-
-**Presenter: t.b.c. (Codeplay)**
-- 13:30 - 15:00 - Session 1
-- 15:00 - 15:30 - Coffee break 
-- 15:30 - 17:00 - Session 2
-
-Parallel programming can be used to take advantage of heterogeneous architectures including GPUs, FPGAs, XPUs, IPUs, TPUs or special units on CPUs to significantly increase the performance of applications. SYCL is an open standard programming model that is defined by the industry and lets developers support many of these processors from different vendors using a single code base and only modern standard C++ code.
-
-This tutorial will give software developers the knowledge they need to begin developing parallel applications using C++ and the SYCL programming model. Our goal is to equip attendees with the skills they need to build highly performant applications that can be used in the fields of HPC and AI and deployed to multiple hardware platforms. We will cover the fundamentals of the SYCL programming model before moving to more advanced topics. We will explore how SYCL can be used to write serious applications, covering intermediate to advanced features of SYCL as well as some of the tools and libraries that support SYCL application development.
-This is a hands-on tutorial, attendees will work through exercises that represent key design patterns encountered by people who program heterogeneous systems and deploy this code to multiple processors from different vendors.
-
-
-### Lustre User Group: Darshan profiling on Lustre 
-<a label="lustre" />
-
+### <h2 id="lustre">Lustre User Group: Darshan profiling on Lustre</h2>
 **Presenters: Robert Esnouf, Gareth Wilson**
-- 9:00-10:00 - Talks
-- 9:00-9:05 - Welcome
-- 9:05-9:25 - Paul Ingram, Red Oak Consulting, Lustre PFL
-- 9:25-9:45 - David Ford, Oxford, Tiering to tape
-- 9:45-10:05 - TBC
+- 09:00-10:00 - Talks
+- 09:00-9:05 - Welcome
+- 09:05-9:25 - Paul Ingram, Red Oak Consulting, Lustre PFL
+- 09:25-9:45 - David Ford, Oxford, Tiering to tape
+- 09:45-10:05 - TBC
 - 10:10-10:30 - Account sign up for Darshan Tutorial
   - *Please bring a laptop with internet access and SSH client*
 - 10:30-11:00 - Coffee break
@@ -87,3 +53,28 @@ What's in it for you?
 - Lustre User Insights: Hear from experienced Lustre users sharing their tips and tricks.
 - Networking: Connect with fellow HPC enthusiasts and experts.
 
+
+
+### <h2 id="amd">AMD: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X</h2>
+**Presenter: Bob Robey (AMD)**
+- 09:00 - 10:30 - Session 1
+- 10:30 - 11:00 - Coffee break
+- 11:00 - 12:30 - Session 2
+
+This will be a hands-on exploration of the new next-gen AMD Fortran and the C and C++ compiler implementation of the OpenMP offloading GPU compiler. We'll also exploit the managed memory capabilities of the APU Programming Model to make the porting much easier.
+
+What kind of complex, real-world language constructs can these compilers handle? We look at many cases in C, C++, and Fortran. Bring your complex reproducers in Fortran and C++ and we'll see if we can break the compilers.
+
+
+### Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
+<a label="SYCL" />
+
+**Presenter: t.b.c. (Codeplay)**
+- 13:30 - 15:00 - Session 1
+- 15:00 - 16:30 - Coffee break & Opening Ceremony
+- 16:30 - 17:00 - Session 2
+
+Parallel programming can be used to take advantage of heterogeneous architectures including GPUs, FPGAs, XPUs, IPUs, TPUs or special units on CPUs to significantly increase the performance of applications. SYCL is an open standard programming model that is defined by the industry and lets developers support many of these processors from different vendors using a single code base and only modern standard C++ code.
+
+This tutorial will give software developers the knowledge they need to begin developing parallel applications using C++ and the SYCL programming model. Our goal is to equip attendees with the skills they need to build highly performant applications that can be used in the fields of HPC and AI and deployed to multiple hardware platforms. We will cover the fundamentals of the SYCL programming model before moving to more advanced topics. We will explore how SYCL can be used to write serious applications, covering intermediate to advanced features of SYCL as well as some of the tools and libraries that support SYCL application development.
+This is a hands-on tutorial, attendees will work through exercises that represent key design patterns encountered by people who program heterogeneous systems and deploy this code to multiple processors from different vendors.
