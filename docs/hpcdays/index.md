@@ -82,7 +82,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td> <b>Official Opening Ceremony:</b> <br /> Colin Bain (PVC-Research Durham University) </td>
   <td> Symposium: <a href="dri.html">DRI HPC Lab</a><br/><br /> Workshop: <a href="workshops.html#Weather">HPC in Weather & Climate Research</a> </td>
   <td> Keynote: <a href="keynotes.html#Gruber">Unleash the control freak in yourself for fun and profit - and for science!</a> (Thomas Gruber) </td>
-  <td rowspan="2"> UKRI panel with CoSeC </td>
+  <td rowspan="2"> <!--UKRI panel with CoSeC--> </td>
 </tr>
 <tr>
   <td> 16:30 </td>
@@ -94,7 +94,13 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td> 18:00 </td>
   <td colspan="5" align="center">Social</td>
 </tr>
-
+<tr>
+  <td>18:30-19:30</td>
+  <td />
+  <td />
+  <td>Industry scavenger hunt</td>
+  <td><a href="keynotes.html#meetandgreet">EPSRC Early Career Research: Meet and greet with the funder</a><br /><br /><a href="workshops.html#hpc-rse-sig-meet-up-1630-1800">HPC RSE SIG meetup</a> <br />(informal cont)</td>
+</tr>
 </table>
 
 

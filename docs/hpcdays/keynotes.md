@@ -37,7 +37,7 @@ performance.
 
 
 ## <h2 id="Neumann">Prof Dr Philipp Neumann</h2>
-<img src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
+<img width="200px" src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
 
 ### Title: T.B.A.
 
@@ -52,10 +52,6 @@ T.B.A.
 Philipp Neumann's research focuses on high performance computing for molecular dynamics simulations, multiscale simulations in fluid dynamics and machine learning. At DESY, Neumann is the first lead scientist for the area of computer science. As head of DESY IT, Neumann takes over the coordination of Helmholtz Federated IT Services HIFIS (the federated IT infrastructure and Helmholtz platform for supporting research work within the Helmholtz Association).
 
 
-
-## Digital Research Infrastructure 
-
-T.B.C. 
 
 ## <h2 id="Gruber">Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)</h2>
 <img width="200px" src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
@@ -100,7 +96,7 @@ During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the 
 
 
 ## <h2 id="Clough">Dr Katy Clough (STFC Ernest Rutherford Research Fellow)</h2>
-<img src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
+<img width="200px" src="https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_732/public/user_photos/Teddy_Hall_KClough.JPG?itok=5DsTgICH" />
 
 ### Title: T.B.A.
 
@@ -113,4 +109,16 @@ T.B.A.
 ### Short bio
 
 Katy's research focuses on using numerical solutions to understand the consequences of Einstein's theory of general relativity, in particular concerning black hole environments and inhomogeneities in the early universe. She is a member of the Geometry, Analysis and Gravitation group in the School of Mathematical Sciences.
+
+## <h2 id="meetandgreet">Christian Oganbule (EPSRC)</h2>
+
+<img width="200px" src="https://media.licdn.com/dms/image/v2/D4E03AQH1WCPjdzw35A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718271272055?e=1751500800&v=beta&t=edewrsZY5LfYJikDW8JMZdn3ttppbJ6_Q58q7HB8z1I" />
+
+### EPSRC Early Career Research: Meet and greet with the funder
+
+### Abstract
+
+This is an informal, open discussion round for Early Career Researchers (ECRs). Please bring along your questions regarding EPSRC's funding schemes and use the opportunity to ask the funder directly on advise, recommendations and clarifications. Feel free to reach out to Christian (Christian.Oganbule@epsrc.ukri.org) ahead of the meeting to let him know about your questions, so you get the most out of the event.
+
+For those who want to have further in-depth conversations about specific calls or projects (or are not that junior anymore), please request an individual meeting slot with Afia Masood (Afia.Masood@epsrc.ukri.org) for Friday morning.
 
