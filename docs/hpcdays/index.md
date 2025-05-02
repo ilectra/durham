@@ -95,7 +95,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td colspan="5" align="center">Social</td>
 </tr>
 <tr>
-  <td />
+  <td>18:30-19:30</td>
   <td />
   <td />
   <td>Industry scavenger hunt</td>
