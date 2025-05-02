@@ -53,10 +53,6 @@ Philipp Neumann's research focuses on high performance computing for molecular d
 
 
 
-## Digital Research Infrastructure 
-
-T.B.C. 
-
 ## <h2 id="Gruber">Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)</h2>
 <img width="200px" src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
 
