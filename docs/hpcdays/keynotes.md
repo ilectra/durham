@@ -1,9 +1,6 @@
 # Keynote Speakers
 
-<!-- ## Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)
-<a name="Merritt"/> -->
-
-<h2 id="Merritt">Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)</h2>
+## <h2 id="Merritt">Cristin Merritt (Chief Marketing Officer - Alces Flight Ltd.)</h2>
 <img width="200px" src="https://hanami-project.com/wp-content/uploads/2024/08/14.png" />
 
 ### Finding the Fulcrum: Rethinking Supercomputing at Scale
@@ -38,10 +35,8 @@ inclusivity in HPC. The stories and lessons from that project serve as inspirati
 keynote—reminding us that scaling supercomputing is as much about people as it is about
 performance.
 
-## Prof Dr Philipp Neumann
 
-<a name="Neumann" />
-
+## <h2 id="Neumann">Prof Dr Philipp Neumann</h2>
 <img src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
 
 ### Title: T.B.A.
@@ -62,10 +57,7 @@ Philipp Neumann's research focuses on high performance computing for molecular d
 
 T.B.C. 
 
-
-## Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)
-<a name="Gruber"/>
-
+## <h2 id="Gruber">Thomas Gruber (Regionales RechenZentrum Erlangen - RRZE)</h2>
 <img width="200px" src="https://hpc.fau.de/files/2021/03/thomas-gruber_2020.jpg" />
 
 ### Unleash the control freak in yourself for fun and profit - and for science!
@@ -106,10 +98,8 @@ research.
 
 During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the IT service provider for the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Thomas Gruber collected experience with all kinds of clustering approaches. Afterwards, he studied Computer Science at RWTH Aachen University with emphasis on parallel programming and operating system kernel development. At the same time, he worked as a research assistant for the HPC group of the RWTH IT center. After receiving his M. Sc. degree, he went back to RRZE to work for the HPC group. Since 2021, he works in the Software & Tools division at Erlangen National High Performance Computing Center (NHR@FAU). Thomas Gruber leads the development of the performance tool suite LIKWID, which comprises easy-to-use tools for hardware performance monitoring, affinity control and micro-benchmarking. He also works on projects involving monitoring and analysis of hardware performance data. He is actively involved in tutorials and lectures about performance analysis and optimization, where he presents the LIKWID tools and leads hands-on exercises.
 
-## Dr Katy Clough (STFC Ernest Rutherford Research Fellow)
 
-<a name="Clough" />
-
+## <h2 id="Clough">Dr Katy Clough (STFC Ernest Rutherford Research Fellow)</h2>
 <img src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
 
 ### Title: T.B.A.

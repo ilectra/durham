@@ -44,7 +44,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td> 9:45 </td>
   <td>  </td>
   <td> Workshop: <a href="workshops.html#WHPC">Women in HPC (WHPC) </a> <br /><br /> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-0945-to-1030">Submitted Talks</a> </td>
-  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Workshop: <a href="workshops.html#particle-2">Particle Physics</a> </td>
+  <td> Workshop: <a href="workshops.html#eCSE">eCSE Session</a><br/><br/>Workshop: <a href="workshops.html#particle-2">High-Energy Particle Physics</a> </td>
   <td> Workshop: <a href="workshops.html#NumericalRelativity">Numerical Relativity</a><br/><br/>
        Workshop: <a href="workshops.html#Benchmarking-2">Benchmarking</a> </td>
 </tr> 
@@ -67,7 +67,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
 <tr>
   <td> 13:30 </td>
   <td> Tutorial: <a href="tutorials.html#SmartSim">SmartSim</a> </td>
-  <td> Tutorial: <a href="tutorials.html#SYCL">SYCL</a> <br /> <br /> Workshop: <a href="workshops.html#DiRACRSEs"> DiRAC RSEs </a> </td>
+  <td> Tutorial: <a href="tutorials.html#SYCL">Codeplay: SYCL</a> <br /> <br /> Workshop: <a href="workshops.html#DiRAC-RSEs"> DiRAC RSEs </a> </td>
   <td> <a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#wednesday-4-june-2025-1330-to-1500">Submitted Talks</a> <br /><br /> Workshop: <a href="workshops.html#particle">High-Energy Particle Physics</a> </td>
   <td> Keynote: <a href="dri.html">Digital Research Infrastructure</a> <br /> (t.b.c.) <br /><br /> <a href="dri.html">UKRI DRI</a></td>
   <td> Workshop: <a href="workshops.html#CoSeC">CoSeC</a> <br/><br/>Workshop: <a href="workshops.html#particle-3">Particle physics</a> </td>
@@ -85,12 +85,16 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td rowspan="2"> UKRI panel with CoSeC </td>
 </tr>
 <tr>
-  <td> 16:30-18:00 </td>
-  <td> Tutorial: <a href="tutorials.html#SYCL">SYCL</a> <br /><br />  Workshop: <a href="workshops.html#DiRAC-RSEs">DiRAC RSEs (internal)</a> <br/><br/><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#tuesday-3-june-2025-1630-to-1650">Submitted Talks</a></td>
+  <td> 16:30 </td>
+  <td> Tutorial: <a href="tutorials.html#SYCL">Codeplay: SYCL</a> <br /><br />  Workshop: <a href="workshops.html#DiRAC-RSEs">DiRAC RSEs (internal)</a> <br/><br/><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#tuesday-3-june-2025-1630-to-1650">Submitted Talks</a></td>
   <td> <b>Showcasing our Sponsors:</b> Lightning Talks and Panel</td>
   <td>Workshop: <a href="workshops.html#Bencharking">Benchmarking</a><br /><br /><a href="workshops.html#hpc-rse-sig-meet-up-1630-1800">HPC RSE SIG meetup</a></td>
 </tr>
-  
+<tr>
+  <td> 18:00 </td>
+  <td colspan="5" align="center">Social</td>
+</tr>
+
 </table>
 
 
