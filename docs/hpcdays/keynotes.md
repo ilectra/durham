@@ -37,7 +37,7 @@ performance.
 
 
 ## <h2 id="Neumann">Prof Dr Philipp Neumann</h2>
-<img src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
+<img width="200px" src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
 
 ### Title: T.B.A.
 
@@ -100,7 +100,7 @@ During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the 
 
 
 ## <h2 id="Clough">Dr Katy Clough (STFC Ernest Rutherford Research Fellow)</h2>
-<img src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
+<img width="200px" src="https://www.qmul.ac.uk/maths/media/maths/people/staff-photos/Teddy_Hall_by_John_Cairns_3.10.18-104.JPG" />
 
 ### Title: T.B.A.
 
@@ -116,7 +116,7 @@ Katy's research focuses on using numerical solutions to understand the consequen
 
 ## <h2 id="meetandgreet">Christian Oganbule (EPSRC)</h2>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQH1WCPjdzw35A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718271272055?e=1751500800&v=beta&t=edewrsZY5LfYJikDW8JMZdn3ttppbJ6_Q58q7HB8z1I" />
+<img width="200px" src="https://media.licdn.com/dms/image/v2/D4E03AQH1WCPjdzw35A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718271272055?e=1751500800&v=beta&t=edewrsZY5LfYJikDW8JMZdn3ttppbJ6_Q58q7HB8z1I" />
 
 ### EPSRC Early Career Research: Meet and greet with the funder
 
