@@ -116,6 +116,8 @@ Katy's research focuses on using numerical solutions to understand the consequen
 
 ## <h2 id="meetandgreet">Christian Oganbule (EPSRC)</h2>
 
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQH1WCPjdzw35A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718271272055?e=1751500800&v=beta&t=edewrsZY5LfYJikDW8JMZdn3ttppbJ6_Q58q7HB8z1I" />
+
 ### EPSRC Early Career Research: Meet and greet with the funder
 
 ### Abstract
