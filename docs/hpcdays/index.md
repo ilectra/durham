@@ -99,7 +99,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td />
   <td />
   <td>Industry scavenger hunt</td>
-  <td><a href="keynotes.html#meetandgreet">EPSRC Early Career Research: Meet and greet with the funder</a><br /><br /><a href="workshops.html#hpc-rse-sig-meet-up-1630-1800">HPC RSE SIG meetup</a> </td>
+  <td><a href="keynotes.html#meetandgreet">EPSRC Early Career Research: Meet and greet with the funder</a><br /><br /><a href="workshops.html#hpc-rse-sig-meet-up-1630-1800">HPC RSE SIG meetup</a> <br />(informal cont)</td>
 </tr>
 </table>
 
