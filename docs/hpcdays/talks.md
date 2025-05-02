@@ -79,7 +79,7 @@
 <tr>
 <td>11:00 - 11:20</td>
 <td>HPC waste heat storage: the ICHS project at Durham University</td>
-<td>Alastair Basden</td>
+<td>Paul Walker</td>
 <td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#hpc-waste-heat-storage-the-ichs-project-at-durham-university">details</a></td>
 </tr>
 
