@@ -98,13 +98,13 @@ During his apprenticeship at the Erlangen Regional Computing Center (RRZE), the 
 ## <h2 id="Clough">Dr Katy Clough (STFC Ernest Rutherford Research Fellow)</h2>
 <img width="200px" src="https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_732/public/user_photos/Teddy_Hall_KClough.JPG?itok=5DsTgICH" />
 
-### Title: T.B.A.
+### Title: Challenges and Opportunities in HPC for Numerical Relativity
 
 **Friday, 6th June 2025, 09:00 - 09:45**
 
 ### Abstract
 
-T.B.A.
+Numerical relativity is a set of tools for modelling the evolution of dynamical spacetimes in strong gravity regimes. The canonical example of our simulations is a binary black hole merger, where the characterisation of the associated gravitational wave signals is essential for interpreting observational data from the LVK observatories. The same simulations allow us to study physics beyond General Relativity and the Standard Model, including the cosmological singularity, modified gravity, dark matter environments and hypothetical alien warp drives. HPC is essential for these studies and as a result the transition to GPUs presents both challenges and opportunities for our field. In this talk I will give an overview of the current status, and highlight the discovery potential that advances in HPC can unlock.     
 
 ### Short bio
 
