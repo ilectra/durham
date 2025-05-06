@@ -39,13 +39,13 @@ performance.
 ## <h2 id="Neumann">Prof Dr Philipp Neumann</h2>
 <img width="200px" src="https://www.desy.de/sites2009/site_www-desy/content/e410/e123090/e340114/Philipp-Neumann-DESY-Leitender-Wissenschaftler-header_ger.jpg" />
 
-### Title: T.B.A.
+### Title: Molecular Simulation in Process Engineering: Impressions from the Era of Exascale Computing and Data Science
 
 **Thursday, 5th June 2025, 9:00 - 9:45**
 
 ### Abstract
 
-T.B.A.
+For more than a decade, a consortium formed by experts in scientific computing, HPC and process engineering jointly develop solutions for efficient molecular dynamics simulations. In my talk, I will provide a recap of research and scientific software developments, tying together challenges from applications and computing -- leading to the current state of our simulation software technology in the era of exascale computing and data science. This involves topics such as load balancing, automated algorithm selection and coupled multiscale systems, all of which have been explored and covered in the open-source software packages ls1 mardyn, AutoPas and MaMiCo.
 
 ### Short bio
 
