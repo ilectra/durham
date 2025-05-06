@@ -38,7 +38,7 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
   <td> Keynote: <a href="keynotes.html#Merritt">Finding the Fulcrum: Rethinking Supercomputing at Scale</a> (Cristin Merritt)</td>
   <td> Keynote: <a href="keynotes.html#Neumann">Molecular Simulation in Process Engineering: Impressions from the Era of Exascale Computing and Data Science</a> (Philipp Neumann) </td>
   <td> Keynote: <a href="keynotes.html#Clough">Challenges and Opportunities in HPC for Numerical Relativity</a> (Katy Clough) </td>
-  <td rowspan=13> Social </td>
+  <td rowspan=13> <a href="social.html">Social</a> </td>
 </tr>
 <tr>
   <td> 9:45 </td>
