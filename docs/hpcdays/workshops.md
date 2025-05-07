@@ -2,23 +2,22 @@
 
 ## Tuesday, 3rd June 2025
 
-### <h2 id="biosciences">Computational Biosciences</h2>
+### Computational Biosciences
 **Conveners: Christopher Marcotte (Durham) and Gokberk Kabacaoglu (Durham)** 
 - 9:30 - 10:30 and 11:00 - 12:30 
 
-5x25-minute talks
-
-Speakers: 
+Join us for 5 x 25-minute talks from the following speakers:  
 - Maria Secrier (University College London)
 - Tyler Shendruk (University of Edinburgh)
 - Ulrik Beierholm (Durham)
+- More to be announced. 
 
 
-### <h2 id="DiRAC-RSEs">DiRAC RSEs</h2>
+### DiRAC RSEs
 **Convener: Ilektra Christidi (UCL)**
 - 13:30 - 15:00 and 16:30 - 18:00
 
-4x20-minute talks (speakers to be confirmed)
+Join us for 4 x 20-minute talks, speakers to be confirmed. 
 
 This session is for the DiRAC RSEs to present their work to the UK HPC community, as well as catch up with each other and other DiRAC people that might want to join. Come join us to see how DiRAC RSEs accelerate science in particle physics, astrophysics, and cosmology, by promoting good software development practices, optimising software running on the DiRAC sites, and assisting researchers in implementing new functionality and using accelerators in their codes.
 
@@ -28,7 +27,7 @@ This session is for the DiRAC RSEs to present their work to the UK HPC community
 
 ## Wednesday, 4th June 2025 
 
-### <h2 id="WHPC">Women in HPC (WHPC)</h2>
+### Women in HPC (WHPC)
 **Convener: Eleanor Broadway (EPCC)**
 - 09:45 - 10:30 
 
@@ -56,7 +55,7 @@ Our panelists are:
 This workshop consists of two parts. The second, taking place on Friday, will be informed by and extend on this discussion.
 
 
-### <h2 id="Weather">HPC in Weather & Climate Research</h2>
+### HPC in Weather & Climate Research
 **Conveners: Chris Maynard (Met Office), Marion Weinzierl (ICCS, University of Cambridge)**
 - 11:00 - 12:30 and 15:30 - 16:30
 
@@ -104,7 +103,7 @@ Our speakers are:
    </details>
 
 
-### <h2 id="particle">HPC/HTC in High-Energy Physics</h2>
+### HPC/HTC in High-Energy Physics
 **Conveners: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 - 13:30 - 15:00 
 
@@ -117,14 +116,14 @@ Speakers:
 
 ## Thursday, 5 June 2025
 
-### <h2 id="eCSE">eCSE Session</h2>
+### eCSE Session
 **Convener: Mladen Ivkovich (Durham University)**
 - 9:45 - 10:30 and 11:00 - 12:30
 
 The ARCHER2 GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. Two such GPU eCSE calls have closed recently. In this knowledge exchange workshop, leads and developers of the funded projects present their current work and the challenges they're facing in their respective domains with regards to HPC GPU acceleration of scientific software. 
 
 
-### <h2 id="particle-2">HPC/HTC in High-Energy Physics</h2>
+### HPC/HTC in High-Energy Physics
 **Conveners: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 - 9:45 - 10:30
 
@@ -134,7 +133,7 @@ Speakers:
 - Antonin Portelli (Edinburgh)
 
 
-### <h2 id="Benchmarking">Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI </h2>
+### Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI
 **Conveners: DiRAC, ExCALIBUR, UKRI Living Benchmarks**
 **Lead: Mark Wilkinson**
 - 16:30 - 18:00
@@ -165,7 +164,7 @@ in the UK or internationally. We will also try to include at least one presentat
 international partner to bring insights from outside the UK.
 
 
-### <h2 id="hpc-rse-sig-meet-up-1630-1800">HPC RSE SIG Meet-up</h2>
+### HPC RSE SIG Meet-up
 **Conveners: Marion Weinzierl, Nick Brown**
 - 16:30 - 18:00
 
@@ -178,14 +177,14 @@ We will start with an un-conference style discussion session (i.e., discussion t
 
 ## Friday, 6 June 2025 
 
-### <h2 id="NumericalRelativity">Numerical Relativity</h2>
+### Numerical Relativity
 **Convener: Han Zhang**
 - 9:45 - 10:30 and 11:00 - 12:30 
 
 More details coming soon! 
 
 
-### <h2 id="Benchmarking-2">Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI </h2>
+### Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI 
 **Conveners: DiRAC, ExCALIBUR, UKRI Living Benchmarks**
 **Lead: Mark Wilkinson**
 - 9:45 - 10:30
@@ -216,7 +215,7 @@ in the UK or internationally. We will also try to include at least one presentat
 international partner to bring insights from outside the UK.
 
 
-### <h2 id="WHPC">Women in HPC (WHPC)</h2>
+### Women in HPC (WHPC)
 **Convener: Eleanor Broadway (EPCC)**
 - 11:00 - 12:30 
 
@@ -236,14 +235,14 @@ Organised by representatives from the Women in High Performance Computing (WHPC)
 
 Finally, in the third part of our session, Mike Simpson (Newcastle University) will lead a focused conversation on mental health around volunteering for EDI initatives. EDI work is often driven by deeply personal motivations, the emotional weight of this can take a toll and it's important to look after yourself. We want to help support you in this as well as advancing our community to improve the state of EDI.
 
-### <h2 id="CoSeC">CoSeC</h2>
+### CoSeC
 **Conveners: Stephen Longshaw (UKRI STFC), Damian Jones (UKRI STFC)**
 - 13:30 - 15:00 and 15:30 - 17:00
 
 More details coming soon! 
 
 
-### <h2 id="particle-3">HPC/HTC in High-Energy Physics</h2>
+### HPC/HTC in High-Energy Physics
 **Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 - 13:30 - 15:00  
 
