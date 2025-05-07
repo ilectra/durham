@@ -110,3 +110,4 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
 
 If you would like to sponsor the event, please contact us!
 
+![AnimatedSponsors](../images/animatedhpcdayslogo.gif){w=30%}
