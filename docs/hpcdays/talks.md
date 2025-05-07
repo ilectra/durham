@@ -1,6 +1,6 @@
 # Talks schedule
 
-## Tuesday, 3 June 2025, 16:30 to 16:50
+## Tuesday, 3 June 2025, 16:30 to 17:50
 
 <table border="0">
 <tr>
