@@ -16,7 +16,9 @@ contribute
 ![HPCDays](../images/HPC-days-pic.png)
 
 ## Registration 
-Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham.ac.uk/event-durham/durham-hpc-days-2025). We hope to see you there! 
+Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham.ac.uk/event-durham/durham-hpc-days-2025). We hope to see you there!
+
+Please make sure you [book somewhere to stay](hotels.md)
 
 ## Programme
 
@@ -104,9 +106,13 @@ Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham
 </table>
 
 
-## Supporters
+## Sponsors and Supporters
+
+[For Sponsor and Supporter information please click here](sponsor.md)
 
 ![Sponsors](../images/logos.png)
+
+
 
 If you would like to sponsor the event, please contact us!
 
