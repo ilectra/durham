@@ -190,7 +190,7 @@ In this talk I will discuss how we are approaching the ongoing commissioning of 
 **Abstract:** TBC
 
 ### HPC waste heat storage: the ICHS project at Durham University
-**Who:** Alastair Basden, Durham University
+**Who:** Paul Walker, Durham University
 
 **Abstract:** We present the ICHS project (Immersion Cooling and Heat Storage) at Durham University, researching into techniques to reduce the environmental impact of HPC. This project is two-fold: firstly we have a HPC immersion tank to explore techniques to maximise waste heat temperature increasing reusability, and secondly we are exploring the use of flooded mine workings beneath the data centre for inter-seasonal storage of data centre waste heat, allowing heat to be captured during summer months and reused for building heating during the winter. With HPC and AI consuming an ever increasing amount of electricity, making best use of the waste heat is critical.
 
