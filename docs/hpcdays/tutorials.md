@@ -3,14 +3,14 @@
 
 ## Monday, 2nd June 2025 
 
-### <h2 id="ftorch">ICCS: FTorch</h2>
+### ICCS: FTorch
 **Presenters: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)**
 - 11:00 - 12:30
 
 More details coming soon! 
 
 
-### <h2 id="SmartSim">HPE: SmartSim</h2>
+### HPE: SmartSim
 **Presenter: Alessandro Rigazzi (HPE), Holly Judge (HPE)**
 - 13:30 - 15:00 - Session 1
 - 15:00 - 15:30 - Coffee break 
@@ -28,7 +28,7 @@ There would be an opportunity to discuss how users’ individual applications co
 
 ## Tuesday, 3rd June 2025 
 
-### <h2 id="lustre">Lustre User Group: Darshan profiling on Lustre</h2>
+### Lustre User Group: Darshan profiling on Lustre
 **Presenters: Robert Esnouf, Gareth Wilson**
 - 09:00-10:00 - Talks
 - 09:00-9:05 - Welcome
@@ -55,7 +55,7 @@ What's in it for you?
 
 
 
-### <h2 id="amd">AMD: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X</h2>
+### AMD GPUs: Simplify your HPC Application Port to GPUs - OpenMP and Managed Memory on AMD MI300A and MI300X
 **Presenter: Bob Robey (AMD)**
 - 09:00 - 10:30 - Session 1
 - 10:30 - 11:00 - Coffee break
@@ -67,8 +67,6 @@ What kind of complex, real-world language constructs can these compilers handle?
 
 
 ### Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
-<a label="SYCL" />
-
 **Presenter: t.b.c. (Codeplay)**
 - 13:30 - 15:00 - Session 1
 - 15:00 - 16:30 - Coffee break & Opening Ceremony
