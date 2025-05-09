@@ -29,7 +29,7 @@ We will collect preferred variants of participants upon departure, but it is the
 Hiking is a risky activity. 
 Participants join the trip on their own risk, i.e. the organiser is not liable.
 We will collect emergency contact information and any medical information to pass on to paramedics upon departure.
-
+Good footwear and waterproofs, as well as sufficient water and snacks are recommended.
 
 ## Further participants
 
