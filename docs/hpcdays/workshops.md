@@ -28,19 +28,20 @@ This session is for the DiRAC RSEs to present their work to the UK HPC community
 ## Wednesday, 4th June 2025 
 
 ### Women in HPC (WHPC)
-**Convener: Eleanor Broadway (EPCC)**
+**Conveners: Eleanor Broadway (EPCC), Marion Weinzierl (ICCS)**
 - 09:45 - 10:30 
 
 **The EDI Equation: Getting the Balance Wrong** 
 
 In order to drive change and impact around equality, diversity and inclusion (EDI) we need a finely tuned balance of:
 
-Passion: People who care deeply and take action
-Lived experience: Those who are directly affected to provide input
-Diversity of voices to ensure suitability for all
-Institutional buy-in: Support from leadership, feeding into career progression to incentivise engagement.
-Funding and resources
-Accountability and accurate reporting on success of initatives
+* Passion: People who care deeply and take action
+* Lived experience: Those who are directly affected to provide input
+* Diversity of voices to ensure suitability for all
+* Institutional buy-in: Support from leadership, feeding into career progression to incentivise engagement.
+* Funding and resources
+* Accountability and accurate reporting on success of initatives
+
 But, when this balance tips the wrong way, we can see an unsustainable over-reliance on volunteer-driven initiatives with a lack of institutional buy-in and, ultimately, missed opportunities for driving real and impactful progress.
 
 Organised by representatives from the Women in High Performance Computing (WHPC) community, this panel session will discuss where here EDI efforts in HPC are falling short and explore how we can rebalance the equation — together.
@@ -50,7 +51,7 @@ Our panelists are:
 * Cristin Merritt, Alces Flight Ltd
 * Jeremy Cohen, Imperial College London
 * Selina Aragon, EPCC and the SSI 
-* More to be announced!
+* Astrid Scott-Bennett, Research Computing Services, University of Cambridge
 
 This workshop consists of two parts. The second, taking place on Friday, will be informed by and extend on this discussion.
 
@@ -216,19 +217,20 @@ international partner to bring insights from outside the UK.
 
 
 ### Women in HPC (WHPC)
-**Convener: Eleanor Broadway (EPCC)**
+**Conveners: Eleanor Broadway (EPCC), Marion Weinzierl (ICCS)**
 - 11:00 - 12:30 
 
 **The EDI Equation: Getting the Balance Wrong**
 
 In order to drive change and impact around equality, diversity and inclusion (EDI) we need a finely tuned balance of:
 
-Passion: People who care deeply and take action
-Lived experience: Those who are directly affected to provide input
-Diversity of voices to ensure suitability for all
-Institutional buy-in: Support from leadership, feeding into career progression to incentivise engagement.
-Funding and resources
-Accountability and accurate reporting on success of initatives
+* Passion: People who care deeply and take action
+* Lived experience: Those who are directly affected to provide input
+* Diversity of voices to ensure suitability for all
+* Institutional buy-in: Support from leadership, feeding into career progression to incentivise engagement.
+* Funding and resources
+* Accountability and accurate reporting on success of initatives
+
 But, when this balance tips the wrong way, we can see an unsustainable over-reliance on volunteer-driven initiatives with a lack of institutional buy-in and, ultimately, missed opportunities for driving real and impactful progress.
 
 Organised by representatives from the Women in High Performance Computing (WHPC) community, this second session will bring the conversation to you! In the first part, taking place prior to this on Wednesday, we will host a panel discussion from representatives of the community to discuss getting the balance right as volunteers for EDI efforts in HPC. Don't worry, we will provide a complete summary, so please come along even if you missed the first session. This second session will be a group discussion, finding strategies to address these problems in the day-to-day, and advocate for small tangible changes.
