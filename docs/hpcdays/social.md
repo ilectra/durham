@@ -2,9 +2,7 @@
 
 On Saturday, 7 June, we will organise a half-day/one day trip to Hadrian's Wall:
 
-<center>
-<a href="https://www.nationaltrust.org.uk/visit/north-east/hadrians-wall-and-housesteads-fort/housesteads-to-steel-rigg-circular-walk"><img src="hadrianswall.jpg" /></a>
-</center>
+![Hadrians Wall](hadrianswall.jpg)
 
 
 
