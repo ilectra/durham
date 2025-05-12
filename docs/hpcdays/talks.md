@@ -1,6 +1,6 @@
 # Talks schedule
 
-## Tuesday, 3 June 2025, 16:30 to 16:50
+## Tuesday, 3 June 2025, 16:30 to 17:50
 
 <table border="0">
 <tr>
@@ -79,7 +79,7 @@
 <tr>
 <td>11:00 - 11:20</td>
 <td>HPC waste heat storage: the ICHS project at Durham University</td>
-<td>Alastair Basden</td>
+<td>Paul Walker</td>
 <td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#hpc-waste-heat-storage-the-ichs-project-at-durham-university">details</a></td>
 </tr>
 
@@ -190,7 +190,7 @@ In this talk I will discuss how we are approaching the ongoing commissioning of 
 **Abstract:** TBC
 
 ### HPC waste heat storage: the ICHS project at Durham University
-**Who:** Alastair Basden, Durham University
+**Who:** Paul Walker, Durham University
 
 **Abstract:** We present the ICHS project (Immersion Cooling and Heat Storage) at Durham University, researching into techniques to reduce the environmental impact of HPC. This project is two-fold: firstly we have a HPC immersion tank to explore techniques to maximise waste heat temperature increasing reusability, and secondly we are exploring the use of flooded mine workings beneath the data centre for inter-seasonal storage of data centre waste heat, allowing heat to be captured during summer months and reused for building heating during the winter. With HPC and AI consuming an ever increasing amount of electricity, making best use of the waste heat is critical.
 
@@ -221,7 +221,7 @@ The session also addresses key research challenges, including the need for high-
 A DSL has been co-designed with the development of the new dynamical core, the latter called Gung Ho. Moreover, a domain specific compiler, called PSyclone has been developed as part of the DSL approach. Distributed memory parallelism, expressed over MPI has been developed in the DSL from the start. The DSL approach will be described. This approach is now being extended. How directive based programming models are being used on modern CPUs and how they are being used to exploit the computational power of GPUs is described. The approach for the physical parameterisation schemes will be presented and how working with partners from UK universities and beyond is helping to accelerate progress discussed. Preliminary performance results will be presented. To conclude, the pros and cons of the DSL approach will be discussed as well how programming model development is influencing scientific model development.
 
 ### Scientific Computing with JAX: A Case Study Evaluating Gravitational Lensing Likelihood
-**Who:** Chris Maynard, University of Exeter
+**Who:** Kolen Cheung, University of Exeter
 
 **Abstract:** JAX is a Python library that combines just-in-time (JIT) compilation with automatic differentiation, powered by XLA (Accelerated Linear Algebra compiler), to target multiple hardware architectures including CPU, GPU (NVIDIA, AMD, Intel, Apple), and Google TPU. While primarily designed for machine learning research, JAX presents compelling advantages for scientific computing in the HPC landscape.
 
