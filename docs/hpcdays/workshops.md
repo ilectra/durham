@@ -124,19 +124,20 @@ Speakers:
 The ARCHER2 GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. Two such GPU eCSE calls have closed recently. In this knowledge exchange workshop, leads and developers of the funded projects present their current work and the challenges they're facing in their respective domains with regards to HPC GPU acceleration of scientific software.
 
 Speakers:
-- Chris Cantwell
+
+- Chris Cantwell (Imperial College London)
 
   - Title: "Extending high-fidelity modelling with Nektar++ to the next generation of supercomputers"
 
   - Abstract: Nektar++ is a parallel and scalable C++ framework for the high-fidelity solution of partial differential equations using spectral/hp element methods. These methods provide a rich discretisation space, capable of efficiently and accurately capturing transient dynamics across a wide range of scales in highly complex geometries. The software is used in a wide range of application areas, including aeronautical, automotive and environmental engineering, the energy sector, and biomedicine. Initially developed nearly 20 years ago in a "CPU era", it has recently seen substantial development investment in transitioning the code to support heterogeneous technologies which form the basis of current and future HPC platforms. In this talk, I will share the key design decisions we have made, the algorithmic and implementation challenges we faced and our approach to addressing them, summarise our current performance on these modern platforms, and finally outline our vision for future developments.
 
-- Jason McEven
+- Jason McEven (UCL)
 
   - Title: Differentiable and Accelerated Spherical Transforms
 
   - Abstract: Many fields of science and engineering, in both academic and industrial settings, encounter data on spherical manifolds. The diversity of applications is quite remarkable, ranging from geophysics, exoplanets, and climate science, to early and late Universe cosmology, to biomedical imaging and molecular chemistry, and far beyond, such as gravitational waves and computer vision. While a number of codes are available to compute spherical harmonic transforms, for example, existing codes are not suitable for many modern scientific computing applications since they do not support automatic differentiation or GPU acceleration. We have developed the `s2x` suite of open-source spherical codes, with interfaces in both JAX and PyTorch, providing both automatic differentiation and GPU acceleration to facilitate differentiable programming workflows or AI models and to leverage the high-throughput of modern hardware accelerators. The suite includes [`s2fft`](https://github.com/astro-informatics/s2fft) for spherical harmonic transforms and Wigner transforms (Fourier transforms on the sphere and rotation group), [`s2wav`](https://github.com/astro-informatics/s2wav) for spherical wavelet transforms, [`s2scat`](https://github.com/astro-informatics/s2scat) for spherical scattering transforms (a powerful latent space for generative models), and [`s2ai`](https://github.com/astro-informatics/s2ai) for spherical AI models that exhibit excellent rotational equivariance properties. In this talk I will overview these codes and their underlying mathematical methods and computational algorithms. I will also touch briefly on the use of these codes for generative modelling of cosmological fields. We actively encourage new contributors for the `s2x` code suite and run [all-contributors](https://allcontributors.org/) to ensure all efforts are recognised -- don't hesitate to get in touch if you're interested or would just like to know more!
 
-- Sebastien Lemaire
+- Sebastien Lemaire (EPCC)
 
   - Title:  x3d2: a modern High Fidelity CFD Solver for CPU and GPU based supercomputers
 
@@ -146,11 +147,11 @@ Speakers:
 
     The distributed tri-diagonal solver at the core of x3d2 showed to sustain 66% of the theoretical peak bandwidth at scale on both CPU and GPU based supercomputers.
 
-- Nick Brown
+- Nick Brown (EPCC)
 
-- Phil Hasnip
+- Phil Hasnip (University of York)
 
-- Chris Johnson
+- Chris Johnson (EPCC)
 
 
 ### HPC/HTC in High-Energy Physics
