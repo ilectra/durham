@@ -67,7 +67,7 @@ What kind of complex, real-world language constructs can these compilers handle?
 
 
 ### Codeplay: Accelerate your code on GPUs and more using C++ and SYCL
-**Presenter: t.b.c. (Codeplay)**
+**Presenter: Duncan McBain (Codeplay)**
 - 13:30 - 15:00 - Session 1
 - 15:00 - 16:30 - Coffee break & Opening Ceremony
 - 16:30 - 17:00 - Session 2
