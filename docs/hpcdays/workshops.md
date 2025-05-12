@@ -66,8 +66,9 @@ Our speakers are:
 
 - Greenville Lister, NCAS:
    <details>
-       <summary>"Running large simulation models and workflow"</summary>
-      tbc
+       <summary>"The CANARI Large Ensemble climate modelling workflow."</summary>
+      In tandem with technical developments in climate/Earth-System modelling, the vast majority of HPC resources is still consumed by running established models with relatively mature workflows on current platforms. 
+      We describe the CANARI HPC climate modelling workflow on ARCHER2 and JASMIN and discuss what it takes to run a modest climate modelling experiment.
    </details>
 
 - Ben Went, Met Office:
