@@ -15,6 +15,9 @@ Participants might want to visit <a href="https://www.english-heritage.org.uk/vi
 
 ## Agenda
 
+t.b.c.
+
+<!--
 - 8:00 Meet at Department of Computer Science; participants can leave their luggage in the bus
 - 10:00 Arrival at Housestead's Romand Fort
 - 12:30 Pick up at The Sill National Landscape Discovery centre (next to Once Brewed Pub); drop off at Newcastle Airport around 13:30 (there is also a metro connection to Newcastle Central Station) - maybe drop back in Durham?
@@ -22,7 +25,7 @@ Participants might want to visit <a href="https://www.english-heritage.org.uk/vi
 - 17:30 Drop off at Durham Station or Computer Science building
 
 We will collect preferred variants of participants upon departure, but it is the participants' own responsibility to arrive at the pick up points on time.
-
+-->
 
 ## Insurance and risk
 
