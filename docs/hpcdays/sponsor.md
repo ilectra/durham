@@ -26,3 +26,19 @@ You will have a table top where you can set up a stand.  Feel free to bring a ba
 
 There will be a treasure hunt for attendees (including sponsors, if desired) to do, which will encourage interaction with the sponsors.  They will need to ask you a question or get information from your stand to complete the answers, and so help to encourage interaction.
 
+## Attendees
+
+We are expecting around 120-150 attendees throughout the week, though not all will stay for the entire week.
+
+## Deliveries
+
+If you wish to ship goods to Durham, please send it to:
+
+```
+Prof. Tobias Weinzierl
+Department of Maths and Computer Science
+Upper Mountjoy Campus
+Stockton Road
+Durham
+DH1 3LE
+```
