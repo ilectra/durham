@@ -59,7 +59,7 @@ Please make sure you [book somewhere to stay](hotels.md)
   <td> 11:00 </td>
   <td> Tutorial: <a href="tutorials.html#iccs-ftorch">FTorch</a> </td>
   <td> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre User Group</a>  → <br /><div style="color:LightGrey;font-size=50%">and</div> Tutorial: <a href="tutorials.html#amd-gpus-simplify-your-hpc-application-port-to-gpus-openmp-and-managed-memory-on-amd-mi300a-and-mi300x">AMD GPUs</a><br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#computational-biosciences">Computational Biosciences</a> </td>
-  <td> Meeting: <a href="dri.html">DRI HPC Lab (internal)</a><br/><br /> Workshop: <a href="workshops.html#hpc-in-weather-climate-research">HPC in Weather & Climate Research</a>  <br /><div style="color:LightGrey;font-size=50%">and</div> <a href="talks.html#wednesday-4-june-2025-11-00-to-12-30">Submitted Talks</a></td>
+  <td> Meeting: <a href="dri.html">DRI HPC Lab (internal)</a> <br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#hpc-in-weather-climate-research">HPC in Weather & Climate Research</a>  <br /><div style="color:LightGrey;font-size=50%">and</div> <a href="talks.html#wednesday-4-june-2025-11-00-to-12-30">Submitted Talks</a></td>
   <td> Workshop: <a href="workshops.html#ecse-session">eCSE Session</a>  <br /><div style="color:LightGrey;font-size=50%">and</div><a href="dri.html">UKRI DRI</a> </td>
   <td> Workshop: <a href="workshops.html#numerical-relativity">Numerical Relativity</a>  <br /><div style="color:LightGrey;font-size=50%">and</div>Workshop: <a href="workshops.html#id3">Women in HPC (WHPC) </a> </td>
 </tr> 
@@ -83,7 +83,7 @@ Please make sure you [book somewhere to stay](hotels.md)
   <td> 15:30 </td>
   <td rowspan="2"> Tutorial: <a href="tutorials.html#hpe-smartsim"> HPE: SmartSim</a> </td>
   <td> <b>Official Opening Ceremony:</b> <br /> Colin Bain (PVC-Research Durham University) </td>
-  <td> Symposium: <a href="dri.html">DRI HPC Lab</a><br/><br /> Workshop: <a href="workshops.html#hpc-in-weather-climate-research">HPC in Weather & Climate Research</a> </td>
+  <td> Symposium: <a href="dri.html">DRI HPC Lab</a> <br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#hpc-in-weather-climate-research">HPC in Weather & Climate Research</a> </td>
   <td> Keynote: <a href="keynotes.html#thomas-gruber-regionales-rechenzentrum-erlangen-rrze">Unleash the control freak in yourself for fun and profit - and for science!</a> (Thomas Gruber) </td>
   <td rowspan="2"> <!--UKRI panel with CoSeC--> </td>
 </tr>
