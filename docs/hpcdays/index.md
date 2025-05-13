@@ -37,7 +37,7 @@ Please make sure you [book somewhere to stay](hotels.md)
 <tr>
   <td> 9:00 </td>
   <td> </td>
-  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre User Group</a> <br /><p style="color:grey;">and</p><br />  Tutorial: <a href="tutorials.html#amd-gpus-simplify-your-hpc-application-port-to-gpus-openmp-and-managed-memory-on-amd-mi300a-and-mi300x">AMD GPUs</a> <br /><br /> Workshop: <a href="workshops.html#computational-biosciences">Computational Biosciences</a></td>
+  <td rowspan="2"> Tutorial: <a href="tutorials.html#lustre-user-group-darshan-profiling-on-lustre">Lustre User Group</a> <br /><div style="color:LightGrey;font-size=50%">and</div><br />  Tutorial: <a href="tutorials.html#amd-gpus-simplify-your-hpc-application-port-to-gpus-openmp-and-managed-memory-on-amd-mi300a-and-mi300x">AMD GPUs</a> <br /><br /> Workshop: <a href="workshops.html#computational-biosciences">Computational Biosciences</a></td>
   <td> Keynote: <a href="keynotes.html#cristin-merritt-chief-marketing-officer-alces-flight-ltd">Finding the Fulcrum: Rethinking Supercomputing at Scale</a> (Cristin Merritt)</td>
   <td> Keynote: <a href="keynotes.html#prof-dr-philipp-neumann">Molecular Simulation in Process Engineering: Impressions from the Era of Exascale Computing and Data Science</a> (Philipp Neumann) </td>
   <td> Keynote: <a href="keynotes.html#dr-katy-clough-stfc-ernest-rutherford-research-fellow">Challenges and Opportunities in HPC for Numerical Relativity</a> (Katy Clough) </td>
