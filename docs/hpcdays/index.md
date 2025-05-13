@@ -11,6 +11,7 @@ tutorials
 keynotes
 workshops
 contribute
+social
 ```
 
 ![HPCDays](../images/HPC-days-pic.png)
