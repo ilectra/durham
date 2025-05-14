@@ -15,8 +15,8 @@ The FTorch (https://github.com/Cambridge-ICCS/FTorch) approach makes use of the 
 This approach avoids data copies and the need for a Python runtime, both of which can be problematic for HPC.
 
 In this tutorial, attendees will:
-- Learn how to create, manipulate, and interrogate FTorch tensors.
 - Write an ML model using PyTorch and load it for inference in Fortran using FTorch.
+- Learn how to create, manipulate, and interrogate FTorch tensors.
 - Experiment with FTorch's newly added automatic differentiation functionality.
 - Hear about ongoing and future work on enabling online training.
 
