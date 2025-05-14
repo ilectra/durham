@@ -272,7 +272,15 @@ Finally, in the third part of our session, Mike Simpson (Newcastle University) w
 **Conveners: Stephen Longshaw (UKRI STFC), Damian Jones (UKRI STFC)**
 - 13:30 - 15:00 and 15:30 - 17:00
 
-More details coming soon!
+13:30 – 14:00 – Introducing CoSeC and the Collaborative Computational Community Model (Stephen Longshaw)
+
+14:00 – 14:15 – Applied AI for the Digital Humanities (CCP-AHC; Eamonn Bell / Jeyan Thiyagalingam)
+
+14:15 – 14:30 – Computational Biology (Martyn Winn – joining remotely)
+
+14:30 – 14:45 – Computational Engineering (CCP-NTH, CCP-Turbulence, UKTC; Wei Wang)
+
+14:45 – 15:00 – Computational Materials and Molecular Science (Marcello Puligheddu / Rajany RV)
 
 
 ### HPC/HTC in High-Energy Physics
