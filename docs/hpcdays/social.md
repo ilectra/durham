@@ -15,8 +15,8 @@ Participants might want to visit <a href="https://www.english-heritage.org.uk/vi
 
 The agenda is yet to be confirmed by the bus company.
 
-- 8:00 Meet at Department of Computer Science; participants can leave their luggage in the bus
-- 8:15 Pick up at car park of Hotel Indigo
+- 8:00 Departure from Department of Computer Science; participants can leave their luggage in the bus
+- 8:10 Pick up at car park of Hotel Indigo
 - 8:20 Pick up at car park of Radisson Blu
 - 10:00 Arrival at Housestead's Romand Fort
 - 12:30 Pick up at The Sill National Landscape Discovery centre (next to Once Brewed Pub); drop off at Newcastle Airport around 13:30 (there is also a metro connection to Newcastle Central Station)
