@@ -10,7 +10,8 @@ Join us for 5 x 25-minute talks from the following speakers:
 - Maria Secrier (University College London)
 - Tyler Shendruk (University of Edinburgh)
 - Ulrik Beierholm (Durham)
-- More to be announced.
+- Natalie Tatum (Newcastle University)
+- Jonathon D. Liston (Durham)
 
 
 ### DiRAC RSEs
