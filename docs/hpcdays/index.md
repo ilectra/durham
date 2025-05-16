@@ -90,7 +90,7 @@ Please make sure you [book somewhere to stay](hotels.md)
 <tr>
   <td> 16:30 </td>
   <td> Tutorial: <a href="tutorials.html#codeplay-accelerate-your-code-on-gpus-and-more-using-c-and-sycl">Codeplay: SYCL</a> <br /><div style="color:LightGrey;font-size=50%">and</div>  Workshop: <a href="workshops.html#dirac-rses">DiRAC RSEs (internal)</a>  <br /><div style="color:LightGrey;font-size=50%">and</div><a href="talks.html#tuesday-3-june-2025-16-30-to-17-50">Submitted Talks</a></td>
-  <td> <b>Showcasing our Sponsors:</b> Lightning Talks and Panel</td>
+  <td> <b>Showcasing our Sponsors:</b><a href="lightning.html">Lightning Talks and Panel</a></td>
   <td>Workshop: <a href="workshops.html#benchmarking-symposium-benchmarking-of-hpc-systems-for-simulation-and-ai">Benchmarking Symposium</a><br /><div style="color:LightGrey;font-size=50%">and</div><a href="workshops.html#hpc-rse-sig-meet-up">HPC RSE SIG meetup</a></td>
 </tr>
 <tr>
