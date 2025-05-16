@@ -7,7 +7,18 @@
 **Presenters: Joe Wallwork, Tom Meltzer (ICCS, Cambridge)**
 - 11:00 - 12:30
 
-More details coming soon! 
+Fortran continues to be important to several scientific communities, such as weather and climate forecasting, plasma physics, and materials science.
+Reasons for this include its natural support for mathematical operations on arrays, continued updates to the language standards and compilers, and considerable societal inertia.
+However, Fortran lacks native support for machine learning (ML), for which popular tools such as PyTorch are written in Python.
+There are several approaches to solve the language inter-operation problem to enable ML in Fortran (some of which discussed elsewhere in this workshop.)
+The FTorch (https://github.com/Cambridge-ICCS/FTorch) approach makes use of the iso_c_binding intrinsic, facilitating the easy deployment of PyTorch-based models within Fortran codes by interfacing directly to the C++ Torch backend.
+This approach avoids data copies and the need for a Python runtime, both of which can be problematic for HPC.
+
+In this tutorial, attendees will:
+- Write an ML model using PyTorch and load it for inference in Fortran using FTorch.
+- Learn how to create, manipulate, and interrogate FTorch tensors.
+- Experiment with FTorch's newly added automatic differentiation functionality.
+- Hear about ongoing and future work on enabling online training.
 
 
 ### HPE: SmartSim
