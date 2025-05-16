@@ -101,7 +101,7 @@ Please make sure you [book somewhere to stay](hotels.md)
   <td>18:30</td>
   <td />
   <td />
-  <td>Industry Scavenger Hunt</td>
+  <td><a href="lightning.html#scavenger-hunt">Industry Scavenger Hunt</a></td>
   <td><a href="keynotes.html#christian-oganbule-epsrc">EPSRC Early Career Research: Meet and greet with the funder</a><br /><div style="color:LightGrey;font-size=50%">and</div><a href="workshops.html#hpc-rse-sig-meet-up">HPC RSE SIG meetup</a> <br />(Continued!)</td>
 </tr>
 </table>
