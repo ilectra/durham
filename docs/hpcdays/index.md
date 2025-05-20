@@ -88,7 +88,11 @@ Please make sure you [book somewhere to stay](hotels.md)
 <tr>
   <td> 15:30 </td>
   <td rowspan="2"> Tutorial: <a href="tutorials.html#hpe-smartsim"> HPE: SmartSim</a> </td>
-  <td> <b>Official Opening Ceremony:</b> <br /> Colin Bain (PVC-Research Durham University) </td>
+  <td> 
+    <b>Official Opening Ceremony:</b> <br /> Colin Bain (PVC-Research Durham University) 
+     <br /><div style="color:LightGrey;font-size=50%">and</div> 
+     Keynote: <a href="keynotes.html#knepper">The changing shape of science funding in the U.S.</a> (Rich Knepper)
+  </td>
   <td> 
     Symposium: <a href="dri.html">DRI HPC Lab</a> 
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
