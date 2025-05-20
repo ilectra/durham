@@ -219,14 +219,43 @@ We will start with an un-conference style discussion session (i.e., discussion t
 
 ### Numerical Relativity
 **Convener: Han Zhang**
-- 9:45 - 10:30 and 11:00 - 12:30
 
-More details coming soon!
+Numerical relativity stands as a powerful tool for understanding astrophysical phenomena in strong-gravity regions. Solving the full non-linear Einstein equations numerically is notoriously computationally expensive, necessitating advanced high-performance computing techniques to accelerate simulations. In this workshop, we have invited researchers and experts in the field to share their experiences implementing HPC solutions for these complex evolving systems. Speakers will discuss both the computational challenges they've overcome and the exciting scientific discoveries enabled by their simulations, providing a comprehensive view of how cutting-edge HPC approaches are advancing our understanding of relativistic astrophysics.
 
+*9:45 - 10:30*
+
+- Robyn Munoz (University of Sussex)
+
+  - *Title*: Introduction to Einstein Toolkit
+  - *Abstract*: Einstein Toolkit is an open-source collection of interdependent codes designed to simulate and analyse relativistic scenarios involving black holes, neutron stars, cosmological structures and much more. With its modular design and broad applicability, this code exemplifies how physicists turn equations into simulations and run them on computing clusters.
+
+- Shaun Swain (University of Birmingham)
+
+  - *Title*: Strong-Field Scattering of Black Holes
+  - *Abstract*: To detect and analyse gravitational wave signals from compact binaries requires extremely accurate theoretical models. Current state-of-the-art models blend analytical calculations with predictions arising from numerical relativity simulations, providing insight into the strong-field behaviour of gravitational interactions. Newly discovered relationships between quantum scattering amplitudes and classical observables in general relativity are providing novel tools to generate high-order analytical calculations. In this talk, I will demonstrate the critical role played by numerical relativity simulations in validating these calculations and allowing us to explore gravitational interactions at high-energies, where current theoretical predictions break down.
+
+*11:00 - 12:30*
+
+- Miguel Bezares Figueroa (University of Nottingham)
+
+  - *Title*: MHDuet: Modelling General Relativistic MHD on  CPU/GPU Architectures
+  - *Abstract*: MHDuet is an automatically generated, efficient computational code designed to simulate the dynamics of strongly gravitating, high-density matter in astrophysical scenarios involving compact objects such as black holes and neutron stars. Although MHDuet was initially developed on the SAMRAI infrastructure, which provides support for distributed adaptive mesh refinement (AMR), it is currently being ported to AMReX to exploit the capabilities of modern GPU-accelerated and massively parallel systems. The code solves the equations of general relativistic magnetohydrodynamics (GRMHD) and incorporates recent features aimed at improving accuracy and performance. I will provide an overview of the physical systems MHDuet can evolve and highlight the latest developments in its HPC capabilities.
+
+- Alice Bonino (University of Birmingham)
+
+  - *Title*: Improving eccentric gravitational waveform models with Numerical Relativity
+  - *Abstract*: The formation and evolutionary pathways of stellar-mass binary black holes remains an unresolved question that can be addressed by precise measurements of the binary and orbital parameters from their gravitational-wave signal. Such binaries are expected to circularize due to the emission of gravitational waves as they approach merger. However, depending on their formation channel, some binaries could retain a non-negligible eccentricity when entering the frequency band of current gravitational-wave detectors. In order to meaningfully measure the eccentricity in an observed gravitational-wave signal, reliable waveform models that describe binaries on eccentric orbits are necessary. In recent years, significant effort has been invested in incorporating eccentricity into the current generation of waveform models using different analytical techniques such as post-Newtonian theory, gravitational self force and scattering paradigms. However, whilst these provide an accurate description of the gravitational-wave signals throughout the inspiral, they are only valid up to moderate eccentricities and are not reliable as the binary approaches merger.  To mitigate against such limitations, one can appeal to Numerical Relativity simulations to help model the complete inspiral-merger-ringdown signal from eccentric binaries. In this talk I will present methods for comparing Numerical Relativity simulations with waveform models for coalescing binary black holes developed within the Effective-One-Body framework. 
+
+- Timothy Stokes (Durham University)
+
+  - *Title*: Automated Kernel Generation for the Numerical Relativity Solver ExaGRyPE
+  - *Abstract*: ExaHyPE is a numerical engine used to solve hyperbolic PDE systems, with a variety of use-cases. To handle these different cases, we require a suite of available numerical schemes to choose from, each of which requiring a large time investment into development and optimisation. The specific optimisation approach also depends on the application and type of hardware used, which cannot be fully predicted at the time that the scheme is developed. As a result many kernel variants must be maintained, including variants for different GPU offloading strategies. This talk details the status of the ExaHyPe-DSL eCSE project which replaces these manual kernels with those written using a Domain Specific Language (DSL).
+The use of a DSL means that the code written is conceptually similar to the target problem and is abstracted away from any optimisation decisions. We have developed a Python based DSL which then generates optimised kernels using the ExCALIBUR xDSL toolkit. This allows for scientists to spend their time studying novel physics, instead of maintaining code. We focus on its application in the ExaGRyPE project, a numerical relativity solver developed on top of ExaHyPE.
 
 ### Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI
 **Conveners: DiRAC, ExCALIBUR, UKRI Living Benchmarks**
 **Lead: Mark Wilkinson**
+
 - 9:45 - 10:30
 
 Benchmarking is an essential part of the co-design and procurement of large-scale computing
