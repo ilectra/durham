@@ -65,7 +65,7 @@ Please make sure you [book somewhere to stay](hotels.md)
 </tr> 
 <tr>
   <td> 12:30 </td>
-  <td colspan="5" align="center">Lunch</td>
+  <td colspan="5" align="center">Lunch (optional <a href="datacentre.html">data centre tours</a> Tues-Thurs)</td>
 </tr>
 <tr>
   <td> 13:30 </td>
