@@ -70,7 +70,7 @@ Please make sure you [book somewhere to stay](hotels.md)
 <tr>
   <td> 13:30 </td>
   <td> Tutorial: <a href="tutorials.html#hpe-smartsim"> HPE: SmartSim</a> </td>
-  <td> Tutorial: <a href="tutorials.html#codeplay-accelerate-your-code-on-gpus-and-more-using-c-and-sycl">Codeplay: SYCL</a>  → <br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#dirac-rses"> DiRAC RSEs </a> </td>
+  <td> Tutorial: <a href="tutorials.html#codeplay-accelerate-your-code-on-gpus-and-more-using-c-and-sycl">Codeplay: SYCL</a>  <br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#dirac-rses"> DiRAC RSEs </a> </td>
   <td> 
     <a href="talks.html#wednesday-4-june-2025-13-30-to-15-00">Submitted Talks</a> 
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
