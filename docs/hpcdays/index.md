@@ -101,7 +101,7 @@ Please make sure you [book somewhere to stay](hotels.md)
     N8 CIR Steering Group (by invitation only)
   </td>
   <td> Keynote: <a href="keynotes.html#thomas-gruber-regionales-rechenzentrum-erlangen-rrze">Unleash the control freak in yourself for fun and profit - and for science!</a> (Thomas Gruber) </td>
-  <td rowspan="2"> <!--UKRI panel with CoSeC--> </td>
+  <td> Panel: <a href="workshops.html#cosec">Creating a cohesive distributed Digital Research Infrastructure</a> </td>
 </tr>
 <tr>
   <td> 16:30 </td>
