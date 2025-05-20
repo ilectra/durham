@@ -127,33 +127,40 @@ The ARCHER2 GPU eCSE support provides funding to the UKRI research community to 
 
 Speakers:
 
+- Chris Johnson (EPCC)
+
+- Nick Brown (EPCC)
+
 - Chris Cantwell (Imperial College London)
 
-  - Title: "Extending high-fidelity modelling with Nektar++ to the next generation of supercomputers"
+  - *Title*: Extending high-fidelity modelling with Nektar++ to the next generation of supercomputers
 
-  - Abstract: Nektar++ is a parallel and scalable C++ framework for the high-fidelity solution of partial differential equations using spectral/hp element methods. These methods provide a rich discretisation space, capable of efficiently and accurately capturing transient dynamics across a wide range of scales in highly complex geometries. The software is used in a wide range of application areas, including aeronautical, automotive and environmental engineering, the energy sector, and biomedicine. Initially developed nearly 20 years ago in a "CPU era", it has recently seen substantial development investment in transitioning the code to support heterogeneous technologies which form the basis of current and future HPC platforms. In this talk, I will share the key design decisions we have made, the algorithmic and implementation challenges we faced and our approach to addressing them, summarise our current performance on these modern platforms, and finally outline our vision for future developments.
+  - *Abstract*: Nektar++ is a parallel and scalable C++ framework for the high-fidelity solution of partial differential equations using spectral/hp element methods. These methods provide a rich discretisation space, capable of efficiently and accurately capturing transient dynamics across a wide range of scales in highly complex geometries. The software is used in a wide range of application areas, including aeronautical, automotive and environmental engineering, the energy sector, and biomedicine. Initially developed nearly 20 years ago in a "CPU era", it has recently seen substantial development investment in transitioning the code to support heterogeneous technologies which form the basis of current and future HPC platforms. In this talk, I will share the key design decisions we have made, the algorithmic and implementation challenges we faced and our approach to addressing them, summarise our current performance on these modern platforms, and finally outline our vision for future developments.
 
 - Jason McEven (UCL)
 
-  - Title: Differentiable and Accelerated Spherical Transforms
+  - *Title*: Differentiable and Accelerated Spherical Transforms
 
-  - Abstract: Many fields of science and engineering, in both academic and industrial settings, encounter data on spherical manifolds. The diversity of applications is quite remarkable, ranging from geophysics, exoplanets, and climate science, to early and late Universe cosmology, to biomedical imaging and molecular chemistry, and far beyond, such as gravitational waves and computer vision. While a number of codes are available to compute spherical harmonic transforms, for example, existing codes are not suitable for many modern scientific computing applications since they do not support automatic differentiation or GPU acceleration. We have developed the `s2x` suite of open-source spherical codes, with interfaces in both JAX and PyTorch, providing both automatic differentiation and GPU acceleration to facilitate differentiable programming workflows or AI models and to leverage the high-throughput of modern hardware accelerators. The suite includes [`s2fft`](https://github.com/astro-informatics/s2fft) for spherical harmonic transforms and Wigner transforms (Fourier transforms on the sphere and rotation group), [`s2wav`](https://github.com/astro-informatics/s2wav) for spherical wavelet transforms, [`s2scat`](https://github.com/astro-informatics/s2scat) for spherical scattering transforms (a powerful latent space for generative models), and [`s2ai`](https://github.com/astro-informatics/s2ai) for spherical AI models that exhibit excellent rotational equivariance properties. In this talk I will overview these codes and their underlying mathematical methods and computational algorithms. I will also touch briefly on the use of these codes for generative modelling of cosmological fields. We actively encourage new contributors for the `s2x` code suite and run [all-contributors](https://allcontributors.org/) to ensure all efforts are recognised -- don't hesitate to get in touch if you're interested or would just like to know more!
+  - *Abstract*: Many fields of science and engineering, in both academic and industrial settings, encounter data on spherical manifolds. The diversity of applications is quite remarkable, ranging from geophysics, exoplanets, and climate science, to early and late Universe cosmology, to biomedical imaging and molecular chemistry, and far beyond, such as gravitational waves and computer vision. While a number of codes are available to compute spherical harmonic transforms, for example, existing codes are not suitable for many modern scientific computing applications since they do not support automatic differentiation or GPU acceleration. We have developed the `s2x` suite of open-source spherical codes, with interfaces in both JAX and PyTorch, providing both automatic differentiation and GPU acceleration to facilitate differentiable programming workflows or AI models and to leverage the high-throughput of modern hardware accelerators. The suite includes [`s2fft`](https://github.com/astro-informatics/s2fft) for spherical harmonic transforms and Wigner transforms (Fourier transforms on the sphere and rotation group), [`s2wav`](https://github.com/astro-informatics/s2wav) for spherical wavelet transforms, [`s2scat`](https://github.com/astro-informatics/s2scat) for spherical scattering transforms (a powerful latent space for generative models), and [`s2ai`](https://github.com/astro-informatics/s2ai) for spherical AI models that exhibit excellent rotational equivariance properties. In this talk I will overview these codes and their underlying mathematical methods and computational algorithms. I will also touch briefly on the use of these codes for generative modelling of cosmological fields. We actively encourage new contributors for the `s2x` code suite and run [all-contributors](https://allcontributors.org/) to ensure all efforts are recognised -- don't hesitate to get in touch if you're interested or would just like to know more!
 
 - Sebastien Lemaire (EPCC)
 
-  - Title:  x3d2: a modern High Fidelity CFD Solver for CPU and GPU based supercomputers
+  - *Title*:  x3d2: a modern High Fidelity CFD Solver for CPU and GPU based supercomputers
 
-  - Abstract: In an HPC environment where vendor specific development is needed to take full advantage of hardware, x3d2 -- an open-source, CFD solver based on high-order compact finite difference schemes and the successor to XCompact3d -- is designed with performance and hardware compatibility in mind targeting both GPU and CPUs.
+  - *Abstract*: In an HPC environment where vendor specific development is needed to take full advantage of hardware, x3d2 -- an open-source, CFD solver based on high-order compact finite difference schemes and the successor to XCompact3d -- is designed with performance and hardware compatibility in mind targeting both GPU and CPUs.
 
     This talk will present the software architecture based on a Fortran object oriented approach allowing multiple implementations of low level backends to perform high level tasks as well as a novel data layout optimised to reduce cache misses and data movement for both CPU and GPU memory structures.
 
     The distributed tri-diagonal solver at the core of x3d2 showed to sustain 66% of the theoretical peak bandwidth at scale on both CPU and GPU based supercomputers.
 
-- Nick Brown (EPCC)
-
 - Phil Hasnip (University of York)
 
-- Chris Johnson (EPCC)
+  - *Title*: Materials modelling, GPUs and the CASTEP code: Does accelerated computing lead to accelerated science?
+
+  - *Abstract*: CASTEP is a materials modelling program based on quantum mechanics, which is capable of predicting physical, chemical and electronic properties of materials. It has been developed over more than two decades, and is used widely around the world, not only in academia but also in industry, via its inclusion in Dassault Systemes' Materials Studio product.
+
+    Over the last few years, we have been developing and optimising a GPU-capable version CASTEP. I will discuss the challenges and successes in taking CASTEP's large Fortran+OpenMP+MPI codebase and adapting it to exploit GPUs, including recent successes from the PAX-HPC ExCALIBUR project and the plan for the new GPU-eCSE project.
+
 
 
 ### HPC/HTC in High-Energy Physics
@@ -212,14 +219,43 @@ We will start with an un-conference style discussion session (i.e., discussion t
 
 ### Numerical Relativity
 **Convener: Han Zhang**
-- 9:45 - 10:30 and 11:00 - 12:30
 
-More details coming soon!
+Numerical relativity stands as a powerful tool for understanding astrophysical phenomena in strong-gravity regions. Solving the full non-linear Einstein equations numerically is notoriously computationally expensive, necessitating advanced high-performance computing techniques to accelerate simulations. In this workshop, we have invited researchers and experts in the field to share their experiences implementing HPC solutions for these complex evolving systems. Speakers will discuss both the computational challenges they've overcome and the exciting scientific discoveries enabled by their simulations, providing a comprehensive view of how cutting-edge HPC approaches are advancing our understanding of relativistic astrophysics.
 
+*9:45 - 10:30*
+
+- Robyn Munoz (University of Sussex)
+
+  - *Title*: Introduction to Einstein Toolkit
+  - *Abstract*: Einstein Toolkit is an open-source collection of interdependent codes designed to simulate and analyse relativistic scenarios involving black holes, neutron stars, cosmological structures and much more. With its modular design and broad applicability, this code exemplifies how physicists turn equations into simulations and run them on computing clusters.
+
+- Shaun Swain (University of Birmingham)
+
+  - *Title*: Strong-Field Scattering of Black Holes
+  - *Abstract*: To detect and analyse gravitational wave signals from compact binaries requires extremely accurate theoretical models. Current state-of-the-art models blend analytical calculations with predictions arising from numerical relativity simulations, providing insight into the strong-field behaviour of gravitational interactions. Newly discovered relationships between quantum scattering amplitudes and classical observables in general relativity are providing novel tools to generate high-order analytical calculations. In this talk, I will demonstrate the critical role played by numerical relativity simulations in validating these calculations and allowing us to explore gravitational interactions at high-energies, where current theoretical predictions break down.
+
+*11:00 - 12:30*
+
+- Miguel Bezares Figueroa (University of Nottingham)
+
+  - *Title*: MHDuet: Modelling General Relativistic MHD on  CPU/GPU Architectures
+  - *Abstract*: MHDuet is an automatically generated, efficient computational code designed to simulate the dynamics of strongly gravitating, high-density matter in astrophysical scenarios involving compact objects such as black holes and neutron stars. Although MHDuet was initially developed on the SAMRAI infrastructure, which provides support for distributed adaptive mesh refinement (AMR), it is currently being ported to AMReX to exploit the capabilities of modern GPU-accelerated and massively parallel systems. The code solves the equations of general relativistic magnetohydrodynamics (GRMHD) and incorporates recent features aimed at improving accuracy and performance. I will provide an overview of the physical systems MHDuet can evolve and highlight the latest developments in its HPC capabilities.
+
+- Alice Bonino (University of Birmingham)
+
+  - *Title*: Improving eccentric gravitational waveform models with Numerical Relativity
+  - *Abstract*: The formation and evolutionary pathways of stellar-mass binary black holes remains an unresolved question that can be addressed by precise measurements of the binary and orbital parameters from their gravitational-wave signal. Such binaries are expected to circularize due to the emission of gravitational waves as they approach merger. However, depending on their formation channel, some binaries could retain a non-negligible eccentricity when entering the frequency band of current gravitational-wave detectors. In order to meaningfully measure the eccentricity in an observed gravitational-wave signal, reliable waveform models that describe binaries on eccentric orbits are necessary. In recent years, significant effort has been invested in incorporating eccentricity into the current generation of waveform models using different analytical techniques such as post-Newtonian theory, gravitational self force and scattering paradigms. However, whilst these provide an accurate description of the gravitational-wave signals throughout the inspiral, they are only valid up to moderate eccentricities and are not reliable as the binary approaches merger.  To mitigate against such limitations, one can appeal to Numerical Relativity simulations to help model the complete inspiral-merger-ringdown signal from eccentric binaries. In this talk I will present methods for comparing Numerical Relativity simulations with waveform models for coalescing binary black holes developed within the Effective-One-Body framework. 
+
+- Timothy Stokes (Durham University)
+
+  - *Title*: Automated Kernel Generation for the Numerical Relativity Solver ExaGRyPE
+  - *Abstract*: ExaHyPE is a numerical engine used to solve hyperbolic PDE systems, with a variety of use-cases. To handle these different cases, we require a suite of available numerical schemes to choose from, each of which requiring a large time investment into development and optimisation. The specific optimisation approach also depends on the application and type of hardware used, which cannot be fully predicted at the time that the scheme is developed. As a result many kernel variants must be maintained, including variants for different GPU offloading strategies. This talk details the status of the ExaHyPe-DSL eCSE project which replaces these manual kernels with those written using a Domain Specific Language (DSL).
+The use of a DSL means that the code written is conceptually similar to the target problem and is abstracted away from any optimisation decisions. We have developed a Python based DSL which then generates optimised kernels using the ExCALIBUR xDSL toolkit. This allows for scientists to spend their time studying novel physics, instead of maintaining code. We focus on its application in the ExaGRyPE project, a numerical relativity solver developed on top of ExaHyPE.
 
 ### Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI
 **Conveners: DiRAC, ExCALIBUR, UKRI Living Benchmarks**
 **Lead: Mark Wilkinson**
+
 - 9:45 - 10:30
 
 Benchmarking is an essential part of the co-design and procurement of large-scale computing
