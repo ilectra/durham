@@ -180,11 +180,24 @@ Speakers:
 ### HPC/HTC in High-Energy Physics
 **Conveners: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 - 9:45 - 10:30
+  This session focusses on the use of HPC and generative AI technologies 
+  for lattice QCD calculations
 
 Speakers:
-- Gurtej Kanwar (Edinburgh)
-- Roy Stegman (Edinburgh)
-- Antonin Portelli (Edinburgh)
+- 09:45 Gurtej Kanwar (Edinburgh)
+   <details>
+       <summary>"Generative AI for Lattice QCD calculations"</summary>
+   </details>
+
+- 10:00 Roy Stegman (Edinburgh)
+   <details>
+       <summary>"Energy usage and technical design of Lattice QCD calculatons"</summary>
+   </details>
+
+- 10:15 Antonin Portelli (Edinburgh)
+   <details>
+       <summary>tbc</summary>
+   </details>
 
 
 ### Benchmarking Symposium: Benchmarking of HPC systems for simulation and AI
