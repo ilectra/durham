@@ -43,9 +43,9 @@ In order to drive change and impact around equality, diversity and inclusion (ED
 * Funding and resources
 * Accountability and accurate reporting on success of initatives
 
-But, when this balance tips the wrong way, we can see an unsustainable over-reliance on volunteer-driven initiatives with a lack of institutional buy-in and, ultimately, missed opportunities for driving real and impactful progress.
+But, when this balance tips the wrong way, we can see an unsustainable over-reliance on volunteer-driven initiatives with a lack of institutional buy-in and, ultimately, missed opportunities for driving real and impactful progress. 
 
-Organised by representatives from the Women in High Performance Computing (WHPC) community, this panel session will discuss where here EDI efforts in HPC are falling short and explore how we can rebalance the equation — together.
+Organised by representatives from the Women in High Performance Computing (WHPC) community, this panel session will emphasise the importance of acknowledging the emotional toll and limitations of volunteer-led EDIA efforts, advocating for honest dialogue and a shift toward collective responsibility and practical strategies for redistributing the work. It also calls for a forward-looking approach centred on sustainable, inclusive change. Let's explore how we can rebalance the equation. 
 
 Our panelists are:
 
@@ -299,11 +299,11 @@ In order to drive change and impact around equality, diversity and inclusion (ED
 * Funding and resources
 * Accountability and accurate reporting on success of initatives
 
-But, when this balance tips the wrong way, we can see an unsustainable over-reliance on volunteer-driven initiatives with a lack of institutional buy-in and, ultimately, missed opportunities for driving real and impactful progress.
+But, when this balance tips the wrong way, we can see an unsustainable over-reliance on volunteer-driven initiatives with a lack of institutional buy-in and, ultimately, missed opportunities for driving real and impactful progress. 
 
-Organised by representatives from the Women in High Performance Computing (WHPC) community, this second session will bring the conversation to you! In the first part, taking place prior to this on Wednesday, we will host a panel discussion from representatives of the community to discuss getting the balance right as volunteers for EDI efforts in HPC. Don't worry, we will provide a complete summary, so please come along even if you missed the first session. This second session will be a group discussion, finding strategies to address these problems in the day-to-day, and advocate for small tangible changes.
+Organised by representatives from the Women in High Performance Computing (WHPC) community, this panel session will emphasise the importance of acknowledging the emotional toll and limitations of volunteer-led EDIA efforts, advocating for honest dialogue and a shift toward collective responsibility and practical strategies for redistributing the work. It also calls for a forward-looking approach centred on sustainable, inclusive change. Don't worry, we will provide a complete summary, so please come along even if you missed the first session. This second session will be a group discussion, we want to hear your opinions on this issue and work together to find sustainable solutions. 
 
-Finally, in the third part of our session, Mike Simpson (Newcastle University) will lead a focused conversation on mental health around volunteering for EDI initatives. EDI work is often driven by deeply personal motivations, the emotional weight of this can take a toll and it's important to look after yourself. We want to help support you in this as well as advancing our community to improve the state of EDI.
+Finally, in the third part of our session, Mike Simpson (Newcastle University) will lead a focused conversation on mental health around volunteering for EDI initiatives. EDI work is often driven by deeply personal motivations, the emotional weight of this can take a toll and it's important to look after yourself. We want to help support you in this as well as advancing our community to improve the state of EDI.
 
 ### CoSeC
 **Conveners: Stephen Longshaw (UKRI STFC), Damian Jones (UKRI STFC)**
