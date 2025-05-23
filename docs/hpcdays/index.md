@@ -16,11 +16,6 @@ social
 
 ![HPCDays](../images/HPC-days-pic.png)
 
-## Registration 
-Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham.ac.uk/event-durham/durham-hpc-days-2025). We hope to see you there!
-
-Please make sure you [book somewhere to stay](hotels.md)
-
 ## Programme
 
 <!-- <table border="1" cellspacing="0" cellpadding="5"> -->
