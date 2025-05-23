@@ -350,9 +350,28 @@ Finally, in the third part of our session, Mike Simpson (Newcastle University) w
 ### HPC/HTC in High-Energy Physics
 **Convener: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 - 13:30 - 15:00
+  This session focusses on the use of machine learning technoligies and GPU 
+  off-loading in Monte-Carlo event generation and simulation.
 
 Speakers:
-- Daniel Maitre (Durham)
-- Enrico Bothmann (CERN)
-- Konrad Helms (Goettingen)
-- Daniele Massaro (CERN)
+- 13:30 Daniel Maitre (Durham)
+   <details>
+       <summary>"Neural Networks for Matrix Element emulation"</summary>
+   </details>
+
+- 13:52 Konrad Helms (Goettingen)
+   <details>
+       <summary></summary>
+   </details>
+
+- 14:15 Enrico Bothmann (CERN)
+   <details>
+       <summary>"Portable collider event generation with PEPPER 🌶️"</summary>
+       Collision simulations at high energies using Monte-Carlo event generators are a backbone of the physics programme of current and future particle physics experiments at the High Energy Frontier. The computational cost of these simulations is significant, and it will increase dramatically for the upcoming "High-Luminosity" update of the Large Hadron Collider at CERN. It is therefore desirable to be able to offload Monte-Carlo event generation to HPC facilities which increasingly rely on GPU acceleration. In this talk I present PEPPER, a new portable parton-level event generator with HPC and GPU support. It can be run on a variety of CPU and GPU architectures of today’s rapidly changing HPC landscape, and delivers 1-2 orders of magnitude faster event generation throughput for the computationally most relevant physics processes.
+   </details>
+
+- 14:37 Daniele Massaro (CERN)
+   <details>
+       <summary>"Data parallelism in MadGraph: hardware acceleration with GPUs and SIMD CPUs"</summary>
+       The MadGraph5_aMC@NLO generator is a widely used tool for simulating high-energy particle collisions, and it is a key component of the LHC experiments' software stack. Recently, a new plugin of the code, CUDACPP, has been released along with the latest version of the code. The CUDACPP plugin represents the first endeavour on the path to hardware-accelerated event generation, opening MadGraph5_aMC@NLO to the world of GPUs and vector CPU instructions. Achieving this goal required the design of a new architecture of the code, and several steps of test and validation across many physics processes. At the same time, many tests have been carried out on the experimental side, providing feedback on the performance of the code and its usability. In this talk, we will start from presenting the original status of the code, detailing the main bottlenecks and the main strategies used to tackle them. Additionally, the main design choices will be introduced, followed by the results of performance and profiling tests. We will conclude with a discussion on the future developments and improvements that are planned for the next releases of the code, involving mainly the support of next-to-leading-order processes.
+   </details>
