@@ -109,12 +109,26 @@ Our speakers are:
 ### HPC/HTC in High-Energy Physics
 **Conveners: Enrico Bothmann (CERN), Luigi del Debbio (Edinburgh), Marek Schoenherr (Durham)**
 - 13:30 - 15:00
+  This session focusses on developments for the Worldwide LHC Computing Grid (WLCG), its prospects and challenges.
 
 Speakers:
-- Maria Girone (CERN)
-- Dave Britton (Glasgow)
-- Davide Constanzo (Sheffield)
-- Manuel Griffels (KIT)
+- 13:30 Manuel Giffels (KIT)
+   <details>
+       <summary>"Transforming HEP Computing in Germany -- Paving the way for the efficient utilisation of HPC systems"</summary>
+     Germany is undergoing a significant transformation in the landscape of High Energy Physics (HEP) computing. This presentation outlines the strategic migration of WLCG Tier-2 compute resources from dedicated university-based infrastructures to the National High-Performance Computing (NHR) centres. A cornerstone of this transition is the COBalD/TARDIS framework, which enables dynamic resource provisioning and facilitates seamless integration of heterogeneous HPC systems into the WLCG. Following a brief introduction to the Worldwide LHC Computing Grid (WLCG), with a particular emphasis on its structure and role within Germany, the presentation will explore the architecture and progress of the ongoing migration, share practical insights from experiences, and outline future directions.
+   </details>
+- 13:52 Dave Britton (Glasgow)
+   <details>
+       <summary>WLCG Overview</summary>
+   </details>
+- 14:15 Maria Girone / David Southwick (CERN)
+   <details>
+       <summary>HPC for WLCG</summary>
+   </details>
+- 14:37 Davide Constanzo (Sheffield)
+   <details>
+       <summary>Software for WLCG</summary>
+   </details>
 
 
 ## Thursday, 5 June 2025
