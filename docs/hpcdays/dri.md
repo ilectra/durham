@@ -14,11 +14,21 @@ Note: There's an internal preparation meeting on Wednesday, 11:00-12:30. It is b
 
 ## Thursday
 
-### UKRI DRI Projects
+### Supporting digital Research Technical Professionals (dRTPs): Projects, opportunities and challenges
 
 Convener: Weronika Filinger
-Slot: Thursday, 
+Slot: Thursday, 11:00-12:30
 Location: t.b.c.
+
+Session description: UKRI’s Digital Research Infrastructure programme is supporting a range of projects to make a fundamental difference to the way that we train, support and enable career opportunities for digital Research Technical Professionals (dRTPs). dRTPs are the people who work with research software, research data and research computing infrastructure. This session will highlight the recently completed UNIVERSE-HPC project and a set of new projects taking forward a range of work in the dRTP and Digital Research Infrastructure space. There will be presentations from two Network+ projects (CHARTED and SCALE-UP), and from other three projects: STEP-UP, DRIFT and CCP-AHC. DRIFT is focused on the training for research facilitators and teams, and CCP-AHC is an effort to scope and establish a new community around codes, pipelines, and workflows that support computationally intensive research in the arts, humanities, and culture domain. After hearing from project representatives, there will be time for general discussion around opportunities and challenges for the future of Digital Research Infrastructure.
+
+Presenters:
+
+- UNIVERSE-HPC - Neil Chue Hong, EPCC, The University of Edinburgh
+- CHARTED & DRIFT - Weronika Filinger, EPCC, The University of Edinburgh
+- STEP-UP & SCALE-UP - Jeremy Cohen, Imperial College London
+- CCP-AHC - Eamonn Bell, Durham University
+
 
 ## Keynote: The UK's Digital Research Infrastructure
 
