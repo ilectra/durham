@@ -81,7 +81,7 @@ What kind of complex, real-world language constructs can these compilers handle?
 **Presenter: Duncan McBain (Codeplay)**
 - 13:30 - 15:00 - Session 1
 - 15:00 - 16:30 - Coffee break & Opening Ceremony
-- 16:30 - 17:00 - Session 2
+- 16:30 - 18:00 - Session 2
 
 Parallel programming can be used to take advantage of heterogeneous architectures including GPUs, FPGAs, XPUs, IPUs, TPUs or special units on CPUs to significantly increase the performance of applications. SYCL is an open standard programming model that is defined by the industry and lets developers support many of these processors from different vendors using a single code base and only modern standard C++ code.
 

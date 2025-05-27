@@ -16,11 +16,6 @@ social
 
 ![HPCDays](../images/HPC-days-pic.png)
 
-## Registration 
-Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham.ac.uk/event-durham/durham-hpc-days-2025). We hope to see you there!
-
-Please make sure you [book somewhere to stay](hotels.md)
-
 ## Programme
 
 <!-- <table border="1" cellspacing="0" cellpadding="5"> -->
@@ -70,7 +65,7 @@ Please make sure you [book somewhere to stay](hotels.md)
 <tr>
   <td> 13:30 </td>
   <td> Tutorial: <a href="tutorials.html#hpe-smartsim"> HPE: SmartSim</a> </td>
-  <td> Tutorial: <a href="tutorials.html#codeplay-accelerate-your-code-on-gpus-and-more-using-c-and-sycl">Codeplay: SYCL</a>  → <br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#dirac-rses"> DiRAC RSEs </a> </td>
+  <td> Tutorial: <a href="tutorials.html#codeplay-accelerate-your-code-on-gpus-and-more-using-c-and-sycl">Codeplay: SYCL</a>  <br /><div style="color:LightGrey;font-size=50%">and</div> Workshop: <a href="workshops.html#dirac-rses"> DiRAC RSEs </a> </td>
   <td> 
     <a href="talks.html#wednesday-4-june-2025-13-30-to-15-00">Submitted Talks</a> 
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
@@ -88,7 +83,11 @@ Please make sure you [book somewhere to stay](hotels.md)
 <tr>
   <td> 15:30 </td>
   <td rowspan="2"> Tutorial: <a href="tutorials.html#hpe-smartsim"> HPE: SmartSim</a> </td>
-  <td> <b>Official Opening Ceremony:</b> <br /> Colin Bain (PVC-Research Durham University) </td>
+  <td> 
+    <b>Official Opening Ceremony:</b> <br /> Colin Bain (PVC-Research Durham University) 
+     <br /><div style="color:LightGrey;font-size=50%">and</div> 
+     Keynote: <a href="keynotes.html#knepper">The changing shape of science funding in the U.S.</a> (Rich Knepper)
+  </td>
   <td> 
     Symposium: <a href="dri.html">DRI HPC Lab</a> 
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
@@ -97,7 +96,7 @@ Please make sure you [book somewhere to stay](hotels.md)
     N8 CIR Steering Group (by invitation only)
   </td>
   <td> Keynote: <a href="keynotes.html#thomas-gruber-regionales-rechenzentrum-erlangen-rrze">Unleash the control freak in yourself for fun and profit - and for science!</a> (Thomas Gruber) </td>
-  <td rowspan="2"> <!--UKRI panel with CoSeC--> </td>
+  <td> Panel: <a href="workshops.html#cosec">Creating a cohesive distributed Digital Research Infrastructure</a> </td>
 </tr>
 <tr>
   <td> 16:30 </td>
@@ -118,6 +117,10 @@ Please make sure you [book somewhere to stay](hotels.md)
 </tr>
 </table>
 
+## Online participation and AV
+
+Most of our events will be streamed live, and the [registration](https://www.canva.com/design/DAGoFjE29xE/L3GYz3LL3ZLcomD9ArYXig/view) for the individual session is open now.
+Can we please advise that all speakers register for their respective session as well, so we can simply start individual presentations via screen share.
 
 ## Sponsors and Supporters
 

@@ -59,9 +59,9 @@
 
 <tr>
 <td>10:05 - 10:25</td>
-<td>Understanding Embeddings in Machine Learning: A Business, Engineering, and Technical Overview</td>
-<td>Pahuldeep Singh Walia</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#understanding-embeddings-in-machine-learning-a-business-engineering-and-technical-overview">details</a></td>
+<td>AI for Green HPC: How Machine Learning is Transforming Energy Efficiency</td>
+<td>Fawada Qaiser</td>
+<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#ai-for-green-hpc-how-machine-learning-is-transforming-energy-efficiency">details</a></td>
 </tr>
 
 </table>
@@ -90,17 +90,8 @@
 <td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#advancing-cats-the-climate-aware-task-scheduler-for-hpc-and-htc-application">details</a></td>
 </tr>
 
-
 <tr>
 <td>11:40 - 12:00</td>
-<td>AI for Green HPC: How Machine Learning is Transforming Energy Efficiency</td>
-<td>Fawada Qaiser</td>
-<td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#ai-for-green-hpc-how-machine-learning-is-transforming-energy-efficiency">details</a></td>
-</tr>
-
-
-<tr>
-<td>12:00 - 12:20</td>
 <td>Driving energy efficiency of operation with wind turbing modelling</td>
 <td>Nick Brown</td>
 <td><a href="https://durham.readthedocs.io/en/latest/hpcdays/talks.html#driving-energy-efficiency-of-operation-with-wind-turbing-modelling">details</a></td>
@@ -184,10 +175,14 @@ In this talk I will discuss how we are approaching the ongoing commissioning of 
 
 **Abstract:** TBC
 
-### Understanding Embeddings in Machine Learning: A Business, Engineering, and Technical Overview
-**Who:** Pahuldeep Singh Walia
+### AI for Green HPC: How Machine Learning is Transforming Energy Efficiency
+**Who:** Fawada Qaiser, Durham University
 
-**Abstract:** TBC
+**Abstract:** As High-Performance Computing (HPC) scales to meet increasing computational demands, energy efficiency has become a critical challenge, both for sustainability and operational costs. Traditional power management techniques, such as static power capping and uniform cooling strategies, often fail to adapt to dynamic workloads, leading to inefficiencies. This talk explores how Artificial Intelligence (AI) and Machine Learning (ML) are revolutionizing energy efficiency in HPC by enabling predictive modelling, reinforcement learning-based optimization, and adaptive workload scheduling.
+
+AI-driven predictive energy models leverage real-time telemetry and historical data to forecast power usage, allowing for proactive energy-saving strategies. Case studies from leading supercomputing facilities highlight how reinforcement learning and neural networks enhance power-aware job scheduling, cooling management, and dynamic power adjustments for CPUs, GPUs, and accelerators. Additionally, ML-driven auto-tuning techniques optimise the performance-energy trade-off in real time, balancing computational efficiency with power consumption.
+
+The session also addresses key research challenges, including the need for high-resolution power monitoring, algorithm scalability, and hardware-software co-design for energy-aware AIHPC integration. The talk provides insights into cutting-edge AI solutions that are driving energyefficient HPC operations, ultimately contributing to greener and more cost-effective computing infrastructures.
 
 ### HPC waste heat storage: the ICHS project at Durham University
 **Who:** Paul Walker, Durham University
@@ -198,15 +193,6 @@ In this talk I will discuss how we are approaching the ongoing commissioning of 
 **Who:** Sadie Bartholomew, NCAS
 
 **Abstract:** We 'all need HPC', therefore we all need to power HPC systems. But with significant environmental impact from the production of hardware and cooling alone, it is crucial to consider and try to minimise the greenhouse gas requirements from the compute itself in order to be sustainable. To this end, we present work to develop further the Python package CATS, the Climate-Aware Task Scheduler (https://github.com/GreenScheduler/cats), which schedules tasks to minimise the total estimated carbon intensity of the electricity grid for the job duration using real-time data from the UK's National Grid ESO API. While Version 1 of the tool, released last summer, was designed for use with the 'at' command hence targeted smaller-scale tasks on local machines, the upcoming Version 2 will integrate with Slurm for application in HPC and HTC. The aspiration is to soon work with systems administrators at volunteer centres to incorporate CATS Version 2 into key UK systems to provide users with the option to intelligently time shift their jobs through use of a 'green' queue or similar. We outline progress towards this goal.
-
-### AI for Green HPC: How Machine Learning is Transforming Energy Efficiency
-**Who:** Fawada Qaiser, Durham University
-
-**Abstract:** As High-Performance Computing (HPC) scales to meet increasing computational demands, energy efficiency has become a critical challenge, both for sustainability and operational costs. Traditional power management techniques, such as static power capping and uniform cooling strategies, often fail to adapt to dynamic workloads, leading to inefficiencies. This talk explores how Artificial Intelligence (AI) and Machine Learning (ML) are revolutionizing energy efficiency in HPC by enabling predictive modelling, reinforcement learning-based optimization, and adaptive workload scheduling.
-
-AI-driven predictive energy models leverage real-time telemetry and historical data to forecast power usage, allowing for proactive energy-saving strategies. Case studies from leading supercomputing facilities highlight how reinforcement learning and neural networks enhance power-aware job scheduling, cooling management, and dynamic power adjustments for CPUs, GPUs, and accelerators. Additionally, ML-driven auto-tuning techniques optimise the performance-energy trade-off in real time, balancing computational efficiency with power consumption.
-
-The session also addresses key research challenges, including the need for high-resolution power monitoring, algorithm scalability, and hardware-software co-design for energy-aware AIHPC integration. The talk provides insights into cutting-edge AI solutions that are driving energyefficient HPC operations, ultimately contributing to greener and more cost-effective computing infrastructures.
 
 ### Driving energy efficiency of operation with wind turbing modelling
 **Who:** Nick Brown, EPCC
