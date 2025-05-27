@@ -24,10 +24,10 @@ Session description: UKRI’s Digital Research Infrastructure programme is suppo
 
 Presenters:
 
-- UNIVERSE-HPC - Neil Chue Hong, EPCC, The University of Edinburgh
+- <a href="https://www.universe-hpc.ac.uk/">UNIVERSE-HPC</a> - Neil Chue Hong, EPCC, The University of Edinburgh
 - CHARTED & DRIFT - Weronika Filinger, EPCC, The University of Edinburgh
-- STEP-UP & SCALE-UP - Jeremy Cohen, Imperial College London
-- CCP-AHC - Eamonn Bell, Durham University
+- <a href="https://step-up.ac.uk/">STEP-UP</a> & SCALE-UP - Jeremy Cohen, Imperial College London
+- <a href="https://www.ccpahc.ac.uk/">CCP-AHC</a> - Eamonn Bell, Durham University
 
 
 ## Keynote: The UK's Digital Research Infrastructure
