@@ -39,9 +39,9 @@ social
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
     Workshop: <a href="workshops.html#computational-biosciences">Computational Biosciences</a> (MCS 3052)
   </td>
-  <td> Keynote: <a href="keynotes.html#cristin-merritt-chief-marketing-officer-alces-flight-ltd">Finding the Fulcrum: Rethinking Supercomputing at Scale</a> (Cristin Merritt)</td>
-  <td> Keynote: <a href="keynotes.html#prof-dr-philipp-neumann">Molecular Simulation in Process Engineering: Impressions from the Era of Exascale Computing and Data Science</a> (Philipp Neumann) </td>
-  <td> Keynote: <a href="keynotes.html#dr-katy-clough-stfc-ernest-rutherford-research-fellow">Challenges and Opportunities in HPC for Numerical Relativity</a> (Katy Clough) </td>
+  <td> Keynote: <a href="keynotes.html#cristin-merritt-chief-marketing-officer-alces-flight-ltd">Finding the Fulcrum: Rethinking Supercomputing at Scale</a> (Cristin Merritt, MCS 3052)</td>
+  <td> Keynote: <a href="keynotes.html#prof-dr-philipp-neumann">Molecular Simulation in Process Engineering: Impressions from the Era of Exascale Computing and Data Science</a> (Philipp Neumann, MCS 3052) </td>
+  <td> Keynote: <a href="keynotes.html#dr-katy-clough-stfc-ernest-rutherford-research-fellow">Challenges and Opportunities in HPC for Numerical Relativity</a> (Katy Clough, MCS 3052) </td>
   <td rowspan=13> <a href="social.html">Join us for our Saturday Social!</a> </td>
 </tr>
 <tr>
