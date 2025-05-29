@@ -78,7 +78,7 @@ social
     Workshop: <a href="workshops.html#computational-biosciences">Computational Biosciences</a> (MCS 3052)
   </td>
   <td> 
-    Meeting: <a href="dri.html">DRI HPC Lab (internal)</a> (MCS 3052) 
+    Meeting: <a href="dri.html">UK CoE for the Characterisation and Co-Design of SHES (internal)</a> (MCS 3052) 
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
     Workshop: <a href="workshops.html#hpc-in-weather-climate-research">HPC in Weather & Climate Research</a> (MCS2068) 
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
@@ -139,7 +139,7 @@ social
      Keynote: <a href="keynotes.html#knepper">The changing shape of science funding in the U.S.</a> (Rich Knepper, MCS0001)
   </td>
   <td> 
-    Symposium: <a href="dri.html">DRI HPC Lab</a> (MCS 3052)
+    Symposium: <a href="dri.html">UK CoE for the Characterisation and Co-Design of SHES</a> (MCS 3052)
     <br /><div style="color:LightGrey;font-size=50%">and</div> 
     Workshop: <a href="workshops.html#hpc-in-weather-climate-research">HPC in Weather & Climate Research</a> (MCS2068) 
     <br /><div style="color:LightGrey;font-size=50%">and</div>

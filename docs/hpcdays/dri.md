@@ -1,12 +1,17 @@
 # Digital Research Infrastructure
 
-## DRI HPC Lab
+## The UK Centre of Excellence for the Characterisation and Co-Design of Systems, Hardware and Enabling Software
+
 
 **Convener:**  
 **Slot:** Wednesday, 15:30-16:15\
 **Location:** MCS 3052
 
-This section will ...
+Large-scale compute, including HPC, has previously often been treated as "buy-and-forget"; once a system has been purchased and installed, it remains relatively static throughout its life with few, if any, tweaks made.  However this does not deliver the most cost effective service, and this session explores how scientific output capability can be improved using a continuous improvement process with these systems, dynamically adapting and characterising them to suit ever-changing workloads and demands.
+
+The initial design of these systems is also key to maximising the return on investment.  Having an up-to-date knowledge on new and novel technologies allows for insightful design of new large-scale compute systems.  A UK Centre of Excellence for the characterisation and co-design of systems, hardware and enabling software is therefore required to ensure that informed decisions can be made.
+
+This session describes the progress made towards such a Centre of Excellence.
 
 
 *Note: There's an internal preparation meeting on Wednesday, 11:00-12:30. It is by invitation only.*
