@@ -12,6 +12,7 @@ keynotes
 workshops
 contribute
 social
+facilities
 ```
 
 ![HPCDays](../images/HPC-days-pic.png)
